@@ -1,0 +1,5029 @@
+"date","area_name","value"
+"2020-01-03","Scotland",2
+"2020-01-04","Scotland",384
+"2020-01-05","Scotland",368
+"2020-01-06","Scotland",38
+"2020-01-07","Scotland",11
+"2020-01-08","Scotland",0
+"2020-01-09","Scotland",0
+"2020-01-10","Scotland",0
+"2020-01-11","Scotland",0
+"2020-01-11","Northern Ireland",1
+"2020-01-12","Scotland",0
+"2020-01-12","Northern Ireland",0
+"2020-01-13","Scotland",0
+"2020-01-13","Northern Ireland",0
+"2020-01-14","Northern Ireland",0
+"2020-01-14","Scotland",0
+"2020-01-15","Scotland",0
+"2020-01-15","Northern Ireland",0
+"2020-01-16","Scotland",0
+"2020-01-16","Northern Ireland",0
+"2020-01-17","Scotland",0
+"2020-01-17","Northern Ireland",0
+"2020-01-18","Scotland",0
+"2020-01-18","Northern Ireland",0
+"2020-01-19","Northern Ireland",0
+"2020-01-19","Scotland",0
+"2020-01-20","Scotland",0
+"2020-01-20","Northern Ireland",0
+"2020-01-21","Northern Ireland",0
+"2020-01-21","Scotland",0
+"2020-01-22","Scotland",0
+"2020-01-22","Northern Ireland",0
+"2020-01-23","Northern Ireland",0
+"2020-01-23","Scotland",0
+"2020-01-24","Scotland",0
+"2020-01-24","Northern Ireland",0
+"2020-01-25","Northern Ireland",0
+"2020-01-25","Scotland",0
+"2020-01-26","Scotland",0
+"2020-01-26","Northern Ireland",0
+"2020-01-27","Northern Ireland",0
+"2020-01-27","Scotland",0
+"2020-01-28","Scotland",0
+"2020-01-28","Northern Ireland",0
+"2020-01-29","Northern Ireland",0
+"2020-01-29","Scotland",0
+"2020-01-30","Scotland",0
+"2020-01-30","Northern Ireland",0
+"2020-01-30","England",1
+"2020-01-31","Northern Ireland",0
+"2020-01-31","England",0
+"2020-01-31","Scotland",0
+"2020-02-01","Scotland",0
+"2020-02-01","Northern Ireland",0
+"2020-02-01","England",0
+"2020-02-02","England",1
+"2020-02-02","Northern Ireland",0
+"2020-02-02","Scotland",0
+"2020-02-03","Scotland",1
+"2020-02-03","England",18
+"2020-02-03","Northern Ireland",0
+"2020-02-04","England",0
+"2020-02-04","Northern Ireland",0
+"2020-02-04","Scotland",355
+"2020-02-05","Scotland",217
+"2020-02-05","Northern Ireland",0
+"2020-02-05","England",1
+"2020-02-06","England",0
+"2020-02-06","Northern Ireland",0
+"2020-02-06","Scotland",45
+"2020-02-07","Scotland",13
+"2020-02-07","Northern Ireland",0
+"2020-02-07","England",0
+"2020-02-08","England",3
+"2020-02-08","Northern Ireland",0
+"2020-02-08","Scotland",0
+"2020-02-09","Scotland",0
+"2020-02-09","Northern Ireland",0
+"2020-02-09","England",1
+"2020-02-10","England",1
+"2020-02-10","Northern Ireland",0
+"2020-02-10","Scotland",0
+"2020-02-11","Scotland",0
+"2020-02-11","Northern Ireland",0
+"2020-02-11","England",4
+"2020-02-12","England",1
+"2020-02-12","Northern Ireland",0
+"2020-02-12","Scotland",0
+"2020-02-13","Scotland",0
+"2020-02-13","England",1
+"2020-02-13","Northern Ireland",0
+"2020-02-14","Northern Ireland",0
+"2020-02-14","England",0
+"2020-02-14","Scotland",0
+"2020-02-15","Scotland",0
+"2020-02-15","Northern Ireland",0
+"2020-02-15","England",0
+"2020-02-16","Northern Ireland",0
+"2020-02-16","England",0
+"2020-02-16","Scotland",0
+"2020-02-17","Scotland",0
+"2020-02-17","Northern Ireland",0
+"2020-02-17","England",1
+"2020-02-18","Northern Ireland",0
+"2020-02-18","England",0
+"2020-02-18","Scotland",0
+"2020-02-19","Scotland",0
+"2020-02-19","Northern Ireland",0
+"2020-02-19","England",0
+"2020-02-20","England",0
+"2020-02-20","Northern Ireland",0
+"2020-02-20","Scotland",0
+"2020-02-21","Scotland",0
+"2020-02-21","Northern Ireland",0
+"2020-02-21","England",2
+"2020-02-22","England",0
+"2020-02-22","Northern Ireland",0
+"2020-02-22","Scotland",0
+"2020-02-23","Scotland",0
+"2020-02-23","England",6
+"2020-02-23","Northern Ireland",0
+"2020-02-24","Northern Ireland",0
+"2020-02-24","England",2
+"2020-02-24","Scotland",0
+"2020-02-25","Scotland",0
+"2020-02-25","Northern Ireland",0
+"2020-02-25","England",3
+"2020-02-26","Northern Ireland",1
+"2020-02-26","England",1
+"2020-02-26","Scotland",0
+"2020-02-27","Scotland",0
+"2020-02-27","Northern Ireland",0
+"2020-02-27","England",7
+"2020-02-27","Wales",1
+"2020-02-28","England",11
+"2020-02-28","Northern Ireland",0
+"2020-02-28","Wales",0
+"2020-02-28","Scotland",1
+"2020-02-29","Scotland",0
+"2020-02-29","Northern Ireland",0
+"2020-02-29","Wales",0
+"2020-02-29","England",4
+"2020-03-01","Northern Ireland",0
+"2020-03-01","England",18
+"2020-03-01","Wales",0
+"2020-03-01","Scotland",2
+"2020-03-02","Scotland",1
+"2020-03-02","Wales",0
+"2020-03-02","Northern Ireland",0
+"2020-03-02","England",40
+"2020-03-03","England",53
+"2020-03-03","Wales",0
+"2020-03-03","Northern Ireland",2
+"2020-03-03","Scotland",3
+"2020-03-04","Scotland",6
+"2020-03-04","England",49
+"2020-03-04","Wales",1
+"2020-03-04","Northern Ireland",0
+"2020-03-05","Wales",0
+"2020-03-05","Northern Ireland",1
+"2020-03-05","England",46
+"2020-03-05","Scotland",2
+"2020-03-06","Scotland",6
+"2020-03-06","Wales",0
+"2020-03-06","Northern Ireland",3
+"2020-03-06","England",74
+"2020-03-07","Northern Ireland",5
+"2020-03-07","England",55
+"2020-03-07","Wales",2
+"2020-03-07","Scotland",6
+"2020-03-08","Scotland",3
+"2020-03-08","Wales",1
+"2020-03-08","Northern Ireland",1
+"2020-03-08","England",50
+"2020-03-09","England",127
+"2020-03-09","Wales",3
+"2020-03-09","Northern Ireland",2
+"2020-03-09","Scotland",16
+"2020-03-10","Scotland",21
+"2020-03-10","England",229
+"2020-03-10","Northern Ireland",3
+"2020-03-10","Wales",12
+"2020-03-11","Wales",14
+"2020-03-11","Northern Ireland",6
+"2020-03-11","England",358
+"2020-03-11","Scotland",25
+"2020-03-12","Scotland",38
+"2020-03-12","Northern Ireland",0
+"2020-03-12","England",421
+"2020-03-12","Wales",25
+"2020-03-13","Northern Ireland",0
+"2020-03-13","England",401
+"2020-03-13","Wales",29
+"2020-03-13","Scotland",48
+"2020-03-14","Scotland",19
+"2020-03-14","England",315
+"2020-03-14","Wales",18
+"2020-03-14","Northern Ireland",0
+"2020-03-15","Wales",31
+"2020-03-15","Northern Ireland",0
+"2020-03-15","England",398
+"2020-03-15","Scotland",12
+"2020-03-16","Scotland",21
+"2020-03-16","Northern Ireland",0
+"2020-03-16","England",552
+"2020-03-16","Wales",29
+"2020-03-17","Wales",57
+"2020-03-17","Northern Ireland",0
+"2020-03-17","England",683
+"2020-03-17","Scotland",43
+"2020-03-18","Scotland",41
+"2020-03-18","Northern Ireland",0
+"2020-03-18","Wales",29
+"2020-03-18","England",910
+"2020-03-19","Wales",58
+"2020-03-19","Northern Ireland",0
+"2020-03-19","England",932
+"2020-03-19","Scotland",50
+"2020-03-20","Scotland",84
+"2020-03-20","Northern Ireland",0
+"2020-03-20","Wales",73
+"2020-03-20","England",1096
+"2020-03-21","England",1040
+"2020-03-21","Wales",76
+"2020-03-21","Northern Ireland",0
+"2020-03-21","Scotland",67
+"2020-03-22","Scotland",74
+"2020-03-22","Northern Ireland",0
+"2020-03-22","Wales",75
+"2020-03-22","England",1212
+"2020-03-23","England",2010
+"2020-03-23","Wales",134
+"2020-03-23","Northern Ireland",7
+"2020-03-23","Scotland",138
+"2020-03-24","Scotland",167
+"2020-03-24","England",2041
+"2020-03-24","Wales",140
+"2020-03-24","Northern Ireland",5
+"2020-03-25","England",2284
+"2020-03-25","Wales",190
+"2020-03-25","Northern Ireland",4
+"2020-03-25","Scotland",188
+"2020-03-26","Scotland",223
+"2020-03-26","Northern Ireland",6
+"2020-03-26","Wales",177
+"2020-03-26","England",2633
+"2020-03-27","England",2673
+"2020-03-27","Wales",193
+"2020-03-27","Northern Ireland",15
+"2020-03-27","Scotland",274
+"2020-03-28","Scotland",204
+"2020-03-28","England",2379
+"2020-03-28","Northern Ireland",24
+"2020-03-28","Wales",167
+"2020-03-29","England",2449
+"2020-03-29","Wales",159
+"2020-03-29","Northern Ireland",13
+"2020-03-29","Scotland",197
+"2020-03-30","Scotland",317
+"2020-03-30","Wales",343
+"2020-03-30","Northern Ireland",21
+"2020-03-30","England",3514
+"2020-03-31","Wales",278
+"2020-03-31","England",3816
+"2020-03-31","Northern Ireland",28
+"2020-03-31","Scotland",341
+"2020-04-01","Scotland",389
+"2020-04-01","Northern Ireland",25
+"2020-04-01","England",4150
+"2020-04-01","Wales",327
+"2020-04-02","England",4097
+"2020-04-02","Wales",337
+"2020-04-02","Northern Ireland",39
+"2020-04-02","Scotland",351
+"2020-04-03","Scotland",381
+"2020-04-03","Wales",330
+"2020-04-03","England",4102
+"2020-04-03","Northern Ireland",40
+"2020-04-04","Northern Ireland",29
+"2020-04-04","England",3405
+"2020-04-04","Wales",281
+"2020-04-04","Scotland",261
+"2020-04-05","Scotland",225
+"2020-04-05","Wales",224
+"2020-04-05","Northern Ireland",13
+"2020-04-05","England",3094
+"2020-04-06","Northern Ireland",79
+"2020-04-06","England",4407
+"2020-04-06","Wales",383
+"2020-04-06","Scotland",404
+"2020-04-07","Scotland",352
+"2020-04-07","Wales",386
+"2020-04-07","Northern Ireland",134
+"2020-04-07","England",4605
+"2020-04-08","England",4315
+"2020-04-08","Northern Ireland",102
+"2020-04-08","Wales",386
+"2020-04-08","Scotland",343
+"2020-04-09","Scotland",304
+"2020-04-09","England",4076
+"2020-04-09","Wales",391
+"2020-04-09","Northern Ireland",104
+"2020-04-10","Northern Ireland",100
+"2020-04-10","Wales",308
+"2020-04-10","England",3590
+"2020-04-10","Scotland",329
+"2020-04-11","England",3085
+"2020-04-11","Scotland",185
+"2020-04-11","Wales",247
+"2020-04-11","Northern Ireland",68
+"2020-04-12","Wales",248
+"2020-04-12","Northern Ireland",81
+"2020-04-12","England",2958
+"2020-04-12","Scotland",220
+"2020-04-13","Scotland",359
+"2020-04-13","England",3463
+"2020-04-13","Wales",273
+"2020-04-13","Northern Ireland",108
+"2020-04-14","Wales",319
+"2020-04-14","Northern Ireland",102
+"2020-04-14","Scotland",346
+"2020-04-14","England",3568
+"2020-04-15","Scotland",331
+"2020-04-15","England",4240
+"2020-04-15","Northern Ireland",138
+"2020-04-15","Wales",361
+"2020-04-16","Wales",363
+"2020-04-16","Northern Ireland",141
+"2020-04-16","England",4360
+"2020-04-16","Scotland",428
+"2020-04-17","Scotland",394
+"2020-04-17","England",4088
+"2020-04-17","Northern Ireland",171
+"2020-04-17","Wales",324
+"2020-04-18","Wales",248
+"2020-04-18","Northern Ireland",90
+"2020-04-18","England",4142
+"2020-04-18","Scotland",264
+"2020-04-19","England",3494
+"2020-04-19","Scotland",159
+"2020-04-19","Wales",181
+"2020-04-19","Northern Ireland",47
+"2020-04-20","Wales",281
+"2020-04-20","Northern Ireland",114
+"2020-04-20","Scotland",348
+"2020-04-20","England",3698
+"2020-04-21","England",3996
+"2020-04-21","Scotland",400
+"2020-04-21","Wales",259
+"2020-04-21","Northern Ireland",141
+"2020-04-22","Wales",253
+"2020-04-22","Northern Ireland",112
+"2020-04-22","Scotland",340
+"2020-04-22","England",4812
+"2020-04-23","England",4574
+"2020-04-23","Scotland",314
+"2020-04-23","Northern Ireland",78
+"2020-04-23","Wales",200
+"2020-04-24","Northern Ireland",90
+"2020-04-24","Wales",213
+"2020-04-24","Scotland",306
+"2020-04-24","England",4352
+"2020-04-25","England",3381
+"2020-04-25","Scotland",184
+"2020-04-25","Wales",137
+"2020-04-25","Northern Ireland",55
+"2020-04-26","Northern Ireland",47
+"2020-04-26","Wales",121
+"2020-04-26","Scotland",171
+"2020-04-26","England",3137
+"2020-04-27","England",4056
+"2020-04-27","Scotland",434
+"2020-04-27","Wales",173
+"2020-04-27","Northern Ireland",76
+"2020-04-28","Northern Ireland",71
+"2020-04-28","Wales",152
+"2020-04-28","England",4113
+"2020-04-28","Scotland",383
+"2020-04-29","Scotland",431
+"2020-04-29","England",4737
+"2020-04-29","Northern Ireland",89
+"2020-04-29","Wales",176
+"2020-04-30","Northern Ireland",110
+"2020-04-30","Wales",200
+"2020-04-30","England",4314
+"2020-04-30","Scotland",337
+"2020-05-01","England",4109
+"2020-05-01","Scotland",375
+"2020-05-01","Wales",177
+"2020-05-01","Northern Ireland",105
+"2020-05-02","Northern Ireland",95
+"2020-05-02","Wales",179
+"2020-05-02","Scotland",222
+"2020-05-02","England",2762
+"2020-05-03","England",2648
+"2020-05-03","Scotland",188
+"2020-05-03","Wales",108
+"2020-05-03","Northern Ireland",58
+"2020-05-04","Northern Ireland",77
+"2020-05-04","Wales",141
+"2020-05-04","Scotland",329
+"2020-05-04","England",2851
+"2020-05-05","Scotland",288
+"2020-05-05","England",3148
+"2020-05-05","Wales",175
+"2020-05-05","Northern Ireland",75
+"2020-05-06","Northern Ireland",90
+"2020-05-06","Wales",171
+"2020-05-06","Scotland",307
+"2020-05-06","England",3264
+"2020-05-07","England",3205
+"2020-05-07","Scotland",297
+"2020-05-07","Northern Ireland",109
+"2020-05-07","Wales",176
+"2020-05-08","Wales",115
+"2020-05-08","Northern Ireland",69
+"2020-05-08","Scotland",258
+"2020-05-08","England",2622
+"2020-05-09","Scotland",180
+"2020-05-09","England",1797
+"2020-05-09","Northern Ireland",57
+"2020-05-09","Wales",136
+"2020-05-10","Northern Ireland",64
+"2020-05-10","Wales",107
+"2020-05-10","England",2013
+"2020-05-10","Scotland",153
+"2020-05-11","Scotland",265
+"2020-05-11","England",3088
+"2020-05-11","Northern Ireland",81
+"2020-05-11","Wales",178
+"2020-05-12","Northern Ireland",90
+"2020-05-12","Wales",150
+"2020-05-12","Scotland",230
+"2020-05-12","England",2940
+"2020-05-13","Scotland",198
+"2020-05-13","England",2899
+"2020-05-13","Wales",154
+"2020-05-13","Northern Ireland",79
+"2020-05-14","Wales",132
+"2020-05-14","Northern Ireland",65
+"2020-05-14","England",2222
+"2020-05-14","Scotland",211
+"2020-05-15","England",2145
+"2020-05-15","Scotland",151
+"2020-05-15","Wales",180
+"2020-05-15","Northern Ireland",54
+"2020-05-16","Northern Ireland",32
+"2020-05-16","Wales",166
+"2020-05-16","Scotland",103
+"2020-05-16","England",1781
+"2020-05-17","Scotland",93
+"2020-05-17","England",1593
+"2020-05-17","Northern Ireland",34
+"2020-05-17","Wales",117
+"2020-05-18","Northern Ireland",45
+"2020-05-18","Wales",169
+"2020-05-18","Scotland",141
+"2020-05-18","England",2226
+"2020-05-19","Scotland",182
+"2020-05-19","England",2602
+"2020-05-19","Wales",212
+"2020-05-19","Northern Ireland",67
+"2020-05-20","Wales",166
+"2020-05-20","Northern Ireland",73
+"2020-05-20","England",2359
+"2020-05-20","Scotland",121
+"2020-05-21","England",2277
+"2020-05-21","Scotland",111
+"2020-05-21","Northern Ireland",47
+"2020-05-21","Wales",132
+"2020-05-22","Northern Ireland",32
+"2020-05-22","Wales",136
+"2020-05-22","Scotland",91
+"2020-05-22","England",1798
+"2020-05-23","England",1309
+"2020-05-23","Scotland",50
+"2020-05-23","Wales",122
+"2020-05-23","Northern Ireland",51
+"2020-05-24","Northern Ireland",31
+"2020-05-24","Wales",83
+"2020-05-24","Scotland",53
+"2020-05-24","England",1206
+"2020-05-25","Scotland",96
+"2020-05-25","England",1389
+"2020-05-25","Wales",106
+"2020-05-25","Northern Ireland",34
+"2020-05-26","Wales",102
+"2020-05-26","Northern Ireland",29
+"2020-05-26","England",1461
+"2020-05-26","Scotland",478
+"2020-05-27","England",1616
+"2020-05-27","Scotland",66
+"2020-05-27","Northern Ireland",25
+"2020-05-27","Wales",118
+"2020-05-28","Northern Ireland",25
+"2020-05-28","Wales",102
+"2020-05-28","Scotland",55
+"2020-05-28","England",1575
+"2020-05-29","England",1374
+"2020-05-29","Scotland",30
+"2020-05-29","Wales",106
+"2020-05-29","Northern Ireland",21
+"2020-05-30","Wales",70
+"2020-05-30","Northern Ireland",12
+"2020-05-30","England",1010
+"2020-05-30","Scotland",40
+"2020-05-31","England",984
+"2020-05-31","Scotland",23
+"2020-05-31","Wales",46
+"2020-05-31","Northern Ireland",27
+"2020-06-01","Wales",64
+"2020-06-01","Northern Ireland",18
+"2020-06-01","England",1319
+"2020-06-01","Scotland",38
+"2020-06-02","England",1365
+"2020-06-02","Scotland",46
+"2020-06-02","Northern Ireland",10
+"2020-06-02","Wales",71
+"2020-06-03","Northern Ireland",10
+"2020-06-03","Wales",74
+"2020-06-03","England",1251
+"2020-06-03","Scotland",34
+"2020-06-04","Scotland",35
+"2020-06-04","England",1147
+"2020-06-04","Northern Ireland",8
+"2020-06-04","Wales",59
+"2020-06-05","Wales",55
+"2020-06-05","Northern Ireland",24
+"2020-06-05","England",1020
+"2020-06-05","Scotland",24
+"2020-06-06","England",723
+"2020-06-06","Scotland",22
+"2020-06-06","Wales",51
+"2020-06-06","Northern Ireland",8
+"2020-06-07","Wales",34
+"2020-06-07","Northern Ireland",3
+"2020-06-07","England",668
+"2020-06-07","Scotland",17
+"2020-06-08","Scotland",18
+"2020-06-08","England",990
+"2020-06-08","Wales",74
+"2020-06-08","Northern Ireland",17
+"2020-06-09","Wales",62
+"2020-06-09","Northern Ireland",10
+"2020-06-09","England",1066
+"2020-06-09","Scotland",27
+"2020-06-10","England",1086
+"2020-06-10","Scotland",29
+"2020-06-10","Northern Ireland",14
+"2020-06-10","Wales",67
+"2020-06-11","Northern Ireland",10
+"2020-06-11","Wales",66
+"2020-06-11","England",915
+"2020-06-11","Scotland",22
+"2020-06-12","England",938
+"2020-06-12","Scotland",30
+"2020-06-12","Northern Ireland",10
+"2020-06-12","Wales",75
+"2020-06-13","Wales",66
+"2020-06-13","Northern Ireland",13
+"2020-06-13","Scotland",22
+"2020-06-13","England",785
+"2020-06-14","England",752
+"2020-06-14","Scotland",13
+"2020-06-14","Northern Ireland",7
+"2020-06-14","Wales",54
+"2020-06-15","Wales",66
+"2020-06-15","Northern Ireland",14
+"2020-06-15","Scotland",21
+"2020-06-15","England",944
+"2020-06-16","England",996
+"2020-06-16","Scotland",17
+"2020-06-16","Wales",82
+"2020-06-16","Northern Ireland",8
+"2020-06-17","Wales",64
+"2020-06-17","Northern Ireland",6
+"2020-06-17","Scotland",33
+"2020-06-17","England",914
+"2020-06-18","Scotland",14
+"2020-06-18","England",938
+"2020-06-18","Wales",62
+"2020-06-18","Northern Ireland",8
+"2020-06-19","Northern Ireland",11
+"2020-06-19","Wales",140
+"2020-06-19","England",818
+"2020-06-19","Scotland",24
+"2020-06-20","England",626
+"2020-06-20","Scotland",6
+"2020-06-20","Wales",47
+"2020-06-20","Northern Ireland",4
+"2020-06-21","Northern Ireland",1
+"2020-06-21","Wales",76
+"2020-06-21","Scotland",9
+"2020-06-21","England",550
+"2020-06-22","Scotland",10
+"2020-06-22","England",821
+"2020-06-22","Northern Ireland",2
+"2020-06-22","Wales",66
+"2020-06-23","Wales",131
+"2020-06-23","Northern Ireland",5
+"2020-06-23","Scotland",20
+"2020-06-23","England",727
+"2020-06-24","England",732
+"2020-06-24","Scotland",8
+"2020-06-24","Wales",37
+"2020-06-24","Northern Ireland",0
+"2020-06-25","Northern Ireland",4
+"2020-06-25","Wales",60
+"2020-06-25","Scotland",19
+"2020-06-25","England",643
+"2020-06-26","Scotland",6
+"2020-06-26","England",640
+"2020-06-26","Wales",19
+"2020-06-26","Northern Ireland",1
+"2020-06-27","Northern Ireland",3
+"2020-06-27","Wales",140
+"2020-06-27","England",506
+"2020-06-27","Scotland",4
+"2020-06-28","England",413
+"2020-06-28","Scotland",3
+"2020-06-28","Wales",28
+"2020-06-28","Northern Ireland",5
+"2020-06-29","Northern Ireland",1
+"2020-06-29","Wales",43
+"2020-06-29","Scotland",14
+"2020-06-29","England",666
+"2020-06-30","England",578
+"2020-06-30","Scotland",8
+"2020-06-30","Northern Ireland",2
+"2020-06-30","Wales",35
+"2020-07-01","Wales",27
+"2020-07-01","Northern Ireland",7
+"2020-07-01","England",607
+"2020-07-01","Scotland",11
+"2020-07-02","Scotland",13
+"2020-07-02","England",561
+"2020-07-02","Northern Ireland",4
+"2020-07-02","Wales",28
+"2020-07-03","Northern Ireland",6
+"2020-07-03","Wales",19
+"2020-07-03","Scotland",7
+"2020-07-03","England",536
+"2020-07-04","Scotland",5
+"2020-07-04","England",385
+"2020-07-04","Northern Ireland",1
+"2020-07-04","Wales",8
+"2020-07-05","Northern Ireland",0
+"2020-07-05","Wales",12
+"2020-07-05","England",544
+"2020-07-05","Scotland",2
+"2020-07-06","England",664
+"2020-07-06","Scotland",8
+"2020-07-06","Northern Ireland",7
+"2020-07-06","Wales",35
+"2020-07-07","Wales",29
+"2020-07-07","Northern Ireland",4
+"2020-07-07","England",565
+"2020-07-07","Scotland",11
+"2020-07-08","England",682
+"2020-07-08","Scotland",10
+"2020-07-08","Wales",14
+"2020-07-08","Northern Ireland",7
+"2020-07-09","Wales",22
+"2020-07-09","Northern Ireland",4
+"2020-07-09","England",688
+"2020-07-09","Scotland",8
+"2020-07-10","England",524
+"2020-07-10","Scotland",12
+"2020-07-10","Northern Ireland",3
+"2020-07-10","Wales",29
+"2020-07-11","Wales",12
+"2020-07-11","Northern Ireland",5
+"2020-07-11","Scotland",9
+"2020-07-11","England",432
+"2020-07-12","England",351
+"2020-07-12","Scotland",2
+"2020-07-12","Northern Ireland",3
+"2020-07-12","Wales",10
+"2020-07-13","Wales",24
+"2020-07-13","Northern Ireland",3
+"2020-07-13","Scotland",19
+"2020-07-13","England",694
+"2020-07-14","England",661
+"2020-07-14","Scotland",10
+"2020-07-14","Wales",23
+"2020-07-14","Northern Ireland",11
+"2020-07-15","Northern Ireland",17
+"2020-07-15","Wales",18
+"2020-07-15","Scotland",16
+"2020-07-15","England",726
+"2020-07-16","England",644
+"2020-07-16","Scotland",22
+"2020-07-16","Northern Ireland",21
+"2020-07-16","Wales",25
+"2020-07-17","Northern Ireland",9
+"2020-07-17","Wales",17
+"2020-07-17","England",548
+"2020-07-17","Scotland",8
+"2020-07-18","England",473
+"2020-07-18","Scotland",14
+"2020-07-18","Northern Ireland",7
+"2020-07-18","Wales",11
+"2020-07-19","Wales",10
+"2020-07-19","Northern Ireland",2
+"2020-07-19","Scotland",17
+"2020-07-19","England",419
+"2020-07-20","England",769
+"2020-07-20","Scotland",14
+"2020-07-20","Wales",43
+"2020-07-20","Northern Ireland",4
+"2020-07-21","Northern Ireland",11
+"2020-07-21","Wales",61
+"2020-07-21","Scotland",19
+"2020-07-21","England",697
+"2020-07-22","England",764
+"2020-07-22","Scotland",18
+"2020-07-22","Northern Ireland",9
+"2020-07-22","Wales",25
+"2020-07-23","Wales",31
+"2020-07-23","Northern Ireland",13
+"2020-07-23","Scotland",23
+"2020-07-23","England",741
+"2020-07-24","Scotland",11
+"2020-07-24","England",720
+"2020-07-24","Northern Ireland",13
+"2020-07-24","Wales",30
+"2020-07-25","Wales",24
+"2020-07-25","Northern Ireland",4
+"2020-07-25","Scotland",3
+"2020-07-25","England",499
+"2020-07-26","Scotland",7
+"2020-07-26","England",518
+"2020-07-26","Wales",35
+"2020-07-26","Northern Ireland",3
+"2020-07-27","Northern Ireland",9
+"2020-07-27","Wales",23
+"2020-07-27","Scotland",13
+"2020-07-27","England",824
+"2020-07-28","England",796
+"2020-07-28","Scotland",24
+"2020-07-28","Northern Ireland",9
+"2020-07-28","Wales",27
+"2020-07-29","Wales",27
+"2020-07-29","Northern Ireland",11
+"2020-07-29","England",994
+"2020-07-29","Scotland",30
+"2020-07-30","England",879
+"2020-07-30","Scotland",28
+"2020-07-30","Wales",30
+"2020-07-30","Northern Ireland",9
+"2020-07-31","Northern Ireland",16
+"2020-07-31","Wales",16
+"2020-07-31","Scotland",22
+"2020-07-31","England",644
+"2020-08-01","England",508
+"2020-08-01","Scotland",23
+"2020-08-01","Wales",16
+"2020-08-01","Northern Ireland",12
+"2020-08-02","Northern Ireland",13
+"2020-08-02","Wales",14
+"2020-08-02","Scotland",19
+"2020-08-02","England",518
+"2020-08-03","Scotland",60
+"2020-08-03","England",963
+"2020-08-03","Northern Ireland",15
+"2020-08-03","Wales",22
+"2020-08-04","Wales",24
+"2020-08-04","Northern Ireland",20
+"2020-08-04","England",965
+"2020-08-04","Scotland",57
+"2020-08-05","England",973
+"2020-08-05","Scotland",65
+"2020-08-05","Wales",22
+"2020-08-05","Northern Ireland",31
+"2020-08-06","Northern Ireland",15
+"2020-08-06","Wales",22
+"2020-08-06","England",1005
+"2020-08-06","Scotland",63
+"2020-08-07","Scotland",46
+"2020-08-07","England",892
+"2020-08-07","Northern Ireland",19
+"2020-08-07","Wales",16
+"2020-08-08","Northern Ireland",30
+"2020-08-08","Wales",5
+"2020-08-08","England",648
+"2020-08-08","Scotland",27
+"2020-08-09","Scotland",26
+"2020-08-09","England",569
+"2020-08-09","Northern Ireland",24
+"2020-08-09","Wales",8
+"2020-08-10","Wales",19
+"2020-08-10","Northern Ireland",47
+"2020-08-10","England",1375
+"2020-08-10","Scotland",58
+"2020-08-11","Scotland",65
+"2020-08-11","England",1247
+"2020-08-11","Wales",27
+"2020-08-11","Northern Ireland",39
+"2020-08-12","Wales",24
+"2020-08-12","Northern Ireland",44
+"2020-08-12","England",1126
+"2020-08-12","Scotland",48
+"2020-08-13","Scotland",53
+"2020-08-13","England",1036
+"2020-08-13","Wales",17
+"2020-08-13","Northern Ireland",50
+"2020-08-14","Northern Ireland",58
+"2020-08-14","Wales",17
+"2020-08-14","Scotland",51
+"2020-08-14","England",1059
+"2020-08-15","England",656
+"2020-08-15","Scotland",21
+"2020-08-15","Northern Ireland",27
+"2020-08-15","Wales",10
+"2020-08-16","Wales",18
+"2020-08-16","Northern Ireland",20
+"2020-08-16","England",534
+"2020-08-16","Scotland",30
+"2020-08-17","Scotland",72
+"2020-08-17","England",1159
+"2020-08-17","Wales",19
+"2020-08-17","Northern Ireland",48
+"2020-08-18","Northern Ireland",45
+"2020-08-18","Wales",38
+"2020-08-18","Scotland",78
+"2020-08-18","England",955
+"2020-08-19","Scotland",91
+"2020-08-19","England",1109
+"2020-08-19","Northern Ireland",47
+"2020-08-19","Wales",35
+"2020-08-20","Wales",31
+"2020-08-20","Northern Ireland",72
+"2020-08-20","Scotland",141
+"2020-08-20","England",1254
+"2020-08-21","England",1031
+"2020-08-21","Scotland",90
+"2020-08-21","Northern Ireland",74
+"2020-08-21","Wales",23
+"2020-08-22","Wales",19
+"2020-08-22","Northern Ireland",44
+"2020-08-22","Scotland",47
+"2020-08-22","England",732
+"2020-08-23","Scotland",65
+"2020-08-23","England",704
+"2020-08-23","Wales",11
+"2020-08-23","Northern Ireland",51
+"2020-08-24","Wales",36
+"2020-08-24","Northern Ireland",48
+"2020-08-24","Scotland",60
+"2020-08-24","England",1156
+"2020-08-25","England",1085
+"2020-08-25","Scotland",71
+"2020-08-25","Wales",50
+"2020-08-25","Northern Ireland",64
+"2020-08-26","Northern Ireland",65
+"2020-08-26","Wales",44
+"2020-08-26","Scotland",98
+"2020-08-26","England",1181
+"2020-08-27","Scotland",100
+"2020-08-27","England",1356
+"2020-08-27","Wales",50
+"2020-08-27","Northern Ireland",85
+"2020-08-28","Wales",52
+"2020-08-28","Northern Ireland",81
+"2020-08-28","Scotland",104
+"2020-08-28","England",1395
+"2020-08-29","England",1051
+"2020-08-29","Scotland",95
+"2020-08-29","Wales",44
+"2020-08-29","Northern Ireland",40
+"2020-08-30","Northern Ireland",36
+"2020-08-30","Wales",46
+"2020-08-30","England",987
+"2020-08-30","Scotland",102
+"2020-08-31","Scotland",144
+"2020-08-31","England",1279
+"2020-08-31","Wales",44
+"2020-08-31","Northern Ireland",46
+"2020-09-01","Northern Ireland",69
+"2020-09-01","Wales",58
+"2020-09-01","England",1962
+"2020-09-01","Scotland",199
+"2020-09-02","Scotland",192
+"2020-09-02","England",2696
+"2020-09-02","Northern Ireland",94
+"2020-09-02","Wales",95
+"2020-09-03","Wales",126
+"2020-09-03","Northern Ireland",109
+"2020-09-03","England",2716
+"2020-09-03","Scotland",201
+"2020-09-04","Scotland",171
+"2020-09-04","England",2637
+"2020-09-04","Wales",149
+"2020-09-04","Northern Ireland",135
+"2020-09-05","Northern Ireland",87
+"2020-09-05","Wales",128
+"2020-09-05","England",2200
+"2020-09-05","Scotland",136
+"2020-09-06","England",2079
+"2020-09-06","Scotland",153
+"2020-09-06","Wales",131
+"2020-09-06","Northern Ireland",102
+"2020-09-07","Wales",159
+"2020-09-07","Northern Ireland",74
+"2020-09-07","England",3530
+"2020-09-07","Scotland",168
+"2020-09-08","Scotland",104
+"2020-09-08","England",3071
+"2020-09-08","Northern Ireland",52
+"2020-09-08","Wales",143
+"2020-09-09","Northern Ireland",92
+"2020-09-09","Wales",158
+"2020-09-09","Scotland",222
+"2020-09-09","England",2893
+"2020-09-10","England",3143
+"2020-09-10","Scotland",216
+"2020-09-10","Wales",186
+"2020-09-10","Northern Ireland",83
+"2020-09-11","Wales",145
+"2020-09-11","Northern Ireland",76
+"2020-09-11","Scotland",210
+"2020-09-11","England",2893
+"2020-09-12","Scotland",208
+"2020-09-12","England",2224
+"2020-09-12","Northern Ireland",98
+"2020-09-12","Wales",140
+"2020-09-13","Northern Ireland",100
+"2020-09-13","Wales",164
+"2020-09-13","England",1722
+"2020-09-13","Scotland",168
+"2020-09-14","England",2941
+"2020-09-14","Scotland",177
+"2020-09-14","Northern Ireland",118
+"2020-09-14","Wales",192
+"2020-09-15","Wales",164
+"2020-09-15","Northern Ireland",103
+"2020-09-15","Scotland",227
+"2020-09-15","England",3057
+"2020-09-16","Scotland",269
+"2020-09-16","England",3778
+"2020-09-16","Northern Ireland",145
+"2020-09-16","Wales",207
+"2020-09-17","Northern Ireland",181
+"2020-09-17","Wales",261
+"2020-09-17","England",3979
+"2020-09-17","Scotland",254
+"2020-09-18","England",4290
+"2020-09-18","Scotland",269
+"2020-09-18","Wales",246
+"2020-09-18","Northern Ireland",168
+"2020-09-19","Wales",280
+"2020-09-19","Northern Ireland",162
+"2020-09-19","England",4215
+"2020-09-19","Scotland",232
+"2020-09-20","England",4652
+"2020-09-20","Scotland",315
+"2020-09-20","Northern Ireland",121
+"2020-09-20","Wales",252
+"2020-09-21","Wales",312
+"2020-09-21","Northern Ireland",133
+"2020-09-21","England",4727
+"2020-09-21","Scotland",455
+"2020-09-22","England",5400
+"2020-09-22","Scotland",493
+"2020-09-22","Wales",380
+"2020-09-22","Northern Ireland",168
+"2020-09-23","Wales",378
+"2020-09-23","Northern Ireland",217
+"2020-09-23","England",5933
+"2020-09-23","Scotland",568
+"2020-09-24","England",6361
+"2020-09-24","Scotland",715
+"2020-09-24","Wales",316
+"2020-09-24","Northern Ireland",290
+"2020-09-25","Northern Ireland",249
+"2020-09-25","Wales",385
+"2020-09-25","Scotland",579
+"2020-09-25","England",6105
+"2020-09-26","England",5704
+"2020-09-26","Scotland",434
+"2020-09-26","Northern Ireland",269
+"2020-09-26","Wales",403
+"2020-09-27","Wales",317
+"2020-09-27","Northern Ireland",264
+"2020-09-27","England",6084
+"2020-09-27","Scotland",358
+"2020-09-28","England",8641
+"2020-09-28","Scotland",624
+"2020-09-28","Northern Ireland",292
+"2020-09-28","Wales",426
+"2020-09-29","Northern Ireland",409
+"2020-09-29","Wales",466
+"2020-09-29","Scotland",659
+"2020-09-29","England",8832
+"2020-09-30","England",10663
+"2020-09-30","Scotland",794
+"2020-09-30","Northern Ireland",659
+"2020-09-30","Wales",601
+"2020-10-01","Wales",628
+"2020-10-01","Northern Ireland",507
+"2020-10-01","Scotland",778
+"2020-10-01","England",11444
+"2020-10-02","Scotland",818
+"2020-10-02","England",11719
+"2020-10-02","Northern Ireland",714
+"2020-10-02","Wales",603
+"2020-10-03","Wales",518
+"2020-10-03","Northern Ireland",634
+"2020-10-03","England",9820
+"2020-10-03","Scotland",695
+"2020-10-04","Scotland",742
+"2020-10-04","England",9966
+"2020-10-04","Northern Ireland",631
+"2020-10-04","Wales",614
+"2020-10-05","Northern Ireland",733
+"2020-10-05","Wales",703
+"2020-10-05","Scotland",1099
+"2020-10-05","England",14218
+"2020-10-06","England",14458
+"2020-10-06","Scotland",1192
+"2020-10-06","Northern Ireland",829
+"2020-10-06","Wales",771
+"2020-10-07","Wales",851
+"2020-10-07","Northern Ireland",1051
+"2020-10-07","England",15418
+"2020-10-07","Scotland",1253
+"2020-10-08","Scotland",1171
+"2020-10-08","England",15452
+"2020-10-08","Wales",827
+"2020-10-08","Northern Ireland",975
+"2020-10-09","Northern Ireland",858
+"2020-10-09","Wales",781
+"2020-10-09","England",13159
+"2020-10-09","Scotland",1095
+"2020-10-10","Scotland",942
+"2020-10-10","England",10301
+"2020-10-10","Northern Ireland",785
+"2020-10-10","Wales",620
+"2020-10-11","Wales",626
+"2020-10-11","Northern Ireland",835
+"2020-10-11","England",9781
+"2020-10-11","Scotland",960
+"2020-10-12","Scotland",1355
+"2020-10-12","England",16420
+"2020-10-12","Wales",782
+"2020-10-12","Northern Ireland",1114
+"2020-10-13","Wales",953
+"2020-10-13","Northern Ireland",1082
+"2020-10-13","Scotland",1421
+"2020-10-13","England",15660
+"2020-10-14","England",16646
+"2020-10-14","Scotland",1297
+"2020-10-14","Wales",906
+"2020-10-14","Northern Ireland",1071
+"2020-10-15","Northern Ireland",1094
+"2020-10-15","Wales",790
+"2020-10-15","England",15428
+"2020-10-15","Scotland",1294
+"2020-10-16","England",14761
+"2020-10-16","Scotland",1254
+"2020-10-16","Wales",951
+"2020-10-16","Northern Ireland",949
+"2020-10-17","Wales",708
+"2020-10-17","Northern Ireland",832
+"2020-10-17","England",12487
+"2020-10-17","Scotland",855
+"2020-10-18","Scotland",834
+"2020-10-18","England",11982
+"2020-10-18","Northern Ireland",779
+"2020-10-18","Wales",716
+"2020-10-19","Wales",1111
+"2020-10-19","Northern Ireland",1033
+"2020-10-19","Scotland",1359
+"2020-10-19","England",22369
+"2020-10-20","England",21638
+"2020-10-20","Scotland",1690
+"2020-10-20","Wales",1236
+"2020-10-20","Northern Ireland",1049
+"2020-10-21","Northern Ireland",1107
+"2020-10-21","Wales",1266
+"2020-10-21","England",21762
+"2020-10-21","Scotland",1579
+"2020-10-22","Scotland",1493
+"2020-10-22","England",19866
+"2020-10-22","Wales",1056
+"2020-10-22","Northern Ireland",1060
+"2020-10-23","Wales",1197
+"2020-10-23","Northern Ireland",856
+"2020-10-23","England",18359
+"2020-10-23","Scotland",1282
+"2020-10-24","Scotland",953
+"2020-10-24","England",13713
+"2020-10-24","Wales",1025
+"2020-10-24","Northern Ireland",743
+"2020-10-25","Northern Ireland",661
+"2020-10-25","Wales",940
+"2020-10-25","Scotland",941
+"2020-10-25","England",13353
+"2020-10-26","Scotland",1345
+"2020-10-26","England",23033
+"2020-10-26","Wales",1557
+"2020-10-26","Northern Ireland",872
+"2020-10-27","Northern Ireland",804
+"2020-10-27","Wales",1478
+"2020-10-27","England",20762
+"2020-10-27","Scotland",1307
+"2020-10-28","Scotland",1267
+"2020-10-28","England",20547
+"2020-10-28","Wales",1357
+"2020-10-28","Northern Ireland",730
+"2020-10-29","Wales",1583
+"2020-10-29","Northern Ireland",674
+"2020-10-29","England",20257
+"2020-10-29","Scotland",1100
+"2020-10-30","Scotland",1089
+"2020-10-30","England",19899
+"2020-10-30","Northern Ireland",661
+"2020-10-30","Wales",1241
+"2020-10-31","Northern Ireland",487
+"2020-10-31","Wales",879
+"2020-10-31","Scotland",742
+"2020-10-31","England",14565
+"2020-11-01","England",13611
+"2020-11-01","Scotland",969
+"2020-11-01","Northern Ireland",443
+"2020-11-01","Wales",947
+"2020-11-02","Northern Ireland",646
+"2020-11-02","Wales",1409
+"2020-11-02","England",28394
+"2020-11-02","Scotland",1476
+"2020-11-03","Scotland",1392
+"2020-11-03","England",22690
+"2020-11-03","Northern Ireland",626
+"2020-11-03","Wales",1235
+"2020-11-04","Wales",1095
+"2020-11-04","Northern Ireland",577
+"2020-11-04","England",21053
+"2020-11-04","Scotland",1302
+"2020-11-05","England",21206
+"2020-11-05","Scotland",1298
+"2020-11-05","Northern Ireland",543
+"2020-11-05","Wales",1016
+"2020-11-06","Northern Ireland",467
+"2020-11-06","Wales",877
+"2020-11-06","England",21179
+"2020-11-06","Scotland",1136
+"2020-11-07","Scotland",842
+"2020-11-07","England",16888
+"2020-11-07","Northern Ireland",431
+"2020-11-07","Wales",605
+"2020-11-08","Northern Ireland",400
+"2020-11-08","Wales",698
+"2020-11-08","Scotland",874
+"2020-11-08","England",18272
+"2020-11-09","Scotland",1296
+"2020-11-09","England",28560
+"2020-11-09","Wales",1009
+"2020-11-09","Northern Ireland",645
+"2020-11-10","Wales",964
+"2020-11-10","Northern Ireland",700
+"2020-11-10","England",24836
+"2020-11-10","Scotland",1289
+"2020-11-11","England",25065
+"2020-11-11","Scotland",1249
+"2020-11-11","Northern Ireland",588
+"2020-11-11","Wales",855
+"2020-11-12","Northern Ireland",537
+"2020-11-12","Wales",773
+"2020-11-12","England",22320
+"2020-11-12","Scotland",1196
+"2020-11-13","Scotland",1055
+"2020-11-13","England",22008
+"2020-11-13","Northern Ireland",466
+"2020-11-13","Wales",859
+"2020-11-14","Wales",629
+"2020-11-14","Northern Ireland",399
+"2020-11-14","England",16290
+"2020-11-14","Scotland",905
+"2020-11-15","England",14422
+"2020-11-15","Scotland",818
+"2020-11-15","Wales",627
+"2020-11-15","Northern Ireland",366
+"2020-11-16","Northern Ireland",545
+"2020-11-16","Wales",993
+"2020-11-16","England",24136
+"2020-11-16","Scotland",1278
+"2020-11-17","England",20677
+"2020-11-17","Scotland",1227
+"2020-11-17","Northern Ireland",543
+"2020-11-17","Wales",1041
+"2020-11-18","Wales",987
+"2020-11-18","Northern Ireland",429
+"2020-11-18","Scotland",1115
+"2020-11-18","England",18545
+"2020-11-19","England",15797
+"2020-11-19","Scotland",985
+"2020-11-19","Northern Ireland",339
+"2020-11-19","Wales",920
+"2020-11-20","Wales",936
+"2020-11-20","Northern Ireland",343
+"2020-11-20","Scotland",861
+"2020-11-20","England",14960
+"2020-11-21","England",10806
+"2020-11-21","Scotland",764
+"2020-11-21","Wales",680
+"2020-11-21","Northern Ireland",283
+"2020-11-22","Northern Ireland",253
+"2020-11-22","Wales",717
+"2020-11-22","England",10216
+"2020-11-22","Scotland",709
+"2020-11-23","England",16472
+"2020-11-23","Scotland",1158
+"2020-11-23","Wales",1030
+"2020-11-23","Northern Ireland",364
+"2020-11-24","Northern Ireland",324
+"2020-11-24","Wales",1093
+"2020-11-24","Scotland",996
+"2020-11-24","England",14266
+"2020-11-25","England",14155
+"2020-11-25","Scotland",932
+"2020-11-25","Northern Ireland",391
+"2020-11-25","Wales",1336
+"2020-11-26","Northern Ireland",335
+"2020-11-26","Wales",1160
+"2020-11-26","England",12459
+"2020-11-26","Scotland",807
+"2020-11-27","Scotland",738
+"2020-11-27","England",12459
+"2020-11-27","Wales",1035
+"2020-11-27","Northern Ireland",322
+"2020-11-28","Wales",844
+"2020-11-28","Northern Ireland",323
+"2020-11-28","England",9347
+"2020-11-28","Scotland",572
+"2020-11-29","England",9068
+"2020-11-29","Scotland",558
+"2020-11-29","Northern Ireland",260
+"2020-11-29","Wales",966
+"2020-11-30","Wales",1505
+"2020-11-30","Northern Ireland",489
+"2020-11-30","Scotland",976
+"2020-11-30","England",15228
+"2020-12-01","England",13731
+"2020-12-01","Scotland",935
+"2020-12-01","Northern Ireland",409
+"2020-12-01","Wales",1609
+"2020-12-02","Wales",1651
+"2020-12-02","Northern Ireland",411
+"2020-12-02","England",13662
+"2020-12-02","Scotland",952
+"2020-12-03","Scotland",807
+"2020-12-03","England",12762
+"2020-12-03","Wales",1803
+"2020-12-03","Northern Ireland",488
+"2020-12-04","Wales",1701
+"2020-12-04","Northern Ireland",418
+"2020-12-04","Scotland",650
+"2020-12-04","England",13065
+"2020-12-05","Scotland",667
+"2020-12-05","England",10302
+"2020-12-05","Northern Ireland",391
+"2020-12-05","Wales",1533
+"2020-12-06","Northern Ireland",355
+"2020-12-06","Wales",1697
+"2020-12-06","England",11036
+"2020-12-06","Scotland",643
+"2020-12-07","England",17662
+"2020-12-07","Scotland",955
+"2020-12-07","Wales",2511
+"2020-12-07","Northern Ireland",456
+"2020-12-08","Northern Ireland",479
+"2020-12-08","Wales",2601
+"2020-12-08","Scotland",1048
+"2020-12-08","England",16937
+"2020-12-09","England",17744
+"2020-12-09","Scotland",1015
+"2020-12-09","Northern Ireland",458
+"2020-12-09","Wales",2692
+"2020-12-10","Wales",2664
+"2020-12-10","Northern Ireland",498
+"2020-12-10","England",18850
+"2020-12-10","Scotland",904
+"2020-12-11","Scotland",875
+"2020-12-11","England",20177
+"2020-12-11","Northern Ireland",527
+"2020-12-11","Wales",2811
+"2020-12-12","Wales",2286
+"2020-12-12","Northern Ireland",353
+"2020-12-12","England",16268
+"2020-12-12","Scotland",681
+"2020-12-13","England",18409
+"2020-12-13","Scotland",719
+"2020-12-13","Wales",2734
+"2020-12-13","Northern Ireland",404
+"2020-12-14","Northern Ireland",558
+"2020-12-14","Wales",3538
+"2020-12-14","Scotland",1082
+"2020-12-14","England",30019
+"2020-12-15","England",29652
+"2020-12-15","Scotland",1031
+"2020-12-15","Wales",3182
+"2020-12-15","Northern Ireland",513
+"2020-12-16","Northern Ireland",610
+"2020-12-16","Wales",3139
+"2020-12-16","Scotland",1028
+"2020-12-16","England",30650
+"2020-12-17","Scotland",913
+"2020-12-17","England",30159
+"2020-12-17","Northern Ireland",589
+"2020-12-17","Wales",2776
+"2020-12-18","Wales",2537
+"2020-12-18","Northern Ireland",535
+"2020-12-18","England",32426
+"2020-12-18","Scotland",921
+"2020-12-19","Scotland",748
+"2020-12-19","England",22195
+"2020-12-19","Northern Ireland",476
+"2020-12-19","Wales",2170
+"2020-12-20","Northern Ireland",488
+"2020-12-20","Wales",2209
+"2020-12-20","Scotland",813
+"2020-12-20","England",29556
+"2020-12-21","England",43446
+"2020-12-21","Scotland",1304
+"2020-12-21","Wales",2743
+"2020-12-21","Northern Ireland",699
+"2020-12-22","Northern Ireland",699
+"2020-12-22","Wales",2705
+"2020-12-22","England",41741
+"2020-12-22","Scotland",1330
+"2020-12-23","England",38383
+"2020-12-23","Scotland",1315
+"2020-12-23","Northern Ireland",795
+"2020-12-23","Wales",2443
+"2020-12-24","Northern Ireland",614
+"2020-12-24","Wales",1473
+"2020-12-24","England",29287
+"2020-12-24","Scotland",1018
+"2020-12-25","Scotland",516
+"2020-12-25","England",12926
+"2020-12-25","Wales",642
+"2020-12-25","Northern Ireland",335
+"2020-12-26","Northern Ireland",705
+"2020-12-26","Wales",1893
+"2020-12-26","Scotland",1050
+"2020-12-26","England",37462
+"2020-12-27","Scotland",1682
+"2020-12-27","England",43250
+"2020-12-27","Wales",2495
+"2020-12-27","Northern Ireland",1093
+"2020-12-28","Northern Ireland",1398
+"2020-12-28","Wales",2356
+"2020-12-28","Scotland",1809
+"2020-12-28","England",40845
+"2020-12-29","England",74058
+"2020-12-29","Scotland",3137
+"2020-12-29","Wales",3563
+"2020-12-29","Northern Ireland",2332
+"2020-12-30","Wales",2698
+"2020-12-30","Northern Ireland",2246
+"2020-12-30","Scotland",2974
+"2020-12-30","England",64243
+"2020-12-31","Scotland",2379
+"2020-12-31","England",47824
+"2020-12-31","Wales",2009
+"2020-12-31","Northern Ireland",1735
+"2021-01-01","Wales",1214
+"2021-01-01","Northern Ireland",1228
+"2021-01-01","Scotland",1161
+"2021-01-01","England",28879
+"2021-01-02","England",55428
+"2021-01-02","Scotland",2213
+"2021-01-02","Northern Ireland",1920
+"2021-01-02","Wales",2093
+"2021-01-03","Wales",1811
+"2021-01-03","Northern Ireland",1639
+"2021-01-03","England",50664
+"2021-01-03","Scotland",2221
+"2021-01-04","England",70920
+"2021-01-04","Scotland",2383
+"2021-01-04","Wales",2659
+"2021-01-04","Northern Ireland",2010
+"2021-01-05","Wales",2386
+"2021-01-05","Northern Ireland",1598
+"2021-01-05","England",59600
+"2021-01-05","Scotland",3054
+"2021-01-06","England",52752
+"2021-01-06","Scotland",2550
+"2021-01-06","Wales",1993
+"2021-01-06","Northern Ireland",1489
+"2021-01-07","Northern Ireland",1187
+"2021-01-07","Wales",1667
+"2021-01-07","England",48132
+"2021-01-07","Scotland",2201
+"2021-01-08","Scotland",1826
+"2021-01-08","England",43494
+"2021-01-08","Northern Ireland",1187
+"2021-01-08","Wales",1598
+"2021-01-09","Wales",1142
+"2021-01-09","Northern Ireland",975
+"2021-01-09","Scotland",1499
+"2021-01-09","England",36419
+"2021-01-10","Scotland",1425
+"2021-01-10","England",33749
+"2021-01-10","Northern Ireland",824
+"2021-01-10","Wales",1176
+"2021-01-11","Northern Ireland",1245
+"2021-01-11","Wales",1736
+"2021-01-11","England",53519
+"2021-01-11","Scotland",2092
+"2021-01-12","England",45968
+"2021-01-12","Scotland",1991
+"2021-01-12","Wales",1601
+"2021-01-12","Northern Ireland",1087
+"2021-01-13","Northern Ireland",1026
+"2021-01-13","Wales",1464
+"2021-01-13","England",42303
+"2021-01-13","Scotland",1716
+"2021-01-14","Scotland",1629
+"2021-01-14","England",39658
+"2021-01-14","Wales",1313
+"2021-01-14","Northern Ireland",872
+"2021-01-15","Northern Ireland",821
+"2021-01-15","Wales",1214
+"2021-01-15","Scotland",1538
+"2021-01-15","England",37879
+"2021-01-16","Scotland",1178
+"2021-01-16","England",28413
+"2021-01-16","Northern Ireland",654
+"2021-01-16","Wales",1005
+"2021-01-17","Wales",827
+"2021-01-17","Northern Ireland",588
+"2021-01-17","England",26976
+"2021-01-17","Scotland",1201
+"2021-01-18","Scotland",1744
+"2021-01-18","England",41935
+"2021-01-18","Wales",1398
+"2021-01-18","Northern Ireland",880
+"2021-01-19","Wales",1081
+"2021-01-19","Northern Ireland",835
+"2021-01-19","England",37055
+"2021-01-19","Scotland",1554
+"2021-01-20","Scotland",1582
+"2021-01-20","England",32679
+"2021-01-20","Northern Ireland",753
+"2021-01-20","Wales",972
+"2021-01-21","Northern Ireland",716
+"2021-01-21","Wales",909
+"2021-01-21","Scotland",1244
+"2021-01-21","England",29633
+"2021-01-22","England",27741
+"2021-01-22","Scotland",1231
+"2021-01-22","Wales",772
+"2021-01-22","Northern Ireland",586
+"2021-01-23","Northern Ireland",437
+"2021-01-23","Wales",542
+"2021-01-23","Scotland",940
+"2021-01-23","England",20425
+"2021-01-24","Scotland",862
+"2021-01-24","England",15883
+"2021-01-24","Northern Ireland",412
+"2021-01-24","Wales",397
+"2021-01-25","Northern Ireland",589
+"2021-01-25","Wales",850
+"2021-01-25","Scotland",1326
+"2021-01-25","England",27972
+"2021-01-26","England",25210
+"2021-01-26","Scotland",1182
+"2021-01-26","Wales",732
+"2021-01-26","Northern Ireland",606
+"2021-01-27","Wales",703
+"2021-01-27","Northern Ireland",583
+"2021-01-27","Scotland",1118
+"2021-01-27","England",23899
+"2021-01-28","Scotland",1117
+"2021-01-28","England",22523
+"2021-01-28","Northern Ireland",475
+"2021-01-28","Wales",658
+"2021-01-29","Wales",600
+"2021-01-29","Northern Ireland",506
+"2021-01-29","Scotland",965
+"2021-01-29","England",20363
+"2021-01-30","England",15524
+"2021-01-30","Scotland",781
+"2021-01-30","Northern Ireland",375
+"2021-01-30","Wales",487
+"2021-01-31","Wales",465
+"2021-01-31","Northern Ireland",370
+"2021-01-31","England",14138
+"2021-01-31","Scotland",810
+"2021-02-01","Scotland",1104
+"2021-02-01","England",20765
+"2021-02-01","Northern Ireland",491
+"2021-02-01","Wales",612
+"2021-02-02","Wales",597
+"2021-02-02","Northern Ireland",424
+"2021-02-02","Scotland",1051
+"2021-02-02","England",18193
+"2021-02-03","England",17948
+"2021-02-03","Scotland",939
+"2021-02-03","Northern Ireland",448
+"2021-02-03","Wales",579
+"2021-02-04","Wales",501
+"2021-02-04","Northern Ireland",374
+"2021-02-04","Scotland",901
+"2021-02-04","England",16717
+"2021-02-05","Scotland",940
+"2021-02-05","England",14461
+"2021-02-05","Wales",501
+"2021-02-05","Northern Ireland",405
+"2021-02-06","Northern Ireland",300
+"2021-02-06","Wales",359
+"2021-02-06","England",10951
+"2021-02-06","Scotland",710
+"2021-02-07","England",10457
+"2021-02-07","Scotland",656
+"2021-02-07","Wales",284
+"2021-02-07","Northern Ireland",267
+"2021-02-08","Northern Ireland",340
+"2021-02-08","Wales",492
+"2021-02-08","Scotland",992
+"2021-02-08","England",14370
+"2021-02-09","Scotland",760
+"2021-02-09","England",12696
+"2021-02-09","Wales",464
+"2021-02-09","Northern Ireland",305
+"2021-02-10","Wales",448
+"2021-02-10","Northern Ireland",331
+"2021-02-10","Scotland",848
+"2021-02-10","England",12272
+"2021-02-11","Scotland",847
+"2021-02-11","England",11637
+"2021-02-11","Northern Ireland",278
+"2021-02-11","Wales",377
+"2021-02-12","Northern Ireland",272
+"2021-02-12","Wales",408
+"2021-02-12","England",10986
+"2021-02-12","Scotland",907
+"2021-02-13","England",8025
+"2021-02-13","Scotland",544
+"2021-02-13","Wales",281
+"2021-02-13","Northern Ireland",185
+"2021-02-14","Northern Ireland",243
+"2021-02-14","Wales",288
+"2021-02-14","Scotland",683
+"2021-02-14","England",7781
+"2021-02-15","England",12953
+"2021-02-15","Scotland",968
+"2021-02-15","Northern Ireland",362
+"2021-02-15","Wales",452
+"2021-02-16","Wales",442
+"2021-02-16","Northern Ireland",309
+"2021-02-16","England",11268
+"2021-02-16","Scotland",920
+"2021-02-17","England",10419
+"2021-02-17","Scotland",828
+"2021-02-17","Northern Ireland",322
+"2021-02-17","Wales",373
+"2021-02-18","Northern Ireland",266
+"2021-02-18","Wales",343
+"2021-02-18","England",10303
+"2021-02-18","Scotland",881
+"2021-02-19","England",9246
+"2021-02-19","Scotland",893
+"2021-02-19","Wales",309
+"2021-02-19","Northern Ireland",280
+"2021-02-20","Wales",267
+"2021-02-20","Northern Ireland",220
+"2021-02-20","Scotland",665
+"2021-02-20","England",7161
+"2021-02-21","England",7033
+"2021-02-21","Scotland",610
+"2021-02-21","Wales",274
+"2021-02-21","Northern Ireland",181
+"2021-02-22","Wales",336
+"2021-02-22","Northern Ireland",252
+"2021-02-22","Scotland",790
+"2021-02-22","England",10279
+"2021-02-23","England",8536
+"2021-02-23","Scotland",693
+"2021-02-23","Wales",288
+"2021-02-23","Northern Ireland",246
+"2021-02-24","Wales",264
+"2021-02-24","Northern Ireland",260
+"2021-02-24","Scotland",702
+"2021-02-24","England",7621
+"2021-02-25","England",6934
+"2021-02-25","Scotland",633
+"2021-02-25","Northern Ireland",232
+"2021-02-25","Wales",225
+"2021-02-26","Northern Ireland",171
+"2021-02-26","Wales",202
+"2021-02-26","Scotland",526
+"2021-02-26","England",5883
+"2021-02-27","Scotland",418
+"2021-02-27","England",4254
+"2021-02-27","Northern Ireland",138
+"2021-02-27","Wales",139
+"2021-02-28","Wales",207
+"2021-02-28","Northern Ireland",123
+"2021-02-28","England",4112
+"2021-02-28","Scotland",431
+"2021-03-01","England",6215
+"2021-03-01","Scotland",555
+"2021-03-01","Wales",244
+"2021-03-01","Northern Ireland",178
+"2021-03-02","Northern Ireland",209
+"2021-03-02","Wales",237
+"2021-03-02","Scotland",522
+"2021-03-02","England",5950
+"2021-03-03","Scotland",496
+"2021-03-03","England",5305
+"2021-03-03","Wales",209
+"2021-03-03","Northern Ireland",162
+"2021-03-04","Wales",199
+"2021-03-04","Northern Ireland",164
+"2021-03-04","England",5011
+"2021-03-04","Scotland",563
+"2021-03-05","Scotland",467
+"2021-03-05","England",4728
+"2021-03-05","Wales",131
+"2021-03-05","Northern Ireland",141
+"2021-03-06","Northern Ireland",143
+"2021-03-06","Wales",169
+"2021-03-06","Scotland",484
+"2021-03-06","England",3832
+"2021-03-07","Scotland",436
+"2021-03-07","England",3677
+"2021-03-07","Northern Ireland",151
+"2021-03-07","Wales",146
+"2021-03-08","Northern Ireland",220
+"2021-03-08","Wales",258
+"2021-03-08","Scotland",594
+"2021-03-08","England",5818
+"2021-03-09","England",5488
+"2021-03-09","Scotland",658
+"2021-03-09","Wales",165
+"2021-03-09","Northern Ireland",177
+"2021-03-10","Wales",202
+"2021-03-10","Northern Ireland",198
+"2021-03-10","Scotland",628
+"2021-03-10","England",5222
+"2021-03-11","England",4848
+"2021-03-11","Scotland",665
+"2021-03-11","Northern Ireland",192
+"2021-03-11","Wales",228
+"2021-03-12","Northern Ireland",160
+"2021-03-12","Wales",206
+"2021-03-12","Scotland",584
+"2021-03-12","England",4767
+"2021-03-13","England",3592
+"2021-03-13","Scotland",466
+"2021-03-13","Northern Ireland",133
+"2021-03-13","Wales",190
+"2021-03-14","Northern Ireland",112
+"2021-03-14","Wales",159
+"2021-03-14","Scotland",447
+"2021-03-14","England",3707
+"2021-03-15","England",5643
+"2021-03-15","Scotland",688
+"2021-03-15","Northern Ireland",176
+"2021-03-15","Wales",196
+"2021-03-16","Wales",183
+"2021-03-16","Northern Ireland",172
+"2021-03-16","Scotland",575
+"2021-03-16","England",4933
+"2021-03-17","England",5048
+"2021-03-17","Scotland",603
+"2021-03-17","Wales",183
+"2021-03-17","Northern Ireland",144
+"2021-03-18","Wales",218
+"2021-03-18","Northern Ireland",169
+"2021-03-18","England",4689
+"2021-03-18","Scotland",556
+"2021-03-19","Scotland",547
+"2021-03-19","England",4333
+"2021-03-19","Northern Ireland",123
+"2021-03-19","Wales",177
+"2021-03-20","Wales",152
+"2021-03-20","Northern Ireland",122
+"2021-03-20","Scotland",459
+"2021-03-20","England",3514
+"2021-03-21","Scotland",465
+"2021-03-21","England",4679
+"2021-03-21","Northern Ireland",107
+"2021-03-21","Wales",139
+"2021-03-22","Northern Ireland",174
+"2021-03-22","Wales",198
+"2021-03-22","England",5400
+"2021-03-22","Scotland",687
+"2021-03-23","England",4566
+"2021-03-23","Scotland",607
+"2021-03-23","Northern Ireland",148
+"2021-03-23","Wales",163
+"2021-03-24","Wales",190
+"2021-03-24","Northern Ireland",166
+"2021-03-24","England",5321
+"2021-03-24","Scotland",547
+"2021-03-25","England",4674
+"2021-03-25","Scotland",576
+"2021-03-25","Wales",199
+"2021-03-25","Northern Ireland",167
+"2021-03-26","Northern Ireland",134
+"2021-03-26","Wales",152
+"2021-03-26","Scotland",478
+"2021-03-26","England",3803
+"2021-03-27","Scotland",387
+"2021-03-27","England",3136
+"2021-03-27","Wales",87
+"2021-03-27","Northern Ireland",121
+"2021-03-28","Wales",103
+"2021-03-28","Northern Ireland",92
+"2021-03-28","England",4477
+"2021-03-28","Scotland",358
+"2021-03-29","England",3422
+"2021-03-29","Scotland",517
+"2021-03-29","Wales",123
+"2021-03-29","Northern Ireland",134
+"2021-03-30","Northern Ireland",107
+"2021-03-30","Wales",138
+"2021-03-30","Scotland",399
+"2021-03-30","England",3135
+"2021-03-31","Scotland",396
+"2021-03-31","England",3340
+"2021-03-31","Wales",108
+"2021-03-31","Northern Ireland",122
+"2021-04-01","Wales",94
+"2021-04-01","Northern Ireland",94
+"2021-04-01","England",3067
+"2021-04-01","Scotland",419
+"2021-04-02","Scotland",358
+"2021-04-02","England",2248
+"2021-04-02","Northern Ireland",77
+"2021-04-02","Wales",64
+"2021-04-03","Northern Ireland",49
+"2021-04-03","Wales",58
+"2021-04-03","Scotland",280
+"2021-04-03","England",2121
+"2021-04-04","Scotland",258
+"2021-04-04","England",2042
+"2021-04-04","Wales",76
+"2021-04-04","Northern Ireland",36
+"2021-04-05","Wales",72
+"2021-04-05","Northern Ireland",55
+"2021-04-05","England",2314
+"2021-04-05","Scotland",303
+"2021-04-06","England",2756
+"2021-04-06","Scotland",359
+"2021-04-06","Wales",105
+"2021-04-06","Northern Ireland",93
+"2021-04-07","Wales",105
+"2021-04-07","Northern Ireland",108
+"2021-04-07","Scotland",288
+"2021-04-07","England",2752
+"2021-04-08","England",2651
+"2021-04-08","Scotland",285
+"2021-04-08","Wales",90
+"2021-04-08","Northern Ireland",121
+"2021-04-09","Northern Ireland",129
+"2021-04-09","Wales",72
+"2021-04-09","England",2482
+"2021-04-09","Scotland",270
+"2021-04-10","England",2009
+"2021-04-10","Scotland",231
+"2021-04-10","Wales",51
+"2021-04-10","Northern Ireland",89
+"2021-04-11","Northern Ireland",87
+"2021-04-11","Wales",55
+"2021-04-11","England",2020
+"2021-04-11","Scotland",214
+"2021-04-12","Scotland",262
+"2021-04-12","England",2399
+"2021-04-12","Northern Ireland",113
+"2021-04-12","Wales",107
+"2021-04-13","Northern Ireland",103
+"2021-04-13","Wales",64
+"2021-04-13","England",2060
+"2021-04-13","Scotland",268
+"2021-04-14","Scotland",216
+"2021-04-14","England",2068
+"2021-04-14","Wales",80
+"2021-04-14","Northern Ireland",148
+"2021-04-15","Wales",70
+"2021-04-15","Northern Ireland",116
+"2021-04-15","Scotland",200
+"2021-04-15","England",1959
+"2021-04-16","England",1963
+"2021-04-16","Scotland",224
+"2021-04-16","Northern Ireland",100
+"2021-04-16","Wales",60
+"2021-04-17","Wales",38
+"2021-04-17","Northern Ireland",82
+"2021-04-17","England",1398
+"2021-04-17","Scotland",204
+"2021-04-18","Scotland",175
+"2021-04-18","England",2281
+"2021-04-18","Wales",54
+"2021-04-18","Northern Ireland",74
+"2021-04-19","Scotland",268
+"2021-04-19","Northern Ireland",128
+"2021-04-19","Wales",74
+"2021-04-19","England",2268
+"2021-04-20","England",2112
+"2021-04-20","Scotland",247
+"2021-04-20","Northern Ireland",125
+"2021-04-20","Wales",57
+"2021-04-21","Wales",63
+"2021-04-21","Scotland",237
+"2021-04-21","Northern Ireland",110
+"2021-04-21","England",2298
+"2021-04-22","England",2032
+"2021-04-22","Northern Ireland",86
+"2021-04-22","Scotland",236
+"2021-04-22","Wales",55
+"2021-04-23","Northern Ireland",75
+"2021-04-23","Scotland",196
+"2021-04-23","Wales",48
+"2021-04-23","England",1701
+"2021-04-24","England",1300
+"2021-04-24","Scotland",153
+"2021-04-24","Wales",38
+"2021-04-24","Northern Ireland",73
+"2021-04-25","Scotland",111
+"2021-04-25","Wales",32
+"2021-04-25","Northern Ireland",79
+"2021-04-25","England",1897
+"2021-04-26","England",2267
+"2021-04-26","Wales",57
+"2021-04-26","Northern Ireland",103
+"2021-04-26","Scotland",199
+"2021-04-27","Northern Ireland",108
+"2021-04-27","Scotland",201
+"2021-04-27","Wales",60
+"2021-04-27","England",1809
+"2021-04-28","England",2153
+"2021-04-28","Northern Ireland",100
+"2021-04-28","Scotland",198
+"2021-04-28","Wales",48
+"2021-04-29","Northern Ireland",97
+"2021-04-29","Wales",55
+"2021-04-29","Scotland",177
+"2021-04-29","England",1901
+"2021-04-30","England",1528
+"2021-04-30","Northern Ireland",85
+"2021-04-30","Scotland",178
+"2021-04-30","Wales",34
+"2021-05-01","Wales",32
+"2021-05-01","Scotland",128
+"2021-05-01","Northern Ireland",62
+"2021-05-01","England",1210
+"2021-05-02","England",1305
+"2021-05-02","Northern Ireland",65
+"2021-05-02","Scotland",124
+"2021-05-02","Wales",27
+"2021-05-03","Scotland",164
+"2021-05-03","Northern Ireland",87
+"2021-05-03","Wales",27
+"2021-05-03","England",1806
+"2021-05-04","England",2200
+"2021-05-04","Wales",56
+"2021-05-04","Scotland",198
+"2021-05-04","Northern Ireland",99
+"2021-05-05","Wales",45
+"2021-05-05","Scotland",225
+"2021-05-05","Northern Ireland",96
+"2021-05-05","England",2203
+"2021-05-06","England",1967
+"2021-05-06","Scotland",219
+"2021-05-06","Northern Ireland",75
+"2021-05-06","Wales",65
+"2021-05-07","Northern Ireland",78
+"2021-05-07","Scotland",208
+"2021-05-07","Wales",39
+"2021-05-07","England",1657
+"2021-05-08","England",1301
+"2021-05-08","Northern Ireland",90
+"2021-05-08","Wales",31
+"2021-05-08","Scotland",187
+"2021-05-09","Scotland",214
+"2021-05-09","Northern Ireland",78
+"2021-05-09","Wales",30
+"2021-05-09","England",1985
+"2021-05-10","England",2325
+"2021-05-10","Wales",42
+"2021-05-10","Northern Ireland",107
+"2021-05-10","Scotland",335
+"2021-05-11","Wales",66
+"2021-05-11","Northern Ireland",106
+"2021-05-11","Scotland",285
+"2021-05-11","England",1872
+"2021-05-12","England",1869
+"2021-05-12","Northern Ireland",101
+"2021-05-12","Scotland",303
+"2021-05-12","Wales",62
+"2021-05-13","Scotland",317
+"2021-05-13","Wales",39
+"2021-05-13","Northern Ireland",89
+"2021-05-13","England",1737
+"2021-05-14","England",1540
+"2021-05-14","Northern Ireland",55
+"2021-05-14","Wales",44
+"2021-05-14","Scotland",299
+"2021-05-15","Wales",28
+"2021-05-15","Scotland",230
+"2021-05-15","Northern Ireland",64
+"2021-05-15","England",1306
+"2021-05-16","England",1587
+"2021-05-16","Wales",31
+"2021-05-16","Scotland",237
+"2021-05-16","Northern Ireland",68
+"2021-05-17","Northern Ireland",99
+"2021-05-17","Scotland",367
+"2021-05-17","Wales",51
+"2021-05-17","England",2341
+"2021-05-18","England",2241
+"2021-05-18","Northern Ireland",106
+"2021-05-18","Wales",45
+"2021-05-18","Scotland",420
+"2021-05-19","Wales",35
+"2021-05-19","Northern Ireland",101
+"2021-05-19","Scotland",416
+"2021-05-19","England",2261
+"2021-05-20","England",2000
+"2021-05-20","Scotland",389
+"2021-05-20","Northern Ireland",81
+"2021-05-20","Wales",47
+"2021-05-21","Northern Ireland",80
+"2021-05-21","Scotland",363
+"2021-05-21","Wales",52
+"2021-05-21","England",1872
+"2021-05-22","England",1606
+"2021-05-22","Northern Ireland",63
+"2021-05-22","Wales",35
+"2021-05-22","Scotland",296
+"2021-05-23","Northern Ireland",57
+"2021-05-23","Scotland",330
+"2021-05-23","Wales",21
+"2021-05-23","England",1918
+"2021-05-24","England",2750
+"2021-05-24","Northern Ireland",74
+"2021-05-24","Scotland",504
+"2021-05-24","Wales",41
+"2021-05-25","Wales",50
+"2021-05-25","Scotland",514
+"2021-05-25","Northern Ireland",66
+"2021-05-25","England",2797
+"2021-05-26","England",3179
+"2021-05-26","Northern Ireland",81
+"2021-05-26","Wales",30
+"2021-05-26","Scotland",632
+"2021-05-27","Scotland",561
+"2021-05-27","Wales",37
+"2021-05-27","Northern Ireland",74
+"2021-05-27","England",3075
+"2021-05-28","England",2929
+"2021-05-28","Scotland",550
+"2021-05-28","Northern Ireland",70
+"2021-05-28","Wales",40
+"2021-05-29","Wales",41
+"2021-05-29","Northern Ireland",59
+"2021-05-29","Scotland",438
+"2021-05-29","England",2462
+"2021-05-30","England",2598
+"2021-05-30","Northern Ireland",36
+"2021-05-30","Wales",39
+"2021-05-30","Scotland",491
+"2021-05-31","Northern Ireland",58
+"2021-05-31","Scotland",609
+"2021-05-31","England",3170
+"2021-05-31","Wales",60
+"2021-06-01","Wales",59
+"2021-06-01","England",4515
+"2021-06-01","Northern Ireland",71
+"2021-06-01","Scotland",786
+"2021-06-02","Scotland",964
+"2021-06-02","Northern Ireland",84
+"2021-06-02","England",5039
+"2021-06-02","Wales",81
+"2021-06-03","Wales",88
+"2021-06-03","England",5131
+"2021-06-03","Northern Ireland",82
+"2021-06-03","Scotland",957
+"2021-06-04","Northern Ireland",77
+"2021-06-04","Scotland",833
+"2021-06-04","Wales",65
+"2021-06-04","England",4886
+"2021-06-05","Wales",77
+"2021-06-05","England",3964
+"2021-06-05","Scotland",615
+"2021-06-05","Northern Ireland",75
+"2021-06-06","Scotland",686
+"2021-06-06","Northern Ireland",50
+"2021-06-06","England",4730
+"2021-06-06","Wales",68
+"2021-06-07","Wales",105
+"2021-06-07","England",6791
+"2021-06-07","Scotland",962
+"2021-06-07","Northern Ireland",88
+"2021-06-08","Scotland",1042
+"2021-06-08","Northern Ireland",107
+"2021-06-08","Wales",117
+"2021-06-08","England",6630
+"2021-06-09","England",6919
+"2021-06-09","Wales",129
+"2021-06-09","Northern Ireland",97
+"2021-06-09","Scotland",1065
+"2021-06-10","Northern Ireland",130
+"2021-06-10","Scotland",1054
+"2021-06-10","Wales",141
+"2021-06-10","England",6718
+"2021-06-11","England",6510
+"2021-06-11","Wales",130
+"2021-06-11","Northern Ireland",102
+"2021-06-11","Scotland",877
+"2021-06-12","Northern Ireland",62
+"2021-06-12","Scotland",715
+"2021-06-12","England",5422
+"2021-06-12","Wales",85
+"2021-06-13","Wales",112
+"2021-06-13","England",6075
+"2021-06-13","Northern Ireland",86
+"2021-06-13","Scotland",862
+"2021-06-14","Scotland",1142
+"2021-06-14","Northern Ireland",120
+"2021-06-14","Wales",159
+"2021-06-14","England",8941
+"2021-06-15","England",9153
+"2021-06-15","Wales",194
+"2021-06-15","Scotland",1288
+"2021-06-15","Northern Ireland",165
+"2021-06-16","Scotland",1279
+"2021-06-16","Northern Ireland",173
+"2021-06-16","England",9411
+"2021-06-16","Wales",189
+"2021-06-17","England",9523
+"2021-06-17","Wales",222
+"2021-06-17","Scotland",1176
+"2021-06-17","Northern Ireland",185
+"2021-06-18","Northern Ireland",135
+"2021-06-18","Scotland",1239
+"2021-06-18","Wales",174
+"2021-06-18","England",8772
+"2021-06-19","Wales",195
+"2021-06-19","England",7127
+"2021-06-19","Northern Ireland",120
+"2021-06-19","Scotland",1005
+"2021-06-20","Scotland",1565
+"2021-06-20","Northern Ireland",132
+"2021-06-20","England",8203
+"2021-06-20","Wales",187
+"2021-06-21","Wales",342
+"2021-06-21","England",12707
+"2021-06-21","Scotland",3061
+"2021-06-21","Northern Ireland",198
+"2021-06-22","Northern Ireland",207
+"2021-06-22","Scotland",3288
+"2021-06-22","Wales",344
+"2021-06-22","England",13563
+"2021-06-23","England",14806
+"2021-06-23","Wales",413
+"2021-06-23","Scotland",2932
+"2021-06-23","Northern Ireland",200
+"2021-06-24","Scotland",2976
+"2021-06-24","Northern Ireland",241
+"2021-06-24","Wales",413
+"2021-06-24","England",15084
+"2021-06-25","Wales",377
+"2021-06-25","England",14901
+"2021-06-25","Scotland",2640
+"2021-06-25","Northern Ireland",251
+"2021-06-26","Northern Ireland",247
+"2021-06-26","England",13486
+"2021-06-26","Wales",252
+"2021-06-26","Scotland",2316
+"2021-06-27","Scotland",2524
+"2021-06-27","Northern Ireland",207
+"2021-06-27","Wales",364
+"2021-06-27","England",15407
+"2021-06-28","England",23511
+"2021-06-28","Wales",628
+"2021-06-28","Scotland",3951
+"2021-06-28","Northern Ireland",328
+"2021-06-29","Northern Ireland",409
+"2021-06-29","England",23250
+"2021-06-29","Wales",637
+"2021-06-29","Scotland",3903
+"2021-06-30","Scotland",3948
+"2021-06-30","Northern Ireland",437
+"2021-06-30","Wales",597
+"2021-06-30","England",23941
+"2021-07-01","England",24267
+"2021-07-01","Wales",645
+"2021-07-01","Scotland",3463
+"2021-07-01","Northern Ireland",419
+"2021-07-02","Northern Ireland",379
+"2021-07-02","England",22287
+"2021-07-02","Wales",575
+"2021-07-02","Scotland",3098
+"2021-07-03","Scotland",2526
+"2021-07-03","Northern Ireland",349
+"2021-07-03","Wales",497
+"2021-07-03","England",20638
+"2021-07-04","Wales",555
+"2021-07-04","England",21806
+"2021-07-04","Scotland",2426
+"2021-07-04","Northern Ireland",383
+"2021-07-05","Northern Ireland",517
+"2021-07-05","England",30215
+"2021-07-05","Wales",777
+"2021-07-05","Scotland",3410
+"2021-07-06","Scotland",3106
+"2021-07-06","Northern Ireland",556
+"2021-07-06","England",31627
+"2021-07-06","Wales",771
+"2021-07-07","England",34274
+"2021-07-07","Wales",778
+"2021-07-07","Scotland",2921
+"2021-07-07","Northern Ireland",624
+"2021-07-08","Northern Ireland",629
+"2021-07-08","Wales",713
+"2021-07-08","England",29929
+"2021-07-08","Scotland",2749
+"2021-07-09","Scotland",2398
+"2021-07-09","Northern Ireland",578
+"2021-07-09","Wales",778
+"2021-07-09","England",29050
+"2021-07-10","Wales",656
+"2021-07-10","England",25411
+"2021-07-10","Scotland",1824
+"2021-07-10","Northern Ireland",488
+"2021-07-11","Northern Ireland",478
+"2021-07-11","Wales",713
+"2021-07-11","England",27418
+"2021-07-11","Scotland",1894
+"2021-07-12","Scotland",2595
+"2021-07-12","Northern Ireland",523
+"2021-07-12","Wales",916
+"2021-07-12","England",40477
+"2021-07-13","England",43247
+"2021-07-13","Wales",1099
+"2021-07-13","Scotland",2459
+"2021-07-13","Northern Ireland",902
+"2021-07-14","Northern Ireland",1170
+"2021-07-14","Wales",1206
+"2021-07-14","England",50320
+"2021-07-14","Scotland",2214
+"2021-07-15","Scotland",1976
+"2021-07-15","Northern Ireland",1322
+"2021-07-15","Wales",1119
+"2021-07-15","England",57583
+"2021-07-16","Wales",956
+"2021-07-16","England",51138
+"2021-07-16","Scotland",1764
+"2021-07-16","Northern Ireland",1406
+"2021-07-17","Northern Ireland",1149
+"2021-07-17","England",35281
+"2021-07-17","Wales",640
+"2021-07-17","Scotland",1406
+"2021-07-18","Scotland",1393
+"2021-07-18","Northern Ireland",1006
+"2021-07-18","England",33164
+"2021-07-18","Wales",619
+"2021-07-19","Wales",910
+"2021-07-19","England",43401
+"2021-07-19","Scotland",1921
+"2021-07-19","Northern Ireland",1692
+"2021-07-20","Northern Ireland",1495
+"2021-07-20","England",35947
+"2021-07-20","Wales",821
+"2021-07-20","Scotland",1613
+"2021-07-21","Scotland",1582
+"2021-07-21","Northern Ireland",1488
+"2021-07-21","England",31676
+"2021-07-21","Wales",802
+"2021-07-22","England",27711
+"2021-07-22","Wales",823
+"2021-07-22","Scotland",1393
+"2021-07-22","Northern Ireland",1351
+"2021-07-23","Northern Ireland",1262
+"2021-07-23","Wales",684
+"2021-07-23","England",24586
+"2021-07-23","Scotland",1285
+"2021-07-24","Scotland",958
+"2021-07-24","Northern Ireland",1036
+"2021-07-24","Wales",582
+"2021-07-24","England",20276
+"2021-07-25","England",19657
+"2021-07-25","Wales",530
+"2021-07-25","Scotland",950
+"2021-07-25","Northern Ireland",1050
+"2021-07-26","Northern Ireland",1302
+"2021-07-26","Wales",755
+"2021-07-26","England",26541
+"2021-07-26","Scotland",1383
+"2021-07-27","Scotland",1370
+"2021-07-27","Northern Ireland",1417
+"2021-07-27","Wales",768
+"2021-07-27","England",26027
+"2021-07-28","Wales",688
+"2021-07-28","England",26925
+"2021-07-28","Scotland",1297
+"2021-07-28","Northern Ireland",1327
+"2021-07-29","Northern Ireland",1199
+"2021-07-29","England",25361
+"2021-07-29","Wales",689
+"2021-07-29","Scotland",1183
+"2021-07-30","Scotland",1037
+"2021-07-30","Northern Ireland",1016
+"2021-07-30","England",22109
+"2021-07-30","Wales",587
+"2021-07-31","Wales",478
+"2021-07-31","England",18450
+"2021-07-31","Scotland",771
+"2021-07-31","Northern Ireland",871
+"2021-08-01","Northern Ireland",868
+"2021-08-01","Wales",525
+"2021-08-01","England",18714
+"2021-08-01","Scotland",878
+"2021-08-02","Scotland",1331
+"2021-08-02","Northern Ireland",1169
+"2021-08-02","Wales",760
+"2021-08-02","England",26580
+"2021-08-03","Wales",736
+"2021-08-03","England",27062
+"2021-08-03","Scotland",1381
+"2021-08-03","Northern Ireland",1294
+"2021-08-04","Northern Ireland",1340
+"2021-08-04","England",28895
+"2021-08-04","Wales",796
+"2021-08-04","Scotland",1307
+"2021-08-05","Scotland",1344
+"2021-08-05","Northern Ireland",1402
+"2021-08-05","England",28126
+"2021-08-05","Wales",788
+"2021-08-06","England",24851
+"2021-08-06","Wales",707
+"2021-08-06","Scotland",1266
+"2021-08-06","Northern Ireland",1211
+"2021-08-07","Northern Ireland",1056
+"2021-08-07","England",19957
+"2021-08-07","Wales",580
+"2021-08-07","Scotland",947
+"2021-08-08","Scotland",1053
+"2021-08-08","Northern Ireland",1092
+"2021-08-08","Wales",585
+"2021-08-08","England",20157
+"2021-08-09","England",28292
+"2021-08-09","Wales",957
+"2021-08-09","Scotland",1505
+"2021-08-09","Northern Ireland",1408
+"2021-08-10","Northern Ireland",1428
+"2021-08-10","England",27610
+"2021-08-10","Wales",946
+"2021-08-10","Scotland",1534
+"2021-08-11","Scotland",1588
+"2021-08-11","Northern Ireland",1443
+"2021-08-11","Wales",1184
+"2021-08-11","England",29135
+"2021-08-12","England",27690
+"2021-08-12","Wales",1259
+"2021-08-12","Scotland",1405
+"2021-08-12","Northern Ireland",1372
+"2021-08-13","Northern Ireland",1326
+"2021-08-13","England",24992
+"2021-08-13","Wales",1122
+"2021-08-13","Scotland",1534
+"2021-08-14","Scotland",1488
+"2021-08-14","Northern Ireland",1230
+"2021-08-14","England",21336
+"2021-08-14","Wales",1003
+"2021-08-15","Wales",1098
+"2021-08-15","England",21280
+"2021-08-15","Scotland",1637
+"2021-08-15","Northern Ireland",1312
+"2021-08-16","Northern Ireland",1697
+"2021-08-16","Wales",1585
+"2021-08-16","England",30861
+"2021-08-16","Scotland",2764
+"2021-08-17","Scotland",3401
+"2021-08-17","Northern Ireland",1688
+"2021-08-17","Wales",1736
+"2021-08-17","England",31095
+"2021-08-18","England",31426
+"2021-08-18","Wales",1782
+"2021-08-18","Scotland",3740
+"2021-08-18","Northern Ireland",1791
+"2021-08-19","Northern Ireland",1817
+"2021-08-19","Wales",1858
+"2021-08-19","England",29081
+"2021-08-19","Scotland",3745
+"2021-08-20","Scotland",3454
+"2021-08-20","Northern Ireland",1603
+"2021-08-20","England",25555
+"2021-08-20","Wales",1619
+"2021-08-21","England",22605
+"2021-08-21","Wales",1390
+"2021-08-21","Scotland",3058
+"2021-08-21","Northern Ireland",1483
+"2021-08-22","Northern Ireland",1284
+"2021-08-22","Wales",1379
+"2021-08-22","England",22409
+"2021-08-22","Scotland",3671
+"2021-08-23","Scotland",5562
+"2021-08-23","Northern Ireland",1771
+"2021-08-23","England",30333
+"2021-08-23","Wales",2049
+"2021-08-24","England",28212
+"2021-08-24","Wales",2156
+"2021-08-24","Scotland",5656
+"2021-08-24","Northern Ireland",1658
+"2021-08-25","Northern Ireland",1712
+"2021-08-25","Wales",2271
+"2021-08-25","England",27901
+"2021-08-25","Scotland",6893
+"2021-08-26","Scotland",7291
+"2021-08-26","Northern Ireland",1653
+"2021-08-26","Wales",2187
+"2021-08-26","England",26482
+"2021-08-27","Wales",1959
+"2021-08-27","England",24253
+"2021-08-27","Scotland",6076
+"2021-08-27","Northern Ireland",1457
+"2021-08-28","Northern Ireland",1166
+"2021-08-28","England",20138
+"2021-08-28","Wales",1516
+"2021-08-28","Scotland",4781
+"2021-08-29","Scotland",4468
+"2021-08-29","Northern Ireland",1078
+"2021-08-29","England",19152
+"2021-08-29","Wales",1438
+"2021-08-30","England",24973
+"2021-08-30","Wales",1788
+"2021-08-30","Scotland",6590
+"2021-08-30","Northern Ireland",1423
+"2021-08-31","Northern Ireland",1594
+"2021-08-31","England",33565
+"2021-08-31","Wales",3022
+"2021-08-31","Scotland",7031
+"2021-09-01","Scotland",7565
+"2021-09-01","Northern Ireland",1497
+"2021-09-01","Wales",2870
+"2021-09-01","England",31600
+"2021-09-02","England",30636
+"2021-09-02","Wales",2681
+"2021-09-02","Scotland",7622
+"2021-09-02","Northern Ireland",1389
+"2021-09-03","Northern Ireland",1376
+"2021-09-03","England",28730
+"2021-09-03","Wales",2347
+"2021-09-03","Scotland",6180
+"2021-09-04","Scotland",5030
+"2021-09-04","Northern Ireland",1211
+"2021-09-04","Wales",2160
+"2021-09-04","England",23409
+"2021-09-05","England",23457
+"2021-09-05","Wales",2108
+"2021-09-05","Scotland",4939
+"2021-09-05","Northern Ireland",1299
+"2021-09-06","Northern Ireland",1756
+"2021-09-06","Wales",2902
+"2021-09-06","England",33135
+"2021-09-06","Scotland",7136
+"2021-09-07","Scotland",6727
+"2021-09-07","Northern Ireland",1661
+"2021-09-07","Wales",2293
+"2021-09-07","England",27938
+"2021-09-08","Wales",2382
+"2021-09-08","England",25659
+"2021-09-08","Scotland",6258
+"2021-09-08","Northern Ireland",1550
+"2021-09-09","Northern Ireland",1654
+"2021-09-09","Wales",2319
+"2021-09-09","England",24440
+"2021-09-09","Scotland",5561
+"2021-09-10","Scotland",4786
+"2021-09-10","Northern Ireland",1372
+"2021-09-10","Wales",1998
+"2021-09-10","England",21031
+"2021-09-11","England",16956
+"2021-09-11","Wales",1944
+"2021-09-11","Scotland",3630
+"2021-09-11","Northern Ireland",1003
+"2021-09-12","Northern Ireland",920
+"2021-09-12","England",17879
+"2021-09-12","Wales",1887
+"2021-09-12","Scotland",3374
+"2021-09-13","Scotland",5096
+"2021-09-13","Northern Ireland",1377
+"2021-09-13","England",25199
+"2021-09-13","Wales",2986
+"2021-09-14","England",22641
+"2021-09-14","Wales",2726
+"2021-09-14","Scotland",4785
+"2021-09-14","Northern Ireland",1283
+"2021-09-15","Northern Ireland",1192
+"2021-09-15","Wales",2729
+"2021-09-15","England",22414
+"2021-09-15","Scotland",4079
+"2021-09-16","Scotland",3575
+"2021-09-16","Northern Ireland",1064
+"2021-09-16","Wales",2751
+"2021-09-16","England",22320
+"2021-09-17","Wales",2739
+"2021-09-17","England",22375
+"2021-09-17","Scotland",3378
+"2021-09-17","Northern Ireland",987
+"2021-09-18","Northern Ireland",866
+"2021-09-18","England",20926
+"2021-09-18","Wales",2238
+"2021-09-18","Scotland",2615
+"2021-09-19","Scotland",2800
+"2021-09-19","Northern Ireland",939
+"2021-09-19","England",24789
+"2021-09-19","Wales",2556
+"2021-09-20","England",32121
+"2021-09-20","Wales",3374
+"2021-09-20","Scotland",4014
+"2021-09-20","Northern Ireland",1259
+"2021-09-21","Northern Ireland",1211
+"2021-09-21","Wales",3286
+"2021-09-21","England",30547
+"2021-09-21","Scotland",3804
+"2021-09-22","Scotland",3515
+"2021-09-22","Northern Ireland",1104
+"2021-09-22","Wales",3349
+"2021-09-22","England",28789
+"2021-09-23","Wales",3310
+"2021-09-23","England",28340
+"2021-09-23","Scotland",3121
+"2021-09-23","Northern Ireland",1080
+"2021-09-24","Northern Ireland",936
+"2021-09-24","England",25754
+"2021-09-24","Wales",2701
+"2021-09-24","Scotland",2717
+"2021-09-25","Scotland",2140
+"2021-09-25","Northern Ireland",823
+"2021-09-25","Wales",2215
+"2021-09-25","England",23389
+"2021-09-26","Wales",2205
+"2021-09-26","England",26814
+"2021-09-26","Scotland",2151
+"2021-09-26","Northern Ireland",913
+"2021-09-27","Northern Ireland",1328
+"2021-09-27","England",34595
+"2021-09-27","Wales",2531
+"2021-09-27","Scotland",3135
+"2021-09-28","Scotland",3207
+"2021-09-28","Northern Ireland",1115
+"2021-09-28","England",29628
+"2021-09-28","Wales",2598
+"2021-09-29","England",28688
+"2021-09-29","Wales",2377
+"2021-09-29","Scotland",2609
+"2021-09-29","Northern Ireland",1162
+"2021-09-30","Northern Ireland",1022
+"2021-09-30","Wales",2397
+"2021-09-30","England",26808
+"2021-09-30","Scotland",2377
+"2021-10-01","Scotland",2048
+"2021-10-01","Northern Ireland",915
+"2021-10-01","Wales",1961
+"2021-10-01","England",24134
+"2021-10-02","England",21873
+"2021-10-02","Wales",1671
+"2021-10-02","Scotland",1873
+"2021-10-02","Northern Ireland",899
+"2021-10-03","Northern Ireland",1044
+"2021-10-03","Wales",1883
+"2021-10-03","England",27138
+"2021-10-03","Scotland",1994
+"2021-10-04","Scotland",2970
+"2021-10-04","Northern Ireland",1326
+"2021-10-04","Wales",2962
+"2021-10-04","England",36475
+"2021-10-05","England",32269
+"2021-10-05","Wales",2870
+"2021-10-05","Scotland",2851
+"2021-10-05","Northern Ireland",1289
+"2021-10-06","Northern Ireland",1277
+"2021-10-06","Wales",2782
+"2021-10-06","England",32547
+"2021-10-06","Scotland",2658
+"2021-10-07","Scotland",2614
+"2021-10-07","Northern Ireland",1275
+"2021-10-07","Wales",2418
+"2021-10-07","England",32158
+"2021-10-08","England",29848
+"2021-10-08","Wales",2223
+"2021-10-08","Scotland",2302
+"2021-10-08","Northern Ireland",1239
+"2021-10-09","Northern Ireland",1007
+"2021-10-09","Wales",1972
+"2021-10-09","England",27180
+"2021-10-09","Scotland",2147
+"2021-10-10","Scotland",1892
+"2021-10-10","Northern Ireland",1154
+"2021-10-10","Wales",1873
+"2021-10-10","England",31499
+"2021-10-11","England",43115
+"2021-10-11","Wales",2907
+"2021-10-11","Scotland",2838
+"2021-10-11","Northern Ireland",1444
+"2021-10-12","Northern Ireland",1403
+"2021-10-12","England",40892
+"2021-10-12","Wales",3382
+"2021-10-12","Scotland",2644
+"2021-10-13","Scotland",2659
+"2021-10-13","Northern Ireland",1296
+"2021-10-13","England",40547
+"2021-10-13","Wales",3273
+"2021-10-14","Wales",3210
+"2021-10-14","England",39262
+"2021-10-14","Scotland",2695
+"2021-10-14","Northern Ireland",1252
+"2021-10-15","Northern Ireland",1096
+"2021-10-15","Wales",3249
+"2021-10-15","England",36631
+"2021-10-15","Scotland",2584
+"2021-10-16","Scotland",2161
+"2021-10-16","Northern Ireland",1001
+"2021-10-16","Wales",3077
+"2021-10-16","England",31639
+"2021-10-17","England",37501
+"2021-10-17","Wales",2870
+"2021-10-17","Scotland",2316
+"2021-10-17","Northern Ireland",1065
+"2021-10-18","Northern Ireland",1450
+"2021-10-18","Wales",4054
+"2021-10-18","England",49257
+"2021-10-18","Scotland",2982
+"2021-10-19","Scotland",2781
+"2021-10-19","Northern Ireland",1462
+"2021-10-19","Wales",3656
+"2021-10-19","England",44630
+"2021-10-20","England",43963
+"2021-10-20","Wales",3439
+"2021-10-20","Scotland",2863
+"2021-10-20","Northern Ireland",1396
+"2021-10-21","Northern Ireland",1137
+"2021-10-21","Wales",2921
+"2021-10-21","England",38581
+"2021-10-21","Scotland",2555
+"2021-10-22","England",34506
+"2021-10-22","Scotland",2463
+"2021-10-22","Northern Ireland",1052
+"2021-10-22","Wales",2643
+"2021-10-23","Wales",2193
+"2021-10-23","England",29747
+"2021-10-23","Scotland",2154
+"2021-10-23","Northern Ireland",1009
+"2021-10-24","Northern Ireland",1052
+"2021-10-24","Wales",2286
+"2021-10-24","Scotland",2335
+"2021-10-24","England",30091
+"2021-10-25","Scotland",3318
+"2021-10-25","England",39958
+"2021-10-25","Northern Ireland",1229
+"2021-10-25","Wales",2961
+"2021-10-26","Wales",2639
+"2021-10-26","Scotland",2946
+"2021-10-26","England",35276
+"2021-10-26","Northern Ireland",1263
+"2021-10-27","Northern Ireland",1242
+"2021-10-27","Wales",2594
+"2021-10-27","Scotland",2685
+"2021-10-27","England",36524
+"2021-10-28","Scotland",2526
+"2021-10-28","England",35076
+"2021-10-28","Northern Ireland",1174
+"2021-10-28","Wales",2614
+"2021-10-29","Wales",2617
+"2021-10-29","Scotland",2566
+"2021-10-29","England",33995
+"2021-10-29","Northern Ireland",1073
+"2021-10-30","Northern Ireland",960
+"2021-10-30","Wales",2319
+"2021-10-30","England",28243
+"2021-10-30","Scotland",2047
+"2021-10-31","England",29564
+"2021-10-31","Scotland",2087
+"2021-10-31","Northern Ireland",960
+"2021-10-31","Wales",2203
+"2021-11-01","Wales",2874
+"2021-11-01","Scotland",3323
+"2021-11-01","England",37663
+"2021-11-01","Northern Ireland",1249
+"2021-11-02","Northern Ireland",1160
+"2021-11-02","Wales",2463
+"2021-11-02","Scotland",3068
+"2021-11-02","England",31328
+"2021-11-03","Scotland",3007
+"2021-11-03","England",29396
+"2021-11-03","Northern Ireland",1182
+"2021-11-03","Wales",2401
+"2021-11-04","Wales",2276
+"2021-11-04","England",27379
+"2021-11-04","Scotland",2820
+"2021-11-04","Northern Ireland",1187
+"2021-11-05","Northern Ireland",1092
+"2021-11-05","Wales",2029
+"2021-11-05","Scotland",2792
+"2021-11-05","England",24405
+"2021-11-06","Scotland",2228
+"2021-11-06","England",22581
+"2021-11-06","Northern Ireland",998
+"2021-11-06","Wales",1629
+"2021-11-07","Wales",1799
+"2021-11-07","England",25447
+"2021-11-07","Scotland",2312
+"2021-11-07","Northern Ireland",1028
+"2021-11-08","Northern Ireland",1511
+"2021-11-08","Wales",2624
+"2021-11-08","England",36138
+"2021-11-08","Scotland",3853
+"2021-11-09","Scotland",3484
+"2021-11-09","England",34679
+"2021-11-09","Northern Ireland",1593
+"2021-11-09","Wales",2490
+"2021-11-10","Wales",2764
+"2021-11-10","England",35390
+"2021-11-10","Scotland",3318
+"2021-11-10","Northern Ireland",1470
+"2021-11-11","Northern Ireland",1482
+"2021-11-11","Wales",2575
+"2021-11-11","England",33700
+"2021-11-11","Scotland",3242
+"2021-11-12","England",31337
+"2021-11-12","Scotland",2877
+"2021-11-12","Northern Ireland",1303
+"2021-11-12","Wales",2246
+"2021-11-13","Wales",1848
+"2021-11-13","England",27358
+"2021-11-13","Scotland",2334
+"2021-11-13","Northern Ireland",1345
+"2021-11-14","Northern Ireland",1469
+"2021-11-14","Wales",2023
+"2021-11-14","England",29599
+"2021-11-14","Scotland",2441
+"2021-11-15","England",42477
+"2021-11-15","Scotland",3681
+"2021-11-15","Northern Ireland",1876
+"2021-11-15","Wales",2914
+"2021-11-16","Wales",2708
+"2021-11-16","Scotland",3311
+"2021-11-16","England",38656
+"2021-11-16","Northern Ireland",1755
+"2021-11-17","Northern Ireland",1746
+"2021-11-17","Wales",2551
+"2021-11-17","Scotland",3341
+"2021-11-17","England",38257
+"2021-11-18","England",37099
+"2021-11-18","Scotland",3014
+"2021-11-18","Northern Ireland",1681
+"2021-11-18","Wales",2268
+"2021-11-19","Wales",1976
+"2021-11-19","Scotland",2804
+"2021-11-19","England",33184
+"2021-11-19","Northern Ireland",1642
+"2021-11-20","Northern Ireland",1415
+"2021-11-20","Wales",1816
+"2021-11-20","Scotland",2236
+"2021-11-20","England",29868
+"2021-11-21","England",31761
+"2021-11-21","Scotland",2187
+"2021-11-21","Northern Ireland",1470
+"2021-11-21","Wales",1832
+"2021-11-22","Wales",2810
+"2021-11-22","Scotland",3188
+"2021-11-22","England",42869
+"2021-11-22","Northern Ireland",1866
+"2021-11-23","Northern Ireland",1774
+"2021-11-23","Wales",2490
+"2021-11-23","Scotland",2918
+"2021-11-23","England",41015
+"2021-11-24","England",39881
+"2021-11-24","Scotland",2924
+"2021-11-24","Northern Ireland",1644
+"2021-11-24","Wales",2323
+"2021-11-25","Wales",2152
+"2021-11-25","England",37143
+"2021-11-25","Scotland",2511
+"2021-11-25","Northern Ireland",1619
+"2021-11-26","Northern Ireland",1425
+"2021-11-26","Wales",1985
+"2021-11-26","England",33666
+"2021-11-26","Scotland",2254
+"2021-11-27","England",28459
+"2021-11-27","Scotland",1898
+"2021-11-27","Northern Ireland",1355
+"2021-11-27","Wales",1591
+"2021-11-28","Wales",2009
+"2021-11-28","Scotland",2344
+"2021-11-28","England",33857
+"2021-11-28","Northern Ireland",1496
+"2021-11-29","Northern Ireland",2018
+"2021-11-29","Wales",2854
+"2021-11-29","Scotland",3478
+"2021-11-29","England",47939
+"2021-11-30","England",47632
+"2021-11-30","Scotland",3334
+"2021-11-30","Northern Ireland",1968
+"2021-11-30","Wales",2761
+"2021-12-01","Wales",2438
+"2021-12-01","Scotland",3127
+"2021-12-01","England",47263
+"2021-12-01","Northern Ireland",1992
+"2021-12-02","Northern Ireland",1889
+"2021-12-02","Wales",2417
+"2021-12-02","England",43045
+"2021-12-02","Scotland",2968
+"2021-12-03","England",39222
+"2021-12-03","Scotland",2666
+"2021-12-03","Northern Ireland",1581
+"2021-12-03","Wales",2198
+"2021-12-04","Wales",1855
+"2021-12-04","Scotland",2150
+"2021-12-04","England",33379
+"2021-12-04","Northern Ireland",1399
+"2021-12-05","Northern Ireland",1527
+"2021-12-05","Wales",1957
+"2021-12-05","England",35037
+"2021-12-05","Scotland",2530
+"2021-12-06","England",51123
+"2021-12-06","Scotland",3823
+"2021-12-06","Northern Ireland",1932
+"2021-12-06","Wales",2816
+"2021-12-07","Wales",2500
+"2021-12-07","Scotland",3811
+"2021-12-07","England",48146
+"2021-12-07","Northern Ireland",1801
+"2021-12-08","Northern Ireland",1886
+"2021-12-08","Wales",2663
+"2021-12-08","England",50059
+"2021-12-08","Scotland",4219
+"2021-12-09","Scotland",4073
+"2021-12-09","England",48817
+"2021-12-09","Northern Ireland",1681
+"2021-12-09","Wales",2424
+"2021-12-10","Wales",2207
+"2021-12-10","England",45018
+"2021-12-10","Scotland",3803
+"2021-12-10","Northern Ireland",1464
+"2021-12-11","Northern Ireland",1439
+"2021-12-11","Wales",1896
+"2021-12-11","Scotland",3319
+"2021-12-11","England",41940
+"2021-12-12","England",46367
+"2021-12-12","Scotland",3414
+"2021-12-12","Northern Ireland",1434
+"2021-12-12","Wales",1943
+"2021-12-13","Wales",2937
+"2021-12-13","Scotland",5793
+"2021-12-13","England",76507
+"2021-12-13","Northern Ireland",1932
+"2021-12-14","Northern Ireland",2205
+"2021-12-14","Wales",3302
+"2021-12-14","England",90717
+"2021-12-14","Scotland",6564
+"2021-12-15","England",99654
+"2021-12-15","Scotland",7218
+"2021-12-15","Northern Ireland",2224
+"2021-12-15","Wales",3606
+"2021-12-16","Wales",3596
+"2021-12-16","Scotland",6649
+"2021-12-16","England",93804
+"2021-12-16","Northern Ireland",2006
+"2021-12-17","Northern Ireland",1835
+"2021-12-17","Wales",3216
+"2021-12-17","England",84967
+"2021-12-17","Scotland",5879
+"2021-12-18","England",78930
+"2021-12-18","Scotland",5206
+"2021-12-18","Northern Ireland",1975
+"2021-12-18","Wales",2772
+"2021-12-19","Wales",2928
+"2021-12-19","England",78497
+"2021-12-19","Scotland",5607
+"2021-12-19","Northern Ireland",2101
+"2021-12-20","Northern Ireland",2710
+"2021-12-20","Wales",5027
+"2021-12-20","England",117577
+"2021-12-20","Scotland",8652
+"2021-12-21","England",129599
+"2021-12-21","Scotland",10540
+"2021-12-21","Northern Ireland",3828
+"2021-12-21","Wales",6326
+"2021-12-22","Wales",7134
+"2021-12-22","Scotland",11912
+"2021-12-22","England",138142
+"2021-12-22","Northern Ireland",4372
+"2021-12-23","Northern Ireland",4318
+"2021-12-23","Wales",6878
+"2021-12-23","England",137021
+"2021-12-23","Scotland",12416
+"2021-12-24","Scotland",9698
+"2021-12-24","England",117562
+"2021-12-24","Northern Ireland",4290
+"2021-12-24","Wales",5718
+"2021-12-25","Wales",2940
+"2021-12-25","England",59912
+"2021-12-25","Scotland",4849
+"2021-12-25","Northern Ireland",2662
+"2021-12-26","Northern Ireland",3518
+"2021-12-26","Wales",6364
+"2021-12-26","Scotland",7487
+"2021-12-26","England",98918
+"2021-12-27","England",155567
+"2021-12-27","Scotland",18761
+"2021-12-27","Northern Ireland",7310
+"2021-12-27","Wales",13373
+"2021-12-28","Wales",13615
+"2021-12-28","Scotland",19858
+"2021-12-28","England",170586
+"2021-12-28","Northern Ireland",8410
+"2021-12-29","Northern Ireland",8976
+"2021-12-29","Wales",16252
+"2021-12-29","England",224031
+"2021-12-29","Scotland",23539
+"2021-12-30","Scotland",22179
+"2021-12-30","England",192825
+"2021-12-30","Northern Ireland",8740
+"2021-12-30","Wales",12832
+"2021-12-31","Wales",9912
+"2021-12-31","England",152887
+"2021-12-31","Scotland",17772
+"2021-12-31","Northern Ireland",7996
+"2022-01-01","Northern Ireland",5385
+"2022-01-01","Wales",6224
+"2022-01-01","Scotland",7363
+"2022-01-01","England",99303
+"2022-01-02","Scotland",15692
+"2022-01-02","England",148609
+"2022-01-02","Northern Ireland",6912
+"2022-01-02","Wales",9855
+"2022-01-03","Wales",9457
+"2022-01-03","Scotland",19518
+"2022-01-03","England",193617
+"2022-01-03","Northern Ireland",7309
+"2022-01-04","Northern Ireland",8470
+"2022-01-04","Wales",12452
+"2022-01-04","England",234873
+"2022-01-04","Scotland",19852
+"2022-01-05","Scotland",22566
+"2022-01-05","England",183798
+"2022-01-05","Northern Ireland",6819
+"2022-01-05","Wales",8991
+"2022-01-06","Wales",4714
+"2022-01-06","England",150786
+"2022-01-06","Scotland",13902
+"2022-01-06","Northern Ireland",3578
+"2022-01-07","Northern Ireland",2708
+"2022-01-07","Wales",3367
+"2022-01-07","England",105080
+"2022-01-07","Scotland",9132
+"2022-01-08","Scotland",7292
+"2022-01-08","England",81221
+"2022-01-08","Northern Ireland",2637
+"2022-01-08","Wales",2465
+"2022-01-09","Wales",2180
+"2022-01-09","England",83081
+"2022-01-09","Scotland",7691
+"2022-01-09","Northern Ireland",2838
+"2022-01-10","Northern Ireland",3614
+"2022-01-10","Wales",3596
+"2022-01-10","England",116343
+"2022-01-10","Scotland",9406
+"2022-01-11","Scotland",8301
+"2022-01-11","England",100979
+"2022-01-11","Northern Ireland",3232
+"2022-01-11","Wales",2733
+"2022-01-12","Wales",2406
+"2022-01-12","England",90000
+"2022-01-12","Scotland",7683
+"2022-01-12","Northern Ireland",3130
+"2022-01-13","Northern Ireland",2890
+"2022-01-13","Wales",2100
+"2022-01-13","Scotland",7290
+"2022-01-13","England",84132
+"2022-01-14","Scotland",6514
+"2022-01-14","England",75174
+"2022-01-14","Northern Ireland",2692
+"2022-01-14","Wales",1945
+"2022-01-15","Wales",1483
+"2022-01-15","England",67821
+"2022-01-15","Scotland",5804
+"2022-01-15","Northern Ireland",2842
+"2022-01-16","Northern Ireland",3620
+"2022-01-16","Wales",1783
+"2022-01-16","Scotland",7095
+"2022-01-16","England",85599
+"2022-01-17","England",114776
+"2022-01-17","Scotland",9173
+"2022-01-17","Northern Ireland",4607
+"2022-01-17","Wales",2958
+"2022-01-18","Wales",2603
+"2022-01-18","England",103308
+"2022-01-18","Scotland",8548
+"2022-01-18","Northern Ireland",4398
+"2022-01-19","Northern Ireland",4037
+"2022-01-19","Wales",2484
+"2022-01-19","Scotland",7904
+"2022-01-19","England",97335
+"2022-01-20","England",86951
+"2022-01-20","Scotland",7088
+"2022-01-20","Northern Ireland",3848
+"2022-01-20","Wales",2437
+"2022-01-21","Wales",2351
+"2022-01-21","Scotland",6659
+"2022-01-21","England",79172
+"2022-01-21","Northern Ireland",3548
+"2022-01-22","Northern Ireland",3266
+"2022-01-22","Wales",1867
+"2022-01-22","England",70483
+"2022-01-22","Scotland",6117
+"2022-01-23","Scotland",7360
+"2022-01-23","England",88558
+"2022-01-23","Northern Ireland",4400
+"2022-01-23","Wales",2047
+"2022-01-24","Wales",3300
+"2022-01-24","Scotland",9493
+"2022-01-24","England",109233
+"2022-01-24","Northern Ireland",5338
+"2022-01-25","Northern Ireland",4849
+"2022-01-25","Wales",2944
+"2022-01-25","England",96955
+"2022-01-25","Scotland",8454
+"2022-01-26","England",93211
+"2022-01-26","Scotland",8184
+"2022-01-26","Northern Ireland",4347
+"2022-01-26","Wales",2926
+"2022-01-27","Wales",2461
+"2022-01-27","Scotland",7109
+"2022-01-27","England",82725
+"2022-01-27","Northern Ireland",3905
+"2022-01-28","Northern Ireland",3607
+"2022-01-28","Wales",2140
+"2022-01-28","England",71682
+"2022-01-28","Scotland",6597
+"2022-01-29","England",63024
+"2022-01-29","Scotland",5492
+"2022-01-29","Northern Ireland",3414
+"2022-01-29","Wales",1582
+"2022-01-30","Wales",1544
+"2022-01-30","Scotland",6958
+"2022-01-30","England",74980
+"2022-01-30","Northern Ireland",4220
+"2022-01-31","Northern Ireland",4971
+"2022-01-31","Wales",2648
+"2022-01-31","England",88502
+"2022-01-31","Scotland",8930
+"2022-02-01","England",78511
+"2022-02-01","Scotland",8413
+"2022-02-01","Northern Ireland",4568
+"2022-02-01","Wales",2457
+"2022-02-02","Wales",2276
+"2022-02-02","England",73908
+"2022-02-02","Scotland",7973
+"2022-02-02","Northern Ireland",4261
+"2022-02-03","Northern Ireland",3662
+"2022-02-03","Wales",1770
+"2022-02-03","Scotland",7180
+"2022-02-03","England",64032
+"2022-02-04","England",52556
+"2022-02-04","Scotland",5972
+"2022-02-04","Northern Ireland",3075
+"2022-02-04","Wales",1661
+"2022-02-05","Wales",1095
+"2022-02-05","Scotland",5288
+"2022-02-05","England",43233
+"2022-02-05","Northern Ireland",2689
+"2022-02-06","Northern Ireland",3193
+"2022-02-06","Wales",1147
+"2022-02-06","England",50148
+"2022-02-06","Scotland",6064
+"2022-02-07","Scotland",7783
+"2022-02-07","England",62672
+"2022-02-07","Northern Ireland",4075
+"2022-02-07","Wales",1953
+"2022-02-08","Wales",1815
+"2022-02-08","England",55437
+"2022-02-08","Scotland",8572
+"2022-02-08","Northern Ireland",3837
+"2022-02-09","Northern Ireland",3459
+"2022-02-09","Wales",1649
+"2022-02-09","England",51013
+"2022-02-09","Scotland",8218
+"2022-02-10","Scotland",6769
+"2022-02-10","England",41331
+"2022-02-10","Northern Ireland",2813
+"2022-02-10","Wales",1380
+"2022-02-11","Wales",1071
+"2022-02-11","Scotland",6107
+"2022-02-11","England",34944
+"2022-02-11","Northern Ireland",2437
+"2022-02-12","Northern Ireland",2183
+"2022-02-12","Wales",792
+"2022-02-12","England",29142
+"2022-02-12","Scotland",5412
+"2022-02-13","Scotland",6064
+"2022-02-13","England",32326
+"2022-02-13","Northern Ireland",2510
+"2022-02-13","Wales",855
+"2022-02-14","Wales",1450
+"2022-02-14","Scotland",7806
+"2022-02-14","England",42490
+"2022-02-14","Northern Ireland",2999
+"2022-02-15","Northern Ireland",2869
+"2022-02-15","Wales",1272
+"2022-02-15","Scotland",8216
+"2022-02-15","England",40145
+"2022-02-16","Scotland",7945
+"2022-02-16","England",39445
+"2022-02-16","Northern Ireland",2931
+"2022-02-16","Wales",1251
+"2022-02-17","Wales",968
+"2022-02-17","England",34168
+"2022-02-17","Scotland",7248
+"2022-02-17","Northern Ireland",2332
+"2022-02-18","Northern Ireland",2096
+"2022-02-18","Wales",278
+"2022-02-18","Scotland",5944
+"2022-02-18","England",24923
+"2022-02-19","England",26429
+"2022-02-19","Scotland",5482
+"2022-02-19","Northern Ireland",1894
+"2022-02-19","Wales",842
+"2022-02-20","Wales",559
+"2022-02-20","Scotland",6314
+"2022-02-20","England",28411
+"2022-02-20","Northern Ireland",2436
+"2022-02-21","Northern Ireland",2865
+"2022-02-21","Wales",1087
+"2022-02-21","England",33033
+"2022-02-21","Scotland",8146
+"2022-02-22","England",28019
+"2022-02-22","Scotland",7667
+"2022-02-22","Northern Ireland",2679
+"2022-02-22","Wales",823
+"2022-02-23","Wales",858
+"2022-02-23","England",26009
+"2022-02-23","Scotland",7239
+"2022-02-23","Northern Ireland",2371
+"2022-02-24","Northern Ireland",1887
+"2022-02-24","Wales",708
+"2022-02-24","Scotland",6154
+"2022-02-24","England",21882
+"2022-02-25","Scotland",5978
+"2022-02-25","England",19533
+"2022-02-25","Northern Ireland",1709
+"2022-02-25","Wales",617
+"2022-02-26","Wales",499
+"2022-02-26","England",17604
+"2022-02-26","Scotland",5383
+"2022-02-26","Northern Ireland",1603
+"2022-02-27","Northern Ireland",2090
+"2022-02-27","Wales",589
+"2022-02-27","England",22165
+"2022-02-27","Scotland",6516
+"2022-02-28","England",31865
+"2022-02-28","Scotland",9265
+"2022-02-28","Northern Ireland",2520
+"2022-02-28","Wales",999
+"2022-03-01","Wales",983
+"2022-03-01","Scotland",9450
+"2022-03-01","England",31864
+"2022-03-01","Northern Ireland",2498
+"2022-03-02","Northern Ireland",2396
+"2022-03-02","Wales",1055
+"2022-03-02","Scotland",9367
+"2022-03-02","England",33361
+"2022-03-03","England",31533
+"2022-03-03","Scotland",9019
+"2022-03-03","Northern Ireland",2157
+"2022-03-03","Wales",1052
+"2022-03-04","Wales",832
+"2022-03-04","Scotland",8105
+"2022-03-04","England",30605
+"2022-03-04","Northern Ireland",1866
+"2022-03-05","Northern Ireland",1756
+"2022-03-05","Wales",787
+"2022-03-05","Scotland",7707
+"2022-03-05","England",28509
+"2022-03-06","England",35914
+"2022-03-06","Scotland",10048
+"2022-03-06","Northern Ireland",2209
+"2022-03-06","Wales",855
+"2022-03-07","Wales",1494
+"2022-03-07","Scotland",13338
+"2022-03-07","England",50982
+"2022-03-07","Northern Ireland",2706
+"2022-03-08","Northern Ireland",2690
+"2022-03-08","Wales",1492
+"2022-03-08","Scotland",13587
+"2022-03-08","England",52342
+"2022-03-09","England",55491
+"2022-03-09","Scotland",13938
+"2022-03-09","Northern Ireland",2533
+"2022-03-09","Wales",1569
+"2022-03-10","Wales",1501
+"2022-03-10","Scotland",12499
+"2022-03-10","England",54298
+"2022-03-10","Northern Ireland",2212
+"2022-03-11","Northern Ireland",1960
+"2022-03-11","Wales",1388
+"2022-03-11","England",52270
+"2022-03-11","Scotland",11412
+"2022-03-12","Scotland",10084
+"2022-03-12","England",49161
+"2022-03-12","Northern Ireland",1686
+"2022-03-12","Wales",1147
+"2022-03-13","Wales",1284
+"2022-03-13","Scotland",12134
+"2022-03-13","England",60270
+"2022-03-13","Northern Ireland",2050
+"2022-03-14","Northern Ireland",2566
+"2022-03-14","Wales",2471
+"2022-03-14","Scotland",15280
+"2022-03-14","England",79517
+"2022-03-15","England",74101
+"2022-03-15","Scotland",14807
+"2022-03-15","Northern Ireland",2404
+"2022-03-15","Wales",2396
+"2022-03-16","Wales",2306
+"2022-03-16","Scotland",13458
+"2022-03-16","England",73952
+"2022-03-16","Northern Ireland",2036
+"2022-03-17","Northern Ireland",1670
+"2022-03-17","Wales",2075
+"2022-03-17","England",67687
+"2022-03-17","Scotland",11421
+"2022-03-18","Scotland",9867
+"2022-03-18","England",61904
+"2022-03-18","Northern Ireland",1704
+"2022-03-18","Wales",1810
+"2022-03-19","Wales",1399
+"2022-03-19","Scotland",9162
+"2022-03-19","England",55211
+"2022-03-19","Northern Ireland",1645
+"2022-03-20","Northern Ireland",2173
+"2022-03-20","Wales",1465
+"2022-03-20","England",66907
+"2022-03-20","Scotland",10509
+"2022-03-21","Scotland",13646
+"2022-03-21","England",89907
+"2022-03-21","Northern Ireland",2835
+"2022-03-21","Wales",2898
+"2022-03-22","Wales",2502
+"2022-03-22","Scotland",12344
+"2022-03-22","England",81845
+"2022-03-22","Northern Ireland",2404
+"2022-03-23","Northern Ireland",2325
+"2022-03-23","Wales",2489
+"2022-03-23","England",77600
+"2022-03-23","Scotland",11771
+"2022-03-24","Scotland",10388
+"2022-03-24","England",68604
+"2022-03-24","Northern Ireland",1850
+"2022-03-24","Wales",2063
+"2022-03-25","Wales",1923
+"2022-03-25","Scotland",8819
+"2022-03-25","England",60256
+"2022-03-25","Northern Ireland",1432
+"2022-03-26","Northern Ireland",1174
+"2022-03-26","Wales",1288
+"2022-03-26","Scotland",7218
+"2022-03-26","England",51776
+"2022-03-27","England",58000
+"2022-03-27","Scotland",7825
+"2022-03-27","Northern Ireland",1338
+"2022-03-27","Wales",1173
+"2022-03-28","Wales",1957
+"2022-03-28","Scotland",10261
+"2022-03-28","England",78909
+"2022-03-28","Northern Ireland",1730
+"2022-03-29","Northern Ireland",1462
+"2022-03-29","Wales",1473
+"2022-03-29","England",67441
+"2022-03-29","Scotland",9750
+"2022-03-30","Scotland",8144
+"2022-03-30","England",62750
+"2022-03-30","Northern Ireland",1369
+"2022-03-30","Wales",1380
+"2022-03-31","Wales",1025
+"2022-03-31","Scotland",6772
+"2022-03-31","England",45879
+"2022-03-31","Northern Ireland",1115
+"2022-04-01","Northern Ireland",985
+"2022-04-01","Wales",524
+"2022-04-01","England",40342
+"2022-04-01","Scotland",5611
+"2022-04-02","England",31609
+"2022-04-02","Scotland",4856
+"2022-04-02","Northern Ireland",809
+"2022-04-02","Wales",318
+"2022-04-03","Wales",256
+"2022-04-03","Scotland",5320
+"2022-04-03","England",35606
+"2022-04-03","Northern Ireland",997
+"2022-04-04","Northern Ireland",1321
+"2022-04-04","Wales",473
+"2022-04-04","England",45140
+"2022-04-04","Scotland",6793
+"2022-04-05","Scotland",7014
+"2022-04-05","England",40393
+"2022-04-05","Northern Ireland",1231
+"2022-04-05","Wales",463
+"2022-04-06","Wales",367
+"2022-04-06","England",36891
+"2022-04-06","Scotland",6421
+"2022-04-06","Northern Ireland",1071
+"2022-04-07","Northern Ireland",949
+"2022-04-07","Wales",341
+"2022-04-07","Scotland",5674
+"2022-04-07","England",31745
+"2022-04-08","Scotland",4605
+"2022-04-08","England",27391
+"2022-04-08","Northern Ireland",678
+"2022-04-08","Wales",314
+"2022-04-09","Wales",196
+"2022-04-09","England",23013
+"2022-04-09","Scotland",4088
+"2022-04-09","Northern Ireland",588
+"2022-04-10","Northern Ireland",715
+"2022-04-10","Wales",207
+"2022-04-10","England",25641
+"2022-04-10","Scotland",4389
+"2022-04-11","Scotland",5546
+"2022-04-11","England",30597
+"2022-04-11","Northern Ireland",909
+"2022-04-11","Wales",319
+"2022-04-12","Wales",277
+"2022-04-12","Scotland",5304
+"2022-04-12","England",27382
+"2022-04-12","Northern Ireland",808
+"2022-04-13","Northern Ireland",784
+"2022-04-13","Wales",254
+"2022-04-13","Scotland",5140
+"2022-04-13","England",25507
+"2022-04-14","Scotland",4320
+"2022-04-14","England",21433
+"2022-04-14","Northern Ireland",652
+"2022-04-14","Wales",233
+"2022-04-15","Wales",150
+"2022-04-15","England",17306
+"2022-04-15","Scotland",3631
+"2022-04-15","Northern Ireland",528
+"2022-04-16","Northern Ireland",470
+"2022-04-16","Wales",140
+"2022-04-16","Scotland",3223
+"2022-04-16","England",16091
+"2022-04-17","Scotland",3302
+"2022-04-17","England",16262
+"2022-04-17","Northern Ireland",413
+"2022-04-17","Wales",167
+"2022-04-18","Wales",184
+"2022-04-18","England",20566
+"2022-04-18","Scotland",3882
+"2022-04-18","Northern Ireland",591
+"2022-04-19","Northern Ireland",719
+"2022-04-19","Wales",214
+"2022-04-19","Scotland",4244
+"2022-04-19","England",20595
+"2022-04-20","Scotland",3639
+"2022-04-20","England",16973
+"2022-04-20","Northern Ireland",682
+"2022-04-20","Wales",163
+"2022-04-21","Wales",136
+"2022-04-21","Scotland",3186
+"2022-04-21","England",14520
+"2022-04-21","Northern Ireland",622
+"2022-04-22","Northern Ireland",475
+"2022-04-22","Wales",154
+"2022-04-22","England",12526
+"2022-04-22","Scotland",2548
+"2022-04-23","Scotland",2140
+"2022-04-23","England",10573
+"2022-04-23","Northern Ireland",385
+"2022-04-23","Wales",112
+"2022-04-24","Wales",109
+"2022-04-24","England",11867
+"2022-04-24","Scotland",2302
+"2022-04-24","Northern Ireland",437
+"2022-04-25","Northern Ireland",454
+"2022-04-25","Wales",148
+"2022-04-25","Scotland",3103
+"2022-04-25","England",13403
+"2022-04-26","England",11293
+"2022-04-26","Scotland",2746
+"2022-04-26","Northern Ireland",371
+"2022-04-26","Wales",150
+"2022-04-27","Wales",115
+"2022-04-27","England",10120
+"2022-04-27","Scotland",2460
+"2022-04-27","Northern Ireland",360
+"2022-04-28","Northern Ireland",297
+"2022-04-28","Wales",138
+"2022-04-28","Scotland",2117
+"2022-04-28","England",9056
+"2022-04-29","Scotland",1647
+"2022-04-29","England",7992
+"2022-04-29","Northern Ireland",281
+"2022-04-29","Wales",92
+"2022-04-30","Wales",73
+"2022-04-30","Scotland",1215
+"2022-04-30","England",6863
+"2022-04-30","Northern Ireland",203
+"2022-05-01","Northern Ireland",243
+"2022-05-01","Wales",76
+"2022-05-01","Scotland",997
+"2022-05-01","England",7718
+"2022-05-02","Scotland",1176
+"2022-05-02","England",10343
+"2022-05-02","Northern Ireland",308
+"2022-05-02","Wales",80
+"2022-05-03","Wales",154
+"2022-05-03","England",11155
+"2022-05-03","Scotland",1636
+"2022-05-03","Northern Ireland",373
+"2022-05-04","Northern Ireland",344
+"2022-05-04","Wales",123
+"2022-05-04","Scotland",1422
+"2022-05-04","England",9783
+"2022-05-05","England",8592
+"2022-05-05","Scotland",1210
+"2022-05-05","Northern Ireland",306
+"2022-05-05","Wales",113
+"2022-05-06","Wales",128
+"2022-05-06","England",7518
+"2022-05-06","Scotland",1047
+"2022-05-06","Northern Ireland",261
+"2022-05-07","Northern Ireland",253
+"2022-05-07","Wales",69
+"2022-05-07","England",6354
+"2022-05-07","Scotland",841
+"2022-05-08","England",7664
+"2022-05-08","Scotland",1018
+"2022-05-08","Northern Ireland",321
+"2022-05-08","Wales",59
+"2022-05-09","Wales",99
+"2022-05-09","Scotland",1355
+"2022-05-09","England",8876
+"2022-05-09","Northern Ireland",372
+"2022-05-10","Northern Ireland",333
+"2022-05-10","Wales",90
+"2022-05-10","England",8154
+"2022-05-10","Scotland",1171
+"2022-05-11","Scotland",1093
+"2022-05-11","England",7265
+"2022-05-11","Northern Ireland",289
+"2022-05-11","Wales",78
+"2022-05-12","Wales",62
+"2022-05-12","Scotland",990
+"2022-05-12","England",6376
+"2022-05-12","Northern Ireland",214
+"2022-05-13","Northern Ireland",213
+"2022-05-13","Wales",67
+"2022-05-13","Scotland",868
+"2022-05-13","England",5794
+"2022-05-14","Scotland",740
+"2022-05-14","England",5139
+"2022-05-14","Northern Ireland",195
+"2022-05-14","Wales",46
+"2022-05-15","Wales",40
+"2022-05-15","England",6730
+"2022-05-15","Scotland",922
+"2022-05-15","Northern Ireland",281
+"2022-05-16","Northern Ireland",356
+"2022-05-16","Wales",67
+"2022-05-16","Scotland",1111
+"2022-05-16","England",7883
+"2022-05-17","Scotland",1062
+"2022-05-17","England",6833
+"2022-05-17","Northern Ireland",318
+"2022-05-17","Wales",73
+"2022-05-18","Wales",68
+"2022-05-18","Scotland",912
+"2022-05-18","England",6392
+"2022-05-18","Northern Ireland",266
+"2022-05-19","Northern Ireland",190
+"2022-05-19","Wales",51
+"2022-05-19","England",5785
+"2022-05-19","Scotland",794
+"2022-05-20","Scotland",745
+"2022-05-20","England",5049
+"2022-05-20","Wales",27
+"2022-05-21","Wales",29
+"2022-05-21","England",4243
+"2022-05-21","Scotland",747
+"2022-05-22","England",5151
+"2022-05-22","Scotland",816
+"2022-05-22","Wales",30
+"2022-05-23","Wales",52
+"2022-05-23","Scotland",1013
+"2022-05-23","England",6248
+"2022-05-24","Scotland",1032
+"2022-05-24","England",5593
+"2022-05-24","Wales",54
+"2022-05-25","Wales",55
+"2022-05-25","Scotland",1049
+"2022-05-25","England",5189
+"2022-05-26","Scotland",899
+"2022-05-26","England",4819
+"2022-05-26","Wales",35
+"2022-05-27","Wales",45
+"2022-05-27","England",4494
+"2022-05-27","Scotland",870
+"2022-05-28","England",4153
+"2022-05-28","Scotland",808
+"2022-05-28","Wales",27
+"2022-05-29","Wales",34
+"2022-05-29","England",4687
+"2022-05-29","Scotland",959
+"2022-05-30","Scotland",1154
+"2022-05-30","England",5928
+"2022-05-30","Wales",33
+"2022-05-31","Wales",30
+"2022-05-31","England",5734
+"2022-05-31","Scotland",1329
+"2022-06-01","England",5711
+"2022-06-01","Scotland",1246
+"2022-06-01","Wales",54
+"2022-06-02","Wales",27
+"2022-06-02","Scotland",1101
+"2022-06-02","England",5081
+"2022-06-03","Scotland",1003
+"2022-06-03","England",5581
+"2022-06-03","Wales",51
+"2022-06-04","Wales",35
+"2022-06-04","England",6278
+"2022-06-04","Scotland",1179
+"2022-06-05","Scotland",1428
+"2022-06-05","England",8350
+"2022-06-05","Wales",37
+"2022-06-06","Wales",74
+"2022-06-06","England",9798
+"2022-06-06","Scotland",1875
+"2022-06-07","Scotland",1857
+"2022-06-07","England",9484
+"2022-06-07","Wales",70
+"2022-06-08","Wales",66
+"2022-06-08","Scotland",1766
+"2022-06-08","England",9952
+"2022-06-09","Scotland",1681
+"2022-06-09","England",9589
+"2022-06-09","Wales",49
+"2022-06-10","Wales",61
+"2022-06-10","England",9153
+"2022-06-10","Scotland",1570
+"2022-06-11","Scotland",1553
+"2022-06-11","England",8468
+"2022-06-11","Wales",56
+"2022-06-12","Wales",56
+"2022-06-12","Scotland",1919
+"2022-06-12","England",10718
+"2022-06-13","England",12954
+"2022-06-13","Scotland",2213
+"2022-06-13","Wales",105
+"2022-06-14","Wales",92
+"2022-06-14","England",12660
+"2022-06-14","Scotland",2389
+"2022-06-15","Scotland",2357
+"2022-06-15","England",12387
+"2022-06-15","Wales",93
+"2022-06-16","Wales",93
+"2022-06-16","England",11915
+"2022-06-16","Scotland",2217
+"2022-06-17","Scotland",2162
+"2022-06-17","England",11640
+"2022-06-17","Wales",117
+"2022-06-18","Wales",84
+"2022-06-18","England",11634
+"2022-06-18","Scotland",1905
+"2022-06-19","England",14524
+"2022-06-19","Scotland",2394
+"2022-06-19","Wales",79
+"2022-06-20","Wales",173
+"2022-06-20","England",16918
+"2022-06-20","Scotland",2851
+"2022-06-21","Scotland",3188
+"2022-06-21","England",17531
+"2022-06-21","Wales",177
+"2022-06-22","Wales",164
+"2022-06-22","England",17764
+"2022-06-22","Scotland",2945
+"2022-06-23","Scotland",2725
+"2022-06-23","England",16698
+"2022-06-23","Wales",167
+"2022-06-24","Wales",178
+"2022-06-24","Scotland",2545
+"2022-06-24","England",15626
+"2022-06-25","Scotland",2214
+"2022-06-25","England",14478
+"2022-06-25","Wales",108
+"2022-06-26","Wales",135
+"2022-06-26","Scotland",2604
+"2022-06-26","England",18039
+"2022-06-27","England",21896
+"2022-06-27","Scotland",2981
+"2022-06-27","Wales",227
+"2022-06-28","Wales",207
+"2022-06-28","England",21869
+"2022-06-28","Scotland",2965
+"2022-06-29","England",21720
+"2022-06-29","Scotland",2664
+"2022-06-29","Wales",217
+"2022-06-30","Wales",210
+"2022-06-30","England",21513
+"2022-06-30","Scotland",2517
+"2022-07-01","England",21067
+"2022-07-01","Scotland",2402
+"2022-07-01","Wales",181
+"2022-07-02","Wales",130
+"2022-07-02","Scotland",2245
+"2022-07-02","England",19586
+"2022-07-03","Scotland",2491
+"2022-07-03","England",25172
+"2022-07-03","Wales",117
+"2022-07-04","Wales",295
+"2022-07-04","England",30388
+"2022-07-04","Scotland",3021
+"2022-07-05","England",28118
+"2022-07-05","Scotland",2995
+"2022-07-05","Wales",302
+"2022-07-06","Wales",217
+"2022-07-06","England",26741
+"2022-07-06","Scotland",2740
+"2022-07-07","England",24049
+"2022-07-07","Scotland",2199
+"2022-07-07","Wales",206
+"2022-07-08","Wales",229
+"2022-07-08","Scotland",2209
+"2022-07-08","England",22173
+"2022-07-09","England",19354
+"2022-07-09","Scotland",1724
+"2022-07-09","Wales",168
+"2022-07-10","Wales",142
+"2022-07-10","England",23046
+"2022-07-10","Scotland",1908
+"2022-07-11","Scotland",2349
+"2022-07-11","England",27198
+"2022-07-11","Wales",279
+"2022-07-12","Wales",196
+"2022-07-12","Scotland",2373
+"2022-07-12","England",24377
+"2022-07-13","England",21639
+"2022-07-13","Scotland",2037
+"2022-07-13","Wales",180
+"2022-07-14","Wales",119
+"2022-07-14","Scotland",1641
+"2022-07-14","England",19340
+"2022-07-15","England",16626
+"2022-07-15","Scotland",1588
+"2022-07-15","Wales",145
+"2022-07-16","Wales",78
+"2022-07-16","England",13677
+"2022-07-16","Scotland",1262
+"2022-07-17","England",15702
+"2022-07-17","Scotland",1441
+"2022-07-17","Wales",93
+"2022-07-18","Wales",148
+"2022-07-18","England",16919
+"2022-07-18","Scotland",1651
+"2022-07-19","England",14866
+"2022-07-19","Scotland",1672
+"2022-07-19","Wales",132
+"2022-07-20","Wales",137
+"2022-07-20","England",14533
+"2022-07-20","Scotland",1499
+"2022-07-21","England",12791
+"2022-07-21","Scotland",1258
+"2022-07-21","Wales",109
+"2022-07-22","Wales",107
+"2022-07-22","Scotland",1094
+"2022-07-22","England",11177
+"2022-07-23","England",8909
+"2022-07-23","Scotland",956
+"2022-07-23","Wales",69
+"2022-07-24","Wales",72
+"2022-07-24","Scotland",987
+"2022-07-24","England",10216
+"2022-07-25","England",11929
+"2022-07-25","Scotland",1243
+"2022-07-25","Wales",127
+"2022-07-26","Wales",90
+"2022-07-26","Scotland",1153
+"2022-07-26","England",10482
+"2022-07-27","Scotland",1036
+"2022-07-27","England",9435
+"2022-07-27","Wales",73
+"2022-07-28","Wales",79
+"2022-07-28","Scotland",911
+"2022-07-28","England",8339
+"2022-07-29","England",7585
+"2022-07-29","Scotland",841
+"2022-07-29","Wales",82
+"2022-07-30","Wales",68
+"2022-07-30","Scotland",645
+"2022-07-30","England",6612
+"2022-07-31","Scotland",708
+"2022-07-31","England",7672
+"2022-07-31","Wales",46
+"2022-08-01","Wales",106
+"2022-08-01","Scotland",915
+"2022-08-01","England",8814
+"2022-08-02","Scotland",912
+"2022-08-02","England",8165
+"2022-08-02","Wales",93
+"2022-08-03","Wales",61
+"2022-08-03","England",7419
+"2022-08-03","Scotland",873
+"2022-08-04","England",6524
+"2022-08-04","Scotland",700
+"2022-08-04","Wales",72
+"2022-08-05","Wales",63
+"2022-08-05","Scotland",626
+"2022-08-05","England",5859
+"2022-08-06","Scotland",508
+"2022-08-06","England",4852
+"2022-08-06","Wales",60
+"2022-08-07","Wales",48
+"2022-08-07","England",5897
+"2022-08-07","Scotland",602
+"2022-08-08","Scotland",755
+"2022-08-08","England",7226
+"2022-08-08","Wales",87
+"2022-08-09","Wales",70
+"2022-08-09","Scotland",777
+"2022-08-09","England",6462
+"2022-08-10","England",6003
+"2022-08-10","Scotland",670
+"2022-08-10","Wales",75
+"2022-08-11","Wales",81
+"2022-08-11","England",5446
+"2022-08-11","Scotland",666
+"2022-08-12","England",4781
+"2022-08-12","Scotland",485
+"2022-08-12","Wales",73
+"2022-08-13","Wales",55
+"2022-08-13","Scotland",462
+"2022-08-13","England",3978
+"2022-08-14","England",4781
+"2022-08-14","Scotland",539
+"2022-08-14","Wales",43
+"2022-08-15","Wales",97
+"2022-08-15","England",5606
+"2022-08-15","Scotland",721
+"2022-08-16","Scotland",621
+"2022-08-16","England",4845
+"2022-08-16","Wales",93
+"2022-08-17","Wales",42
+"2022-08-17","Scotland",569
+"2022-08-17","England",4421
+"2022-08-18","England",3989
+"2022-08-18","Scotland",532
+"2022-08-18","Wales",43
+"2022-08-19","Wales",56
+"2022-08-19","England",3492
+"2022-08-19","Scotland",464
+"2022-08-20","Scotland",414
+"2022-08-20","England",3059
+"2022-08-20","Wales",29
+"2022-08-21","Wales",45
+"2022-08-21","Scotland",493
+"2022-08-21","England",3547
+"2022-08-22","England",4575
+"2022-08-22","Scotland",591
+"2022-08-22","Wales",58
+"2022-08-23","Wales",52
+"2022-08-23","England",4076
+"2022-08-23","Scotland",650
+"2022-08-24","Scotland",591
+"2022-08-24","England",3913
+"2022-08-24","Wales",50
+"2022-08-25","Wales",42
+"2022-08-25","Scotland",488
+"2022-08-25","England",3266
+"2022-08-26","Scotland",423
+"2022-08-26","England",2997
+"2022-08-26","Wales",31
+"2022-08-27","Wales",34
+"2022-08-27","England",2606
+"2022-08-27","Scotland",472
+"2022-08-28","Scotland",527
+"2022-08-28","England",2882
+"2022-08-28","Wales",30
+"2022-08-29","Wales",31
+"2022-08-29","England",3936
+"2022-08-29","Scotland",695
+"2022-08-30","England",4473
+"2022-08-30","Scotland",693
+"2022-08-30","Wales",60
+"2022-08-31","Wales",64
+"2022-08-31","England",3974
+"2022-08-31","Scotland",577
+"2022-09-01","Scotland",537
+"2022-09-01","England",3760
+"2022-09-01","Wales",53
+"2022-09-02","Wales",45
+"2022-09-02","England",3239
+"2022-09-02","Scotland",524
+"2022-09-03","England",2971
+"2022-09-03","Scotland",398
+"2022-09-03","Wales",48
+"2022-09-04","Wales",54
+"2022-09-04","England",3759
+"2022-09-04","Scotland",475
+"2022-09-05","Scotland",693
+"2022-09-05","England",4385
+"2022-09-05","Wales",47
+"2022-09-06","Wales",40
+"2022-09-06","Scotland",598
+"2022-09-06","England",3940
+"2022-09-07","Scotland",460
+"2022-09-07","England",3749
+"2022-09-07","Wales",26
+"2022-09-08","Wales",43
+"2022-09-08","England",3250
+"2022-09-08","Scotland",454
+"2022-09-09","England",3103
+"2022-09-09","Scotland",401
+"2022-09-09","Wales",49
+"2022-09-10","Wales",31
+"2022-09-10","England",2861
+"2022-09-10","Scotland",376
+"2022-09-11","Scotland",429
+"2022-09-11","England",3890
+"2022-09-11","Wales",28
+"2022-09-12","Wales",61
+"2022-09-12","England",4758
+"2022-09-12","Scotland",489
+"2022-09-13","Scotland",485
+"2022-09-13","England",4601
+"2022-09-13","Wales",62
+"2022-09-14","Wales",42
+"2022-09-14","England",4453
+"2022-09-14","Scotland",478
+"2022-09-15","Scotland",392
+"2022-09-15","England",4200
+"2022-09-15","Wales",42
+"2022-09-16","Wales",39
+"2022-09-16","England",3729
+"2022-09-16","Scotland",366
+"2022-09-17","England",3188
+"2022-09-17","Scotland",305
+"2022-09-17","Wales",28
+"2022-09-18","Wales",38
+"2022-09-18","England",3943
+"2022-09-18","Scotland",358
+"2022-09-19","England",5702
+"2022-09-19","Scotland",410
+"2022-09-19","Wales",54
+"2022-09-20","Wales",92
+"2022-09-20","England",7200
+"2022-09-20","Scotland",536
+"2022-09-21","England",6940
+"2022-09-21","Scotland",531
+"2022-09-21","Wales",82
+"2022-09-22","Wales",76
+"2022-09-22","England",6294
+"2022-09-22","Scotland",445
+"2022-09-23","England",6006
+"2022-09-23","Scotland",401
+"2022-09-23","Wales",78
+"2022-09-24","Wales",71
+"2022-09-24","Scotland",339
+"2022-09-24","England",5309
+"2022-09-25","England",6737
+"2022-09-25","Scotland",436
+"2022-09-25","Wales",67
+"2022-09-26","Wales",91
+"2022-09-26","Scotland",485
+"2022-09-26","England",8042
+"2022-09-27","England",7644
+"2022-09-27","Scotland",493
+"2022-09-27","Wales",114
+"2022-09-28","Wales",117
+"2022-09-28","Scotland",491
+"2022-09-28","England",7806
+"2022-09-29","England",7352
+"2022-09-29","Scotland",448
+"2022-09-29","Wales",95
+"2022-09-30","Wales",111
+"2022-09-30","England",7099
+"2022-09-30","Scotland",405
+"2022-10-01","Scotland",425
+"2022-10-01","England",6564
+"2022-10-01","Wales",76
+"2022-10-02","Wales",96
+"2022-10-02","Scotland",485
+"2022-10-02","England",8623
+"2022-10-03","Scotland",665
+"2022-10-03","England",10881
+"2022-10-03","Wales",146
+"2022-10-04","Wales",115
+"2022-10-04","Scotland",604
+"2022-10-04","England",10246
+"2022-10-05","England",9544
+"2022-10-05","Scotland",578
+"2022-10-05","Wales",109
+"2022-10-06","Wales",92
+"2022-10-06","Scotland",478
+"2022-10-06","England",8819
+"2022-10-07","England",8333
+"2022-10-07","Scotland",493
+"2022-10-07","Wales",124
+"2022-10-08","Wales",74
+"2022-10-08","Scotland",398
+"2022-10-08","England",6581
+"2022-10-09","England",8014
+"2022-10-09","Scotland",455
+"2022-10-09","Wales",89
+"2022-10-10","Wales",139
+"2022-10-10","England",9835
+"2022-10-10","Scotland",523
+"2022-10-11","England",8781
+"2022-10-11","Scotland",541
+"2022-10-11","Wales",139
+"2022-10-12","Wales",112
+"2022-10-12","Scotland",533
+"2022-10-12","England",8123
+"2022-10-13","England",7563
+"2022-10-13","Scotland",457
+"2022-10-13","Wales",114
+"2022-10-14","Wales",133
+"2022-10-14","Scotland",494
+"2022-10-14","England",7343
+"2022-10-15","England",6005
+"2022-10-15","Scotland",339
+"2022-10-15","Wales",98
+"2022-10-16","Wales",74
+"2022-10-16","Scotland",449
+"2022-10-16","England",7257
+"2022-10-17","England",9301
+"2022-10-17","Scotland",576
+"2022-10-17","Wales",125
+"2022-10-18","Wales",94
+"2022-10-18","England",7665
+"2022-10-18","Scotland",474
+"2022-10-19","Scotland",446
+"2022-10-19","England",7042
+"2022-10-19","Wales",110
+"2022-10-20","Wales",96
+"2022-10-20","England",6075
+"2022-10-20","Scotland",405
+"2022-10-21","England",5759
+"2022-10-21","Scotland",453
+"2022-10-21","Wales",85
+"2022-10-22","Wales",60
+"2022-10-22","England",4527
+"2022-10-22","Scotland",381
+"2022-10-23","Scotland",458
+"2022-10-23","England",5011
+"2022-10-23","Wales",54
+"2022-10-24","Wales",100
+"2022-10-24","England",6147
+"2022-10-24","Scotland",560
+"2022-10-25","Scotland",408
+"2022-10-25","England",5181
+"2022-10-25","Wales",76
+"2022-10-26","Wales",83
+"2022-10-26","Scotland",442
+"2022-10-26","England",4924
+"2022-10-27","England",4372
+"2022-10-27","Scotland",403
+"2022-10-27","Wales",80
+"2022-10-28","Wales",79
+"2022-10-28","England",3916
+"2022-10-28","Scotland",406
+"2022-10-29","Scotland",307
+"2022-10-29","England",3227
+"2022-10-29","Wales",49
+"2022-10-30","Wales",65
+"2022-10-30","England",3827
+"2022-10-30","Scotland",379
+"2022-10-31","England",4634
+"2022-10-31","Scotland",434
+"2022-10-31","Wales",62
+"2022-11-01","Wales",52
+"2022-11-01","England",4091
+"2022-11-01","Scotland",406
+"2022-11-02","Scotland",356
+"2022-11-02","Wales",59
+"2022-11-02","England",3599
+"2022-11-03","England",3261
+"2022-11-03","Scotland",365
+"2022-11-03","Wales",52
+"2022-11-04","Wales",38
+"2022-11-04","England",2760
+"2022-11-04","Scotland",309
+"2022-11-05","Scotland",262
+"2022-11-05","Wales",29
+"2022-11-05","England",2374
+"2022-11-06","England",2917
+"2022-11-06","Scotland",304
+"2022-11-06","Wales",46
+"2022-11-07","Wales",48
+"2022-11-07","England",3879
+"2022-11-07","Scotland",394
+"2022-11-08","Scotland",396
+"2022-11-08","Wales",53
+"2022-11-08","England",3380
+"2022-11-09","England",3185
+"2022-11-09","Scotland",351
+"2022-11-09","Wales",40
+"2022-11-10","Wales",41
+"2022-11-10","England",2806
+"2022-11-10","Scotland",358
+"2022-11-11","Scotland",291
+"2022-11-11","Wales",40
+"2022-11-11","England",2562
+"2022-11-12","England",2172
+"2022-11-12","Scotland",231
+"2022-11-12","Wales",30
+"2022-11-13","Wales",27
+"2022-11-13","England",2647
+"2022-11-13","Scotland",238
+"2022-11-14","Scotland",372
+"2022-11-14","Wales",57
+"2022-11-14","England",3494
+"2022-11-15","England",3160
+"2022-11-15","Scotland",328
+"2022-11-15","Wales",46
+"2022-11-16","Wales",36
+"2022-11-16","England",2933
+"2022-11-16","Scotland",291
+"2022-11-17","Scotland",282
+"2022-11-17","Wales",52
+"2022-11-17","England",2703
+"2022-11-18","England",2501
+"2022-11-18","Scotland",232
+"2022-11-18","Wales",40
+"2022-11-19","Wales",27
+"2022-11-19","England",2207
+"2022-11-19","Scotland",197
+"2022-11-20","Scotland",243
+"2022-11-20","Wales",34
+"2022-11-20","England",2613
+"2022-11-21","England",3549
+"2022-11-21","Scotland",337
+"2022-11-21","Wales",52
+"2022-11-22","Wales",56
+"2022-11-22","England",3451
+"2022-11-22","Scotland",298
+"2022-11-23","Scotland",329
+"2022-11-23","Wales",47
+"2022-11-23","England",3240
+"2022-11-24","England",3007
+"2022-11-24","Scotland",277
+"2022-11-24","Wales",45
+"2022-11-25","Wales",34
+"2022-11-25","England",2638
+"2022-11-25","Scotland",230
+"2022-11-26","Scotland",199
+"2022-11-26","Wales",48
+"2022-11-26","England",2304
+"2022-11-27","England",3152
+"2022-11-27","Scotland",268
+"2022-11-27","Wales",28
+"2022-11-28","Wales",71
+"2022-11-28","England",4237
+"2022-11-28","Scotland",331
+"2022-11-29","Scotland",325
+"2022-11-29","Wales",89
+"2022-11-29","England",3972
+"2022-11-30","England",3608
+"2022-11-30","Scotland",283
+"2022-11-30","Wales",89
+"2022-12-01","Wales",62
+"2022-12-01","England",3214
+"2022-12-01","Scotland",229
+"2022-12-02","Scotland",269
+"2022-12-02","Wales",52
+"2022-12-02","England",3275
+"2022-12-03","England",2481
+"2022-12-03","Scotland",214
+"2022-12-03","Wales",53
+"2022-12-04","Wales",58
+"2022-12-04","England",3409
+"2022-12-04","Scotland",319
+"2022-12-05","Scotland",351
+"2022-12-05","Wales",124
+"2022-12-05","England",4850
+"2022-12-06","England",4761
+"2022-12-06","Scotland",377
+"2022-12-06","Wales",103
+"2022-12-07","Wales",135
+"2022-12-07","England",4640
+"2022-12-07","Scotland",420
+"2022-12-08","Scotland",343
+"2022-12-08","Wales",102
+"2022-12-08","England",4092
+"2022-12-09","England",3824
+"2022-12-09","Scotland",290
+"2022-12-09","Wales",102
+"2022-12-10","Wales",55
+"2022-12-10","England",3286
+"2022-12-10","Scotland",229
+"2022-12-11","Scotland",316
+"2022-12-11","Wales",92
+"2022-12-11","England",4223
+"2022-12-12","England",6356
+"2022-12-12","Scotland",435
+"2022-12-12","Wales",195
+"2022-12-13","Wales",166
+"2022-12-13","Scotland",462
+"2022-12-13","England",6483
+"2022-12-14","England",5962
+"2022-12-14","Scotland",408
+"2022-12-14","Wales",163
+"2022-12-15","Wales",141
+"2022-12-15","Scotland",404
+"2022-12-15","England",5549
+"2022-12-16","England",5525
+"2022-12-16","Wales",185
+"2022-12-16","Scotland",374
+"2022-12-17","Scotland",352
+"2022-12-17","Wales",118
+"2022-12-17","England",4273
+"2022-12-18","England",5212
+"2022-12-18","Wales",130
+"2022-12-18","Scotland",430
+"2022-12-19","Scotland",599
+"2022-12-19","Wales",234
+"2022-12-19","England",8240
+"2022-12-20","England",7836
+"2022-12-20","Wales",207
+"2022-12-20","Scotland",588
+"2022-12-21","Wales",190
+"2022-12-21","Scotland",570
+"2022-12-21","England",7042
+"2022-12-22","England",6241
+"2022-12-22","Wales",179
+"2022-12-22","Scotland",457
+"2022-12-23","Scotland",404
+"2022-12-23","Wales",112
+"2022-12-23","England",5225
+"2022-12-24","England",3777
+"2022-12-24","Wales",69
+"2022-12-24","Scotland",286
+"2022-12-25","Wales",32
+"2022-12-25","Scotland",280
+"2022-12-25","England",3382
+"2022-12-26","England",4499
+"2022-12-26","Scotland",350
+"2022-12-26","Wales",101
+"2022-12-27","Wales",153
+"2022-12-27","Scotland",475
+"2022-12-27","England",5977
+"2022-12-28","England",7609
+"2022-12-28","Wales",176
+"2022-12-28","Scotland",634
+"2022-12-29","Scotland",569
+"2022-12-29","Wales",196
+"2022-12-29","England",6953
+"2022-12-30","England",5524
+"2022-12-30","Wales",149
+"2022-12-30","Scotland",453
+"2022-12-31","Scotland",307
+"2022-12-31","Wales",89
+"2022-12-31","England",3891
+"2023-01-01","England",3336
+"2023-01-01","Wales",60
+"2023-01-01","Scotland",265
+"2023-01-02","Wales",89
+"2023-01-02","Scotland",332
+"2023-01-02","England",4636
+"2023-01-03","England",5739
+"2023-01-03","Scotland",409
+"2023-01-03","Wales",112
+"2023-01-04","Wales",102
+"2023-01-04","Scotland",479
+"2023-01-04","England",5009
+"2023-01-05","England",4168
+"2023-01-05","Scotland",422
+"2023-01-05","Wales",93
+"2023-01-06","Scotland",362
+"2023-01-06","Wales",76
+"2023-01-06","England",3411
+"2023-01-07","England",2416
+"2023-01-07","Wales",41
+"2023-01-07","Scotland",274
+"2023-01-08","Scotland",272
+"2023-01-08","Wales",48
+"2023-01-08","England",2501
+"2023-01-09","England",3212
+"2023-01-09","Wales",59
+"2023-01-09","Scotland",335
+"2023-01-10","Wales",71
+"2023-01-10","Scotland",244
+"2023-01-10","England",2802
+"2023-01-11","England",2372
+"2023-01-11","Wales",38
+"2023-01-11","Scotland",234
+"2023-01-12","Scotland",219
+"2023-01-12","Wales",57
+"2023-01-12","England",2204
+"2023-01-13","England",1904
+"2023-01-13","Wales",36
+"2023-01-13","Scotland",189
+"2023-01-14","Scotland",140
+"2023-01-14","Wales",31
+"2023-01-14","England",1327
+"2023-01-15","England",1673
+"2023-01-15","Scotland",156
+"2023-01-15","Wales",22
+"2023-01-16","Wales",47
+"2023-01-16","Scotland",210
+"2023-01-16","England",2307
+"2023-01-17","England",1987
+"2023-01-17","Scotland",178
+"2023-01-17","Wales",40
+"2023-01-18","Scotland",172
+"2023-01-18","Wales",47
+"2023-01-18","England",1901
+"2023-01-19","England",1808
+"2023-01-19","Scotland",161
+"2023-01-19","Wales",60
+"2023-01-20","Scotland",131
+"2023-01-20","Wales",38
+"2023-01-20","England",1699
+"2023-01-21","England",1400
+"2023-01-21","Wales",15
+"2023-01-21","Scotland",107
+"2023-01-22","Scotland",135
+"2023-01-22","Wales",24
+"2023-01-22","England",1747
+"2023-01-23","England",2382
+"2023-01-23","Wales",46
+"2023-01-23","Scotland",227
+"2023-01-24","Scotland",183
+"2023-01-24","Wales",38
+"2023-01-24","England",2550
+"2023-01-25","England",2422
+"2023-01-25","Scotland",177
+"2023-01-25","Wales",52
+"2023-01-26","Wales",47
+"2023-01-26","Scotland",159
+"2023-01-26","England",2338
+"2023-01-27","England",2270
+"2023-01-27","Wales",37
+"2023-01-27","Scotland",145
+"2023-01-28","Wales",19
+"2023-01-28","Scotland",140
+"2023-01-28","England",1802
+"2023-01-29","England",2249
+"2023-01-29","Scotland",180
+"2023-01-29","Wales",25
+"2023-01-30","Wales",66
+"2023-01-30","Scotland",220
+"2023-01-30","England",3270
+"2023-01-31","England",3280
+"2023-01-31","Scotland",210
+"2023-01-31","Wales",61
+"2023-02-01","Wales",60
+"2023-02-01","Scotland",202
+"2023-02-01","England",3214
+"2023-02-02","England",2956
+"2023-02-02","Wales",56
+"2023-02-02","Scotland",209
+"2023-02-03","Scotland",174
+"2023-02-03","Wales",46
+"2023-02-03","England",2751
+"2023-02-04","England",2223
+"2023-02-04","Scotland",149
+"2023-02-04","Wales",25
+"2023-02-05","Wales",38
+"2023-02-05","Scotland",162
+"2023-02-05","England",2616
+"2023-02-06","England",3621
+"2023-02-06","Scotland",284
+"2023-02-06","Wales",74
+"2023-02-07","Wales",58
+"2023-02-07","Scotland",264
+"2023-02-07","England",3395
+"2023-02-08","England",3335
+"2023-02-08","Wales",67
+"2023-02-08","Scotland",262
+"2023-02-09","Scotland",256
+"2023-02-09","Wales",57
+"2023-02-09","England",3043
+"2023-02-10","England",3049
+"2023-02-10","Wales",50
+"2023-02-10","Scotland",195
+"2023-02-11","Wales",37
+"2023-02-11","Scotland",144
+"2023-02-11","England",2396
+"2023-02-12","England",2920
+"2023-02-12","Scotland",222
+"2023-02-12","Wales",41
+"2023-02-13","Scotland",287
+"2023-02-13","Wales",49
+"2023-02-13","England",4547
+"2023-02-14","England",4356
+"2023-02-14","Wales",77
+"2023-02-14","Scotland",265
+"2023-02-15","Scotland",265
+"2023-02-15","Wales",92
+"2023-02-15","England",3894
+"2023-02-16","England",4005
+"2023-02-16","Wales",67
+"2023-02-16","Scotland",218
+"2023-02-17","Wales",76
+"2023-02-17","Scotland",216
+"2023-02-17","England",3780
+"2023-02-18","England",2907
+"2023-02-18","Wales",49
+"2023-02-18","Scotland",189
+"2023-02-19","Scotland",216
+"2023-02-19","Wales",49
+"2023-02-19","England",3434
+"2023-02-20","England",4552
+"2023-02-20","Scotland",286
+"2023-02-20","Wales",70
+"2023-02-21","Scotland",308
+"2023-02-21","Wales",67
+"2023-02-21","England",4326
+"2023-02-22","England",3855
+"2023-02-22","Scotland",293
+"2023-02-22","Wales",64
+"2023-02-23","Scotland",228
+"2023-02-23","Wales",72
+"2023-02-23","England",3475
+"2023-02-24","England",3112
+"2023-02-24","Wales",63
+"2023-02-24","Scotland",227
+"2023-02-25","Scotland",168
+"2023-02-25","Wales",40
+"2023-02-25","England",2529
+"2023-02-26","England",2901
+"2023-02-26","Scotland",225
+"2023-02-26","Wales",39
+"2023-02-27","Wales",97
+"2023-02-27","Scotland",327
+"2023-02-27","England",4318
+"2023-02-28","England",4147
+"2023-02-28","Wales",65
+"2023-02-28","Scotland",336
+"2023-03-01","Wales",89
+"2023-03-01","Scotland",316
+"2023-03-01","England",3972
+"2023-03-02","England",3564
+"2023-03-02","Wales",88
+"2023-03-02","Scotland",292
+"2023-03-03","Scotland",242
+"2023-03-03","Wales",59
+"2023-03-03","England",3421
+"2023-03-04","England",2572
+"2023-03-04","Wales",56
+"2023-03-04","Scotland",188
+"2023-03-05","Wales",65
+"2023-03-05","Scotland",277
+"2023-03-05","England",3155
+"2023-03-06","England",4577
+"2023-03-06","Scotland",410
+"2023-03-06","Wales",106
+"2023-03-07","Wales",127
+"2023-03-07","Scotland",327
+"2023-03-07","England",4455
+"2023-03-08","England",4318
+"2023-03-08","Scotland",323
+"2023-03-08","Wales",97
+"2023-03-09","Scotland",301
+"2023-03-09","Wales",88
+"2023-03-09","England",3961
+"2023-03-10","England",3592
+"2023-03-10","Scotland",322
+"2023-03-10","Wales",101
+"2023-03-11","Wales",72
+"2023-03-11","Scotland",274
+"2023-03-11","England",3084
+"2023-03-12","England",4026
+"2023-03-12","Scotland",333
+"2023-03-12","Wales",86
+"2023-03-13","Scotland",456
+"2023-03-13","Wales",133
+"2023-03-13","England",5289
+"2023-03-14","England",5072
+"2023-03-14","Scotland",423
+"2023-03-14","Wales",125
+"2023-03-15","Wales",101
+"2023-03-15","Scotland",403
+"2023-03-15","England",4371
+"2023-03-16","England",4351
+"2023-03-16","Wales",107
+"2023-03-16","Scotland",447
+"2023-03-17","Wales",89
+"2023-03-17","Scotland",381
+"2023-03-17","England",3717
+"2023-03-18","England",3105
+"2023-03-18","Scotland",296
+"2023-03-18","Wales",56
+"2023-03-19","Wales",50
+"2023-03-19","Scotland",384
+"2023-03-19","England",3683
+"2023-03-20","England",4730
+"2023-03-20","Scotland",474
+"2023-03-20","Wales",88
+"2023-03-21","Scotland",455
+"2023-03-21","Wales",96
+"2023-03-21","England",4747
+"2023-03-22","England",4323
+"2023-03-22","Scotland",468
+"2023-03-22","Wales",80
+"2023-03-23","Wales",72
+"2023-03-23","Scotland",400
+"2023-03-23","England",3969
+"2023-03-24","England",3744
+"2023-03-24","Wales",60
+"2023-03-24","Scotland",369
+"2023-03-25","Scotland",262
+"2023-03-25","Wales",49
+"2023-03-25","England",2748
+"2023-03-26","England",3156
+"2023-03-26","Scotland",316
+"2023-03-26","Wales",42
+"2023-03-27","Wales",83
+"2023-03-27","Scotland",407
+"2023-03-27","England",3924
+"2023-03-28","England",3597
+"2023-03-28","Wales",75
+"2023-03-28","Scotland",330
+"2023-03-29","Scotland",344
+"2023-03-29","Wales",81
+"2023-03-29","England",3438
+"2023-03-30","England",3050
+"2023-03-30","Wales",74
+"2023-03-30","Scotland",337
+"2023-03-31","Scotland",273
+"2023-03-31","Wales",78
+"2023-03-31","England",2509
+"2023-04-01","England",2083
+"2023-04-01","Scotland",232
+"2023-04-01","Wales",33
+"2023-04-02","Scotland",224
+"2023-04-02","Wales",44
+"2023-04-02","England",2249
+"2023-04-03","England",2457
+"2023-04-03","Scotland",266
+"2023-04-03","Wales",62
+"2023-04-04","Wales",54
+"2023-04-04","Scotland",274
+"2023-04-04","England",2185
+"2023-04-05","England",2237
+"2023-04-05","Scotland",293
+"2023-04-05","Wales",73
+"2023-04-06","Wales",53
+"2023-04-06","Scotland",271
+"2023-04-06","England",1965
+"2023-04-07","England",1599
+"2023-04-07","Wales",27
+"2023-04-07","Scotland",212
+"2023-04-08","Wales",27
+"2023-04-08","Scotland",157
+"2023-04-08","England",1531
+"2023-04-09","England",1643
+"2023-04-09","Wales",34
+"2023-04-09","Scotland",197
+"2023-04-10","Scotland",259
+"2023-04-10","Wales",48
+"2023-04-10","England",2133
+"2023-04-11","England",2281
+"2023-04-11","Wales",66
+"2023-04-11","Scotland",293
+"2023-04-12","Scotland",237
+"2023-04-12","Wales",53
+"2023-04-12","England",2054
+"2023-04-13","England",1880
+"2023-04-13","Wales",45
+"2023-04-13","Scotland",216
+"2023-04-14","Wales",33
+"2023-04-14","Scotland",176
+"2023-04-14","England",1553
+"2023-04-15","England",1271
+"2023-04-15","Scotland",138
+"2023-04-15","Wales",29
+"2023-04-16","Scotland",170
+"2023-04-16","Wales",31
+"2023-04-16","England",1788
+"2023-04-17","England",2060
+"2023-04-17","Scotland",235
+"2023-04-17","Wales",40
+"2023-04-18","Wales",45
+"2023-04-18","Scotland",163
+"2023-04-18","England",1803
+"2023-04-19","England",1702
+"2023-04-19","Scotland",151
+"2023-04-19","Wales",30
+"2023-04-20","Scotland",140
+"2023-04-20","Wales",37
+"2023-04-20","England",1488
+"2023-04-21","England",1343
+"2023-04-21","Scotland",124
+"2023-04-21","Wales",34
+"2023-04-22","Wales",29
+"2023-04-22","Scotland",95
+"2023-04-22","England",1190
+"2023-04-23","England",1432
+"2023-04-23","Scotland",119
+"2023-04-23","Wales",34
+"2023-04-24","Wales",47
+"2023-04-24","Scotland",153
+"2023-04-24","England",1706
+"2023-04-25","England",1604
+"2023-04-25","Wales",36
+"2023-04-25","Scotland",156
+"2023-04-26","Scotland",126
+"2023-04-26","Wales",45
+"2023-04-26","England",1569
+"2023-04-27","England",1514
+"2023-04-27","Scotland",111
+"2023-04-27","Wales",32
+"2023-04-28","Scotland",95
+"2023-04-28","Wales",29
+"2023-04-28","England",1369
+"2023-04-29","England",1211
+"2023-04-29","Wales",30
+"2023-04-29","Scotland",108
+"2023-04-30","Scotland",129
+"2023-04-30","Wales",24
+"2023-04-30","England",1240
+"2023-05-01","England",1650
+"2023-05-01","Wales",21
+"2023-05-01","Scotland",116
+"2023-05-02","Wales",40
+"2023-05-02","Scotland",146
+"2023-05-02","England",1776
+"2023-05-03","England",1525
+"2023-05-03","Wales",22
+"2023-05-03","Scotland",126
+"2023-05-04","Wales",38
+"2023-05-04","Scotland",107
+"2023-05-04","England",1478
+"2023-05-05","England",1198
+"2023-05-05","Wales",18
+"2023-05-05","Scotland",96
+"2023-05-06","England",934
+"2023-05-06","Wales",12
+"2023-05-06","Scotland",75
+"2023-05-07","Scotland",70
+"2023-05-07","England",1107
+"2023-05-07","Wales",21
+"2023-05-08","Wales",16
+"2023-05-08","Scotland",97
+"2023-05-08","England",1328
+"2023-05-09","England",1446
+"2023-05-09","Scotland",92
+"2023-05-09","Wales",32
+"2023-05-10","Wales",28
+"2023-05-10","England",1267
+"2023-05-10","Scotland",114
+"2023-05-11","Wales",20
+"2023-05-11","England",1196
+"2023-05-11","Scotland",88
+"2023-05-12","Scotland",74
+"2023-05-12","Wales",10
+"2023-05-12","England",948
+"2023-05-13","Scotland",69
+"2023-05-13","England",782
+"2023-05-13","Wales",20
+"2023-05-14","Scotland",73
+"2023-05-14","England",1030
+"2023-05-14","Wales",5
+"2023-05-15","England",1137
+"2023-05-15","Scotland",92
+"2023-05-15","Wales",15
+"2023-05-16","Scotland",77
+"2023-05-16","England",1069
+"2023-05-16","Wales",15
+"2023-05-17","England",991
+"2023-05-17","Wales",21
+"2023-05-17","Scotland",99
+"2023-05-18","Scotland",68
+"2023-05-18","England",974
+"2023-05-18","Wales",13
+"2023-05-19","England",882
+"2023-05-19","Scotland",46
+"2023-05-19","Wales",14
+"2023-05-20","England",717
+"2023-05-20","Wales",11
+"2023-05-20","Scotland",54
+"2023-05-21","Wales",17
+"2023-05-21","England",881
+"2023-05-21","Scotland",66
+"2023-05-22","Wales",23
+"2023-05-22","England",1095
+"2023-05-22","Scotland",74
+"2023-05-23","Scotland",72
+"2023-05-23","Wales",17
+"2023-05-23","England",1041
+"2023-05-24","England",921
+"2023-05-24","Wales",16
+"2023-05-24","Scotland",89
+"2023-05-25","England",821
+"2023-05-25","Wales",16
+"2023-05-25","Scotland",51
+"2023-05-26","England",707
+"2023-05-26","Scotland",53
+"2023-05-26","Wales",15
+"2023-05-27","England",567
+"2023-05-27","Scotland",46
+"2023-05-27","Wales",9
+"2023-05-28","England",594
+"2023-05-28","Scotland",52
+"2023-05-28","Wales",18
+"2023-05-29","England",746
+"2023-05-29","Wales",13
+"2023-05-29","Scotland",59
+"2023-05-30","Wales",21
+"2023-05-30","England",780
+"2023-05-30","Scotland",65
+"2023-05-31","Wales",20
+"2023-05-31","Scotland",76
+"2023-05-31","England",812
+"2023-06-01","Wales",17
+"2023-06-01","Scotland",45
+"2023-06-01","England",674
+"2023-06-02","England",578
+"2023-06-02","Scotland",51
+"2023-06-02","Wales",15
+"2023-06-03","Scotland",52
+"2023-06-03","Wales",6
+"2023-06-03","England",472
+"2023-06-04","England",614
+"2023-06-04","Wales",4
+"2023-06-04","Scotland",50
+"2023-06-05","England",806
+"2023-06-05","Wales",20
+"2023-06-05","Scotland",55
+"2023-06-06","England",757
+"2023-06-06","Scotland",79
+"2023-06-06","Wales",20
+"2023-06-07","Scotland",72
+"2023-06-07","Wales",18
+"2023-06-07","England",682
+"2023-06-08","Wales",24
+"2023-06-08","Scotland",38
+"2023-06-08","England",578
+"2023-06-09","Wales",15
+"2023-06-09","England",468
+"2023-06-09","Scotland",63
+"2023-06-10","Scotland",37
+"2023-06-10","Wales",7
+"2023-06-10","England",382
+"2023-06-11","Scotland",45
+"2023-06-11","England",516
+"2023-06-11","Wales",10
+"2023-06-12","England",584
+"2023-06-12","Wales",19
+"2023-06-12","Scotland",71
+"2023-06-13","Scotland",65
+"2023-06-13","Wales",6
+"2023-06-13","England",509
+"2023-06-14","Wales",13
+"2023-06-14","England",463
+"2023-06-14","Scotland",48
+"2023-06-15","England",385
+"2023-06-15","Scotland",50
+"2023-06-15","Wales",15
+"2023-06-16","Scotland",41
+"2023-06-16","England",340
+"2023-06-16","Wales",12
+"2023-06-17","Wales",2
+"2023-06-17","Scotland",46
+"2023-06-17","England",333
+"2023-06-18","Scotland",28
+"2023-06-18","Wales",9
+"2023-06-18","England",350
+"2023-06-19","Scotland",42
+"2023-06-19","England",421
+"2023-06-19","Wales",4
+"2023-06-20","England",396
+"2023-06-20","Wales",9
+"2023-06-20","Scotland",31
+"2023-06-21","Wales",6
+"2023-06-21","England",371
+"2023-06-21","Scotland",32
+"2023-06-22","Scotland",27
+"2023-06-22","England",346
+"2023-06-22","Wales",25
+"2023-06-23","Wales",8
+"2023-06-23","England",289
+"2023-06-23","Scotland",29
+"2023-06-24","Wales",2
+"2023-06-24","England",259
+"2023-06-24","Scotland",24
+"2023-06-25","England",303
+"2023-06-25","Scotland",24
+"2023-06-25","Wales",6
+"2023-06-26","Wales",13
+"2023-06-26","England",306
+"2023-06-26","Scotland",28
+"2023-06-27","Scotland",26
+"2023-06-27","England",295
+"2023-06-27","Wales",9
+"2023-06-28","England",297
+"2023-06-28","Wales",9
+"2023-06-28","Scotland",33
+"2023-06-29","Scotland",29
+"2023-06-29","England",252
+"2023-06-29","Wales",7
+"2023-06-30","Scotland",26
+"2023-06-30","England",236
+"2023-06-30","Wales",8
+"2023-07-01","England",209
+"2023-07-01","Scotland",24
+"2023-07-01","Wales",6
+"2023-07-02","England",264
+"2023-07-02","Scotland",25
+"2023-07-02","Wales",11
+"2023-07-03","Wales",14
+"2023-07-03","England",346
+"2023-07-03","Scotland",29
+"2023-07-04","England",309
+"2023-07-04","Scotland",37
+"2023-07-04","Wales",6
+"2023-07-05","Wales",11
+"2023-07-05","Scotland",44
+"2023-07-05","England",345
+"2023-07-06","Wales",12
+"2023-07-06","Scotland",47
+"2023-07-06","England",316
+"2023-07-07","England",350
+"2023-07-07","Scotland",39
+"2023-07-07","Wales",12
+"2023-07-08","Scotland",22
+"2023-07-08","England",308
+"2023-07-08","Wales",11
+"2023-07-09","Scotland",29
+"2023-07-09","England",392
+"2023-07-09","Wales",8
+"2023-07-10","Wales",10
+"2023-07-10","Scotland",35
+"2023-07-10","England",457
+"2023-07-11","England",450
+"2023-07-11","Wales",13
+"2023-07-11","Scotland",39
+"2023-07-12","Scotland",48
+"2023-07-12","Wales",12
+"2023-07-12","England",418
+"2023-07-13","Wales",10
+"2023-07-13","Scotland",47
+"2023-07-13","England",417
+"2023-07-14","Scotland",43
+"2023-07-14","Wales",6
+"2023-07-14","England",340
+"2023-07-15","Wales",11
+"2023-07-15","England",338
+"2023-07-15","Scotland",36
+"2023-07-16","England",383
+"2023-07-16","Scotland",32
+"2023-07-16","Wales",9
+"2023-07-17","Scotland",69
+"2023-07-17","Wales",22
+"2023-07-17","England",491
+"2023-07-18","Scotland",63
+"2023-07-18","Wales",19
+"2023-07-18","England",518
+"2023-07-19","Scotland",53
+"2023-07-19","Wales",17
+"2023-07-19","England",467
+"2023-07-20","Scotland",55
+"2023-07-20","England",497
+"2023-07-20","Wales",24
+"2023-07-21","England",444
+"2023-07-21","Wales",16
+"2023-07-21","Scotland",53
+"2023-07-22","Scotland",40
+"2023-07-22","Wales",15
+"2023-07-22","England",412
+"2023-07-23","England",493
+"2023-07-23","Scotland",47
+"2023-07-23","Wales",10
+"2023-07-24","England",630
+"2023-07-24","Scotland",67
+"2023-07-24","Wales",19
+"2023-07-25","Wales",27
+"2023-07-25","Scotland",82
+"2023-07-25","England",646
+"2023-07-26","England",622
+"2023-07-26","Scotland",81
+"2023-07-26","Wales",29
+"2023-07-27","England",629
+"2023-07-27","Wales",28
+"2023-07-27","Scotland",56
+"2023-07-28","Scotland",83
+"2023-07-28","England",625
+"2023-07-28","Wales",33
+"2023-07-29","Wales",21
+"2023-07-29","Scotland",70
+"2023-07-29","England",629
+"2023-07-30","Wales",28
+"2023-07-30","England",752
+"2023-07-30","Scotland",90
+"2023-07-31","Wales",37
+"2023-07-31","England",846
+"2023-07-31","Scotland",85
+"2023-08-01","England",845
+"2023-08-01","Wales",27
+"2023-08-01","Scotland",97
+"2023-08-02","England",820
+"2023-08-02","Scotland",98
+"2023-08-02","Wales",24
+"2023-08-03","Wales",36
+"2023-08-03","England",807
+"2023-08-03","Scotland",87
+"2023-08-04","Scotland",105
+"2023-08-04","England",770
+"2023-08-04","Wales",32
+"2023-08-05","England",681
+"2023-08-05","Wales",21
+"2023-08-05","Scotland",92
+"2023-08-06","England",827
+"2023-08-06","Wales",34
+"2023-08-06","Scotland",102
+"2023-08-07","Scotland",119
+"2023-08-07","Wales",46
+"2023-08-07","England",1016
+"2023-08-08","Wales",61
+"2023-08-08","Scotland",145
+"2023-08-08","England",1087
+"2023-08-09","England",1029
+"2023-08-09","Wales",56
+"2023-08-09","Scotland",160
+"2023-08-10","Wales",51
+"2023-08-10","Scotland",145
+"2023-08-10","England",990
+"2023-08-11","Scotland",136
+"2023-08-11","England",917
+"2023-08-11","Wales",51
+"2023-08-12","Wales",27
+"2023-08-12","England",851
+"2023-08-12","Scotland",147
+"2023-08-13","Scotland",128
+"2023-08-13","England",974
+"2023-08-13","Wales",23
+"2023-08-14","England",1098
+"2023-08-14","Wales",63
+"2023-08-14","Scotland",174
+"2023-08-15","Scotland",179
+"2023-08-15","Wales",44
+"2023-08-15","England",1091
+"2023-08-16","England",1069
+"2023-08-16","Wales",43
+"2023-08-16","Scotland",194
+"2023-08-17","Scotland",179
+"2023-08-17","Wales",35
+"2023-08-17","England",1043
+"2023-08-18","Scotland",149
+"2023-08-18","England",990
+"2023-08-18","Wales",34
+"2023-08-19","Wales",32
+"2023-08-19","England",848
+"2023-08-19","Scotland",147
+"2023-08-20","England",962
+"2023-08-20","Wales",30
+"2023-08-20","Scotland",175
+"2023-08-21","Scotland",220
+"2023-08-21","England",1176
+"2023-08-21","Wales",52
+"2023-08-22","Wales",46
+"2023-08-22","England",1167
+"2023-08-22","Scotland",225
+"2023-08-23","Scotland",214
+"2023-08-23","Wales",51
+"2023-08-23","England",1090
+"2023-08-24","England",1094
+"2023-08-24","Scotland",192
+"2023-08-24","Wales",27
+"2023-08-25","Wales",34
+"2023-08-25","Scotland",191
+"2023-08-25","England",973
+"2023-08-26","Wales",28
+"2023-08-26","Scotland",149
+"2023-08-26","England",850
+"2023-08-27","Scotland",175
+"2023-08-27","Wales",35
+"2023-08-27","England",894
+"2023-08-28","England",1081
+"2023-08-28","Wales",28
+"2023-08-28","Scotland",218
+"2023-08-29","England",1352
+"2023-08-29","Wales",63
+"2023-08-29","Scotland",223
+"2023-08-30","Wales",52
+"2023-08-30","England",1470
+"2023-08-30","Scotland",277
+"2023-08-31","Wales",44
+"2023-08-31","Scotland",256
+"2023-08-31","England",1420
+"2023-09-01","England",1465
+"2023-09-01","Wales",39
+"2023-09-01","Scotland",208
+"2023-09-02","Wales",37
+"2023-09-02","England",1279
+"2023-09-02","Scotland",204
+"2023-09-03","Wales",29
+"2023-09-03","England",1575
+"2023-09-03","Scotland",233
+"2023-09-04","Wales",50
+"2023-09-04","England",1836
+"2023-09-04","Scotland",280
+"2023-09-05","Scotland",284
+"2023-09-05","Wales",49
+"2023-09-05","England",1562
+"2023-09-06","Scotland",240
+"2023-09-06","Wales",3
+"2023-09-06","England",1065
+"2023-09-07","England",1697
+"2023-09-07","Wales",32
+"2023-09-07","Scotland",223
+"2023-09-08","England",1536
+"2023-09-08","Scotland",184
+"2023-09-08","Wales",57
+"2023-09-09","England",1323
+"2023-09-09","Wales",38
+"2023-09-09","Scotland",161
+"2023-09-10","Wales",34
+"2023-09-10","Scotland",153
+"2023-09-10","England",1576
+"2023-09-11","Scotland",237
+"2023-09-11","England",1813
+"2023-09-11","Wales",38
+"2023-09-12","Wales",50
+"2023-09-12","Scotland",174
+"2023-09-12","England",1665
+"2023-09-13","England",1503
+"2023-09-13","Scotland",151
+"2023-09-13","Wales",32
+"2023-09-14","Wales",52
+"2023-09-14","Scotland",133
+"2023-09-14","England",1526
+"2023-09-15","Scotland",165
+"2023-09-15","Wales",48
+"2023-09-15","England",1328
+"2023-09-16","Wales",27
+"2023-09-16","Scotland",89
+"2023-09-16","England",1304
+"2023-09-17","Scotland",128
+"2023-09-17","England",1591
+"2023-09-17","Wales",22
+"2023-09-18","England",1901
+"2023-09-18","Scotland",179
+"2023-09-18","Wales",52
+"2023-09-19","England",1909
+"2023-09-19","Wales",50
+"2023-09-19","Scotland",201
+"2023-09-20","England",1858
+"2023-09-20","Wales",55
+"2023-09-20","Scotland",171
+"2023-09-21","Wales",35
+"2023-09-21","England",1788
+"2023-09-21","Scotland",142
+"2023-09-22","Wales",47
+"2023-09-22","England",1632
+"2023-09-22","Scotland",155
+"2023-09-23","Wales",30
+"2023-09-23","Scotland",130
+"2023-09-23","England",1508
+"2023-09-24","Wales",27
+"2023-09-24","Scotland",142
+"2023-09-24","England",1960
+"2023-09-25","England",2351
+"2023-09-25","Wales",44
+"2023-09-25","Scotland",175
+"2023-09-26","Scotland",207
+"2023-09-26","Wales",41
+"2023-09-26","England",1716
+"2023-09-27","Wales",3
+"2023-09-27","Scotland",166
+"2023-09-27","England",2667
+"2023-09-28","England",2318
+"2023-09-28","Wales",60
+"2023-09-28","Scotland",166
+"2023-09-29","Scotland",163
+"2023-09-29","Wales",40
+"2023-09-29","England",2125
+"2023-09-30","Wales",33
+"2023-09-30","England",1928
+"2023-09-30","Scotland",134
+"2023-10-01","Wales",43
+"2023-10-01","England",2360
+"2023-10-01","Scotland",156
+"2023-10-02","Wales",73
+"2023-10-02","England",2645
+"2023-10-03","Wales",76
+"2023-10-03","England",2658
+"2023-10-04","Wales",58
+"2023-10-04","England",2448
+"2023-10-05","Wales",50
+"2023-10-05","England",2252
+"2023-10-06","England",2116
+"2023-10-06","Wales",62
+"2023-10-07","England",1666
+"2023-10-07","Wales",31
+"2023-10-08","England",2068
+"2023-10-08","Wales",45
+"2023-10-09","England",2234
+"2023-10-09","Wales",78
+"2023-10-10","Wales",61
+"2023-10-10","England",2027
+"2023-10-11","England",1894
+"2023-10-11","Wales",59
+"2023-10-12","Wales",43
+"2023-10-12","England",1543
+"2023-10-13","England",1467
+"2023-10-13","Wales",60
+"2023-10-14","Wales",26
+"2023-10-14","England",1120
+"2023-10-15","England",1219
+"2023-10-15","Wales",19
+"2023-10-16","Wales",39
+"2023-10-16","England",1445
+"2023-10-17","Wales",39
+"2023-10-17","England",1411
+"2023-10-18","England",1395
+"2023-10-18","Wales",34
+"2023-10-19","Wales",38
+"2023-10-19","England",1319
+"2023-10-20","Wales",37
+"2023-10-20","England",1145
+"2023-10-21","Wales",17
+"2023-10-21","England",868
+"2023-10-22","Wales",20
+"2023-10-22","England",988
+"2023-10-23","Wales",33
+"2023-10-23","England",1175
+"2023-10-24","England",1150
+"2023-10-24","Wales",48
+"2023-10-25","England",1016
+"2023-10-25","Wales",37
+"2023-10-26","Wales",35
+"2023-10-26","England",1012
+"2023-10-27","Wales",34
+"2023-10-27","England",930
+"2023-10-28","England",734
+"2023-10-28","Wales",25
+"2023-10-29","England",844
+"2023-10-29","Wales",24
+"2023-10-30","England",1009
+"2023-10-30","Wales",44
+"2023-10-31","England",948
+"2023-10-31","Wales",35
+"2023-11-01","Wales",27
+"2023-11-01","England",859
+"2023-11-02","England",806
+"2023-11-02","Wales",23
+"2023-11-03","England",728
+"2023-11-03","Wales",30
+"2023-11-04","Wales",13
+"2023-11-04","England",586
+"2023-11-05","Wales",14
+"2023-11-05","England",682
+"2023-11-06","England",773
+"2023-11-06","Wales",32
+"2023-11-07","England",806
+"2023-11-07","Wales",27
+"2023-11-08","England",688
+"2023-11-08","Wales",32
+"2023-11-09","Wales",26
+"2023-11-09","England",493
+"2023-11-10","England",276
+"2023-11-10","Wales",19
+"2023-11-11","England",284
+"2023-11-11","Wales",14
+"2023-11-12","England",591
+"2023-11-12","Wales",9
+"2023-11-13","England",734
+"2023-11-13","Wales",18
+"2023-11-14","Wales",27
+"2023-11-14","England",750
+"2023-11-15","Wales",22
+"2023-11-15","England",622
+"2023-11-16","England",662
+"2023-11-16","Wales",18
+"2023-11-17","England",510
+"2023-11-17","Wales",21
+"2023-11-18","Wales",18
+"2023-11-18","England",445
+"2023-11-19","England",545
+"2023-11-19","Wales",25
+"2023-11-20","Wales",33
+"2023-11-20","England",689
+"2023-11-21","England",570
+"2023-11-21","Wales",23
+"2023-11-22","England",604
+"2023-11-22","Wales",17
+"2023-11-23","Wales",24
+"2023-11-23","England",560
+"2023-11-24","England",543
+"2023-11-24","Wales",13
+"2023-11-25","Wales",10
+"2023-11-25","England",418
+"2023-11-26","England",502
+"2023-11-26","Wales",7
+"2023-11-27","England",666
+"2023-11-27","Wales",18
+"2023-11-28","England",660
+"2023-11-28","Wales",32
+"2023-11-29","Wales",32
+"2023-11-29","England",680
+"2023-11-30","Wales",15
+"2023-11-30","England",635
+"2023-12-01","Wales",17
+"2023-12-01","England",515
+"2023-12-02","Wales",10
+"2023-12-02","England",488
+"2023-12-03","Wales",21
+"2023-12-03","England",667
+"2023-12-04","Wales",22
+"2023-12-04","England",862
+"2023-12-05","England",770
+"2023-12-05","Wales",14
+"2023-12-06","Wales",1
+"2023-12-06","England",498
+"2023-12-07","Wales",35
+"2023-12-07","England",807
+"2023-12-08","England",882
+"2023-12-08","Wales",37
+"2023-12-09","Wales",18
+"2023-12-09","England",771
+"2023-12-10","Wales",21
+"2023-12-10","England",947
+"2023-12-11","England",1183
+"2023-12-11","Wales",49
+"2023-12-12","Wales",36
+"2023-12-12","England",1040
+"2023-12-13","Wales",0
+"2023-12-13","England",583
