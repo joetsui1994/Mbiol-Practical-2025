@@ -1,6 +1,7 @@
 # Mbiol-2025 Practical on Epidemiological surveillance and modelling as part of Year 2 Genomics and Host-microbe Interactions.
 
 Dates: January 30th/31st, 14:00-17:00, Computer Suite, South Parks Road
+
 Dates: February 3rd/4th, 14:00-17:00, Computer Suite, South Parks Road
 
 Practical I: Epidemiological surveillance and modelling(non-spatial) - handouts are available in this repository.
