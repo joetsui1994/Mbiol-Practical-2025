@@ -17,7 +17,7 @@ The practical will start with a short 15-20 minute presentation by the course co
 
 There will be a 15 minute break after ca. 1h ½.
 
-```{r Load required packages,echo=FALSE}
+```{r Load required packages,echo=TRUE}
 library(knitr)
 library(rmarkdown)
 library(dplyr)
