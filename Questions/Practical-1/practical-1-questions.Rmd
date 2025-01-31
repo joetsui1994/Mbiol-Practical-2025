@@ -32,7 +32,7 @@ library(incidence)
 
 #### Q2: What are some of the challenges with public health surveillance at the beginning of disease outbreaks? (ca. 5 minutes)
 
-#### Q3: Describe, in your own words, what the time-varying reprdocution number Rt represents? Further, list the data sources necessary to estimate Rt? Focus on main manuscript and high level insights (ca. 20 minutes). Reading: Anne Cori, Neil M. Ferguson, Christophe Fraser, Simon Cauchemez, A New Framework and Software to Estimate Time-Varying Reproduction Numbers During Epidemics, American Journal of Epidemiology, Volume 178, Issue 9, 1 November 2013, Pages 1505--1512, <https://doi.org/10.1093/aje/kwt133>
+#### Q3: Describe, in your own words, what the time-varying reproduction number Rt represents? Further, list the data sources necessary to estimate Rt? Focus on main manuscript and high level insights (ca. 20 minutes). Reading: Anne Cori, Neil M. Ferguson, Christophe Fraser, Simon Cauchemez, A New Framework and Software to Estimate Time-Varying Reproduction Numbers During Epidemics, American Journal of Epidemiology, Volume 178, Issue 9, 1 November 2013, Pages 1505--1512, <https://doi.org/10.1093/aje/kwt133>
 
 #### Q4: Downloading national COVID-19 cases data (England).
 
@@ -148,8 +148,8 @@ What is the significance of a shorter serial interval? (ca. 5 minutes)
 
 Now having both the variant-specific incidence data and the SI parameters, we can estimate Rt for each variant separately by following the same steps as in Q6. Uncomment (remove `#` symbol) and enter an appropriate earliest cut-off date of the time window as determined in Q8. Make sure to replace the first argument in `estimate_R` with the correct dataframe and column name. Visualise the results and describe what you see. (ca. 10 minutes)
 
-```{r Estimate variant Rt, echo=TRUE, fig.keep = "none"}
-left_limit.date <- as.Date('2021-11-20')
+```{r Estimate variant Rt, echo=TRUE, fig.keep = "none", eval=FALSE}
+# left_limit.date <- as.Date("<cut-off-date>")
 
 omicron_res_parametric_si <- estimate_R(omicron.incidence.df[omicron.incidence.df$date >= left_limit.date,]$estCases, method="parametric_si", config = make_config(list(mean_si = 3.5, std_si = 2.4)))
 # Extract the estimates time-varying reproduction numbers
@@ -208,7 +208,7 @@ ggplot() +
 
 Having adjusted for case importation, we can now re-estimate Rt for the Omicron variant following the same steps as before. Visualise both the original and adjusted Rt estimates and describe what you see. Is there a difference following the adjustment, and if yes, can you explain why? (ca. 10 minutes)
 
-```{r, fig.keep = "none"}
+```{r, fig.keep = "none", eval=FALSE}
 omicron_res_with_imports <- estimate_R(adjusted.incidence.df[adjusted.incidence.df$date >= left_limit.date,], method = "parametric_si", config = make_config(list(mean_si = 3.5, std_si = 2.4)))
 omicron_res_with_imports_R <- omicron_res_with_imports[["R"]]
 omicron_res_with_imports_R <- omicron_res_with_imports_R %>% mutate(t_end = t_end + as.integer(left_limit.date - min(dat$date)))

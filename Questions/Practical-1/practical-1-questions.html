@@ -382,8 +382,8 @@ pros and cons? Name 4 at most. (ca. 15 minutes)</h4>
 <h4>Q2: What are some of the challenges with public health surveillance
 at the beginning of disease outbreaks? (ca. 5 minutes)</h4>
 </div>
-<div id="q3-describe-in-your-own-words-what-the-time-varying-reprdocution-number-rt-represents-further-list-the-data-sources-necessary-to-estimate-rt-focus-on-main-manuscript-and-high-level-insights-ca.-20-minutes.-reading-anne-cori-neil-m.-ferguson-christophe-fraser-simon-cauchemez-a-new-framework-and-software-to-estimate-time-varying-reproduction-numbers-during-epidemics-american-journal-of-epidemiology-volume-178-issue-9-1-november-2013-pages-15051512-httpsdoi.org10.1093ajekwt133" class="section level4">
-<h4>Q3: Describe, in your own words, what the time-varying reprdocution
+<div id="q3-describe-in-your-own-words-what-the-time-varying-reproduction-number-rt-represents-further-list-the-data-sources-necessary-to-estimate-rt-focus-on-main-manuscript-and-high-level-insights-ca.-20-minutes.-reading-anne-cori-neil-m.-ferguson-christophe-fraser-simon-cauchemez-a-new-framework-and-software-to-estimate-time-varying-reproduction-numbers-during-epidemics-american-journal-of-epidemiology-volume-178-issue-9-1-november-2013-pages-15051512-httpsdoi.org10.1093ajekwt133" class="section level4">
+<h4>Q3: Describe, in your own words, what the time-varying reproduction
 number Rt represents? Further, list the data sources necessary to
 estimate Rt? Focus on main manuscript and high level insights (ca. 20
 minutes). Reading: Anne Cori, Neil M. Ferguson, Christophe Fraser, Simon
@@ -529,7 +529,7 @@ enter an appropriate earliest cut-off date of the time window as
 determined in Q8. Make sure to replace the first argument in
 <code>estimate_R</code> with the correct dataframe and column name.
 Visualise the results and describe what you see. (ca. 10 minutes)</p>
-<pre class="r"><code>left_limit.date &lt;- as.Date(&#39;2021-11-20&#39;)
+<pre class="r"><code># left_limit.date &lt;- as.Date(&quot;&lt;cut-off-date&gt;&quot;)
 
 omicron_res_parametric_si &lt;- estimate_R(omicron.incidence.df[omicron.incidence.df$date &gt;= left_limit.date,]$estCases, method=&quot;parametric_si&quot;, config = make_config(list(mean_si = 3.5, std_si = 2.4)))
 # Extract the estimates time-varying reproduction numbers
