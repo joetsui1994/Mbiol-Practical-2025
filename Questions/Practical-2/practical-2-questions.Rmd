@@ -11,7 +11,7 @@ fontsize: 11pt
 knitr::opts_chunk$set(echo = TRUE, message=FALSE, warning=FALSE, fig.path='Figs/', fig.width=10, fig.height=8, root.dir = '')
 ```
 
-Pathogens move between different geographical units because of movements of animals or humans or other hosts. Spatial patterns of infectious disease transmission arise from heterogeneity in the landscape in which transmission occurs. In large and dense cities, for example, transmission intensity tends to be higher compared to rural areas. Spatial dispersal in ecology and epidemiology is often approximated by an exponential distribution, with the probability of transmission decaying with increasing distance \(\propto exp(-d/a)\), where \(a\) is a shape parameter or Gaussian kernel and \(d\) is the distance between locations of interest.
+Pathogens move between different geographical units because of movements of animals or humans or other hosts. Spatial patterns of infectious disease transmission arise from heterogeneity in the landscape in which transmission occurs. In large and dense cities, for example, transmission intensity tends to be higher compared to rural areas. Spatial dispersal in ecology and epidemiology is often approximated by an exponential distribution, with the probability of transmission decaying with increasing distance \(\propto exp(-d/a)\), where \(a\) is a shape parameter (intrinsic to the pathogen or conditions for transmission) and \(d\) is the distance between locations of interest.
 
 For infectious diseases spreading among human populations, spatial dispersal rarely follows a continuous, uniform expansion. Instead, it is often shaped by the spatial organisation of cities and towns. Emerging infectious diseases, for example, tend to appear first in large urban agglomerations connected via air travel and subsequently spread to other major cities and rural counties, following patterns of local human movement. For the UK, for instance, the SARS-CoV-2 Omicron variant was first detected in London, a major hub for international travellers.
 
@@ -163,7 +163,7 @@ mean(foi)
 
 Here our outcome is infection status in year 1995 and we want to know which one out of the following is the better predictor, using logistic regression (because our outcome is binary):
 
-- Likelihood of becoming infected which is calculated by the connectivity of an uninfected plant to infected plants (spmod in code)
+- Likelihood of becoming infected which is calculated by the connectivity of an uninfected plant to infected plants (spmod_exp in code)
 
 - No information about connectivity between uninfected and infected plants (nullmod in code)
 
@@ -187,11 +187,11 @@ for(i in 1:length(a)){
 ###################################################
 ahat = a[which.min(llik)]
 foi = apply(exp(-dst/ahat)*filipendula$y94,2,sum)
-spmod = glm(y95~foi, family = binomial(), data = filipendula)
+spmod_exp = glm(y95~foi, family = binomial(), data = filipendula)
 nullmod = glm(y95~1, family = binomial(), data = filipendula)
-# Correct the df of the spmod
-spmod$df.residual = spmod$df.residual-1
-anova(nullmod, spmod, test = "Chisq")
+# Correct the df of the spmod_exp
+spmod_exp$df.residual = spmod_exp$df.residual-1
+anova(nullmod, spmod_exp, test = "Chisq")
 ```
 
 #### Q6: We are now interested in whether a Gaussian kernel may be better in approximating the dispersal. To do so we create another model in which the force of infection is calculated using the Gaussian shape rather than exponential (see introduction).
@@ -217,8 +217,8 @@ for (i in 1:length(a2)) {
 }
 ahat2 = a2[which.min(llik2)]
 foi2 = apply(exp(-(dst/ahat2)^2) * filipendula$y94, 2, sum)
-spmod2 = glm(y95 ~ foi2, family = binomial(), data = filipendula)
-spmod2$df.residual = spmod2$df.residual - 1
+spmod_gaussian = glm(y95 ~ foi2, family = binomial(), data = filipendula)
+spmod_gaussian$df.residual = spmod_gaussian$df.residual - 1
 
 ###################################################
 curve((2/(ahat2 * gamma(1/2))) * exp(-((x/ahat2)^2)), 0, 10,
@@ -228,25 +228,25 @@ legend("topright", c("Exponential", "Gaussian"), lty = c(1, 2),
     col = c(1, 2))
 
 ###################################################
-spmod$aic
-spmod2$aic
+spmod_exp$aic
+spmod_gaussian$aic
 ```
 
 #### Q7: Human mobility and its impact on spatial dispersal of epidemics.
 
 The diffusion of human pathogens rarely follows simple patterns that can be approximated by the exponential or Gaussian kernels discussed above. The patterns of human mobility are more complex and follow patterns of transportation and human population aggregation. For example, it is more likely to travel to and from major population aggregation than to rural areas, even if the rural areas are closer to an individual's home location. Consider the case of Oxford: on average people living in Oxford are more likely to travel to and from London than travel to let's say, Cirencester. Cirencester is closer to Oxford but travel there via train takes ~2h, vs. 1h to central London. Chichester's population is about 20k vs. London's population is currently estimated at > 8M. So it is no surprise that human mobility patterns today are not strictly determined by distance.
 
-Models approximating these data usually take into account the population of the origin and destination location, distance or travel time between them, and any other variables that may influence travel patterns such as the attractiveness of a population (shopping and work opportunities in cities). For the purpose of our practical we will consider the simplest of these models which is the Gravity model (Erlander and Stewart 1990: [https://books.google.co.uk/books/about/The_Gravity_Model_in_Transportation_Anal.html?id=tId3PU1leR8C&redir_esc=y](https://books.google.co.uk/books/about/The_Gravity_Model_in_Transportation_Anal.html?id=tId3PU1leR8C&redir_esc=y)). The gravity model posits that movement volume between two communities depends inversely on distance, d, but bilinearly on the size, N, of the communities considered. More generally the model can be written as: \(T_{ij}= \frac{N_i^aN_j^b}{d_{ij}^c}\) where \(T_{ij}\) is the travel volume between locations \(i\) and \(j\), \(N_i^a\) is the population at origin location \(i\), \(N_j^b\) is the population of destination location j and \(d_{ij}^c\) is the distance between \(i\) and \(j\). \(d_{ij}^c\) could also be the travel time between \(i\) and \(j\). \(a\), \(b\), \(c\) are parameters fitted using empirical data.
+Models approximating these data usually take into account the population of the origin and destination location, distance or travel time between them, and any other variables that may influence travel patterns such as the attractiveness of a population (shopping and work opportunities in cities). For the purpose of our practical we will consider the simplest of these models which is the Gravity model (Erlander and Stewart 1990: [https://books.google.co.uk/books/about/The_Gravity_Model_in_Transportation_Anal.html?id=tId3PU1leR8C&redir_esc=y](https://books.google.co.uk/books/about/The_Gravity_Model_in_Transportation_Anal.html?id=tId3PU1leR8C&redir_esc=y)). The gravity model posits that movement volume between two communities depends inversely on distance, d, but bilinearly on the size, N, of the communities considered. More generally the model can be written as: \(T_{ij}= \frac{N_i^aN_j^b}{d_{ij}^c}\) where \(T_{ij}\) is the travel volume between locations \(i\) and \(j\), \(N_i^a\) is the population at origin location \(i\), \(N_j^b\) is the population of destination location j and \(d_{ij}^c\) is the distance between \(i\) and \(j\). \(d_{ij}^c\) could also be the travel time between \(i\) and \(j\). \(a\), \(b\), \(c\) are parameters inferred by fitting the model to empirical data (observed human mobility patterns, e.g., number of trips per day between locations).
 
 Using a previously developed model by [Viboud et al. 2006](https://www.science.org/doi/10.1126/science.1125237) for the spatial spread of influenza in and between US cities, we will consider a simple version of the SIR model ignoring any susceptible recruitment (no births or deaths): 
 
-\(\frac{dS_i}{dt} = -(\beta I_i + \sum_{j\neq i}l_{j,i}I_j)S_i\)
+\(\frac{dS_i}{dt} = -(\beta I_i + \sum_{j\neq i}t_{j,i}I_j)S_i\)
 
-\(\frac{dI_i}{dt} = (\beta I_i + \sum_{j\neq i}l_{j,i}I_j)S_i-\gamma I_i\)
+\(\frac{dI_i}{dt} = (\beta I_i + \sum_{j\neq i}t_{j,i}I_j)S_i-\gamma I_i\)
 
 \(\frac{dR_i}{dt} = \gamma I_i\)
 
-where \(l_{j,i}I_j\) is the gravity-weighted force of infection exerted by location \(j\) on location \(i\). \(\beta\) is the transmission coefficient, \(I\) is number of infected individuals, \(S\) number of susceptibles, and \(\gamma\) is the recovery rate.
+where \(t_{j,i}I_j\) is the gravity-weighted force of infection exerted by location \(j\) on location \(i\), with \(t_{j,i}=T_{j,i}/P_i\) where \(P_i\) is the population size of location \(i\). \(\beta\) is the transmission coefficient, \(I\) is number of infected individuals, \(S\) number of susceptibles, and \(\gamma\) is the recovery rate.
 
 Please use links provided in the text above and any other online resources to describe in your own words the Gravity model and the basic intuition behind it.
 
